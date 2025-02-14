@@ -1,6 +1,6 @@
 import os
 import time
-from _functions.chromelib import webdriver, Service, Options
+from _functions.chromelib import WebDriverWait, Service, Options, webdriver
 
 def download_files(*download_links, camp, raiz):
     destination_folder = os.path.join(raiz, "Downloads", camp)
@@ -24,12 +24,8 @@ def download_files(*download_links, camp, raiz):
     chrome_options.add_argument('--silent')
     chrome_options.add_argument('--disable-logging')
     
-    # Create service object with log output suppressed
-    service = Service('C://chromedriver-win64//chromedriver.exe')
-    service.creation_flags = 0x08000000
-
-    # Initialize the Chrome driver
-    driver = webdriver.Chrome(service=service, options=chrome_options)
+    # Initialize the undetected Chrome driver
+    driver = webdriver.Chrome(options=chrome_options)
 
     # Function to wait for downloads to complete
     def wait_for_downloads_to_complete(download_folder, expected_files, timeout=300):
@@ -64,5 +60,4 @@ def download_files(*download_links, camp, raiz):
     # Wait for all downloads to complete
     wait_for_downloads_to_complete(destination_folder, expected_files)
 
-    # Close the browser
     driver.quit()

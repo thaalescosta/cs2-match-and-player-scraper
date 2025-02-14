@@ -14,23 +14,28 @@ T SIDE = 3
 
 raiz = os.getcwd()
 
-id_event = ["7909", "7903", "7524", "7557"]
+# id_event = ["7909", "7903", "7524", "7557"]
+id_event = ["7909", "7903"]
+
+match_urls, camp, camp_var = get_urls(7909)
+
+print(f"{match_urls}\n{camp}\n{camp_var}")
 
 for id in id_event:
     # OBTER URL DE TODOS OS JOGOS DO CAMPEONATO
     match_urls, camp, camp_var = get_urls(id)
 
-    # # OBTER A ID CORRESPONDENTE A CADA CONFRONTO
-    # match_ids = get_match_ids(*match_urls) 
+    # OBTER A ID CORRESPONDENTE A CADA CONFRONTO
+    match_ids = get_match_ids(*match_urls) 
 
-    # # OBTER O LINK DE DOWNLOAD DAS DEMOS CADA CONFRONTO
-    # download_links = api_request(*match_ids)
+    # OBTER O LINK DE DOWNLOAD DAS DEMOS CADA CONFRONTO
+    download_links = api_request(*match_ids)
 
-    # # BAIXAR OS ARQUIVOS .RAR DAS DEMOS
-    # download_files(*download_links, camp=camp, raiz=raiz)
+    # BAIXAR OS ARQUIVOS .RAR DAS DEMOS
+    download_files(*download_links, camp=camp, raiz=raiz)
 
-    # # EXTRAIR OS ARQUIVOS .RAR
-    # unrar(camp=camp)
+    # EXTRAIR OS ARQUIVOS .RAR
+    unrar(camp=camp)
 
     demos_path = os.path.join(raiz,"Demos")
     demos_path = os.path.join(demos_path,camp)
