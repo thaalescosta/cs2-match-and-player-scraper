@@ -1,3 +1,7 @@
+#
+# Just a simple function to get the chrome options for the selenium webdriver.
+#
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -18,7 +22,7 @@ def get_chrome_options():
     chrome_options.add_argument('--incognito')
     chrome_options.add_argument('--no-sandbox')
 
-    # Create service object with log output suppressed
+    # Create service object with log output suppressed (getting rid of that DevTools is listening ...)
     service = Service('C://chromedriver-win64//chromedriver.exe')
     service.creation_flags = 0x08000000  # Suppress console window
 

@@ -3,8 +3,12 @@ import rarfile
 from tqdm import tqdm  # Import tqdm for progress bar
 
 def unrar(camp):
-    # Explicitly set the path to the unrar executable (if needed)
-    rarfile.UNRAR_TOOL = "C:/unrar-ia64/unrar.exe"  # For Windows
+    # 
+    '''
+    Set the path to the unrar executable
+    Download the UnRAR from https://www.rarlab.com/rar/unrarw64.exe and extract it to a folder
+    '''
+    rarfile.UNRAR_TOOL = "C:/unrar-ia64/unrar.exe"  # Path for the unrar executable
 
     # Define the source folder containing .rar files and the destination folder
     source_folder = f'./Downloads/{camp}'
@@ -17,15 +21,13 @@ def unrar(camp):
     # Get the list of .rar files
     rar_files = [f for f in os.listdir(source_folder) if f.endswith('.rar')]
 
-    # Iterate over all .rar files with a progress bar
+    # Iteration to update the progress bar
     for filename in tqdm(rar_files, desc="Demo unpacking", unit="file"):
-        # Construct the full file path
         rar_path = os.path.join(source_folder, filename)
         
         try:
             # Open the .rar file
             with rarfile.RarFile(rar_path) as rf:
-                # Extract all contents to the destination folder
                 rf.extractall(path=destination_folder)
                 # print(f"Extracted {filename} to {destination_folder}")
         except rarfile.RarCannotExec as e:

@@ -3,10 +3,8 @@ import requests
 def api_request(*match_ids):
     location = []
     for match in match_ids:
-        # Create a session
-        session = requests.Session()
 
-        # Set the User-Agent
+        session = requests.Session()
         session.headers.update({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
         })
@@ -23,7 +21,7 @@ def api_request(*match_ids):
         for cookie in cookies:
             session.cookies.set(cookie["name"], cookie["value"], domain=cookie["domain"], path=cookie["path"])
 
-        # Set the headers
+        # Headers for the request
         headers = {
             "authority": "www.hltv.org",
             "method": "GET",
