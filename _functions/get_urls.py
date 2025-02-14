@@ -34,11 +34,11 @@ def get_urls(event_id):
     camp_name = soup.find('div', class_='event-hub-title').text.strip()
     camp_var = soup.find('a', class_='event-hub-top')['href'].split('/')[-1]
     
-    print(f"Event: {camp_name}")
+    print(f"Event: {camp_name}\n")
     
     # Fetch the URLs of all HLTV match pages for the event
     match_urls = []
-
+    i=1
     for a_tag in results_holder.find_all('a', href=True):
         href = a_tag['href']
         full_url = f"https://www.hltv.org{href}"

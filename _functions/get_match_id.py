@@ -31,7 +31,6 @@ def get_match_ids(*match_urls):
         for id in results_holder.find_all('a', href=True):
             href = id['href']
             match_ids.append(href.split("/")[-1])
-            
         driver.quit()
         
         time.sleep(0.2)

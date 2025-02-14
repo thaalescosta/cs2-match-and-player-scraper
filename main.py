@@ -12,7 +12,7 @@ CT SIDE = 2
 T SIDE = 3
 '''
 
-raiz = os.getcwd()
+root = os.getcwd()
 
 # id_event = ["7909", "7903", "7524", "7557"]
 id_event = ["7909", "7903"]
@@ -32,16 +32,16 @@ for id in id_event:
     download_links = api_request(*match_ids)
 
     # BAIXAR OS ARQUIVOS .RAR DAS DEMOS
-    download_files(*download_links, camp=camp, raiz=raiz)
+    download_files(*download_links, camp=camp, root=root)
 
     # EXTRAIR OS ARQUIVOS .RAR
     unrar(camp=camp)
 
-    demos_path = os.path.join(raiz,"Demos")
+    demos_path = os.path.join(root,"Demos")
     demos_path = os.path.join(demos_path,camp)
-    output_path = os.path.join(raiz,"Dados")
-    csda_path = os.path.join(raiz, "csda.exe")
-    tabelas_finais = os.path.join(raiz, "Tabelas Finais")
+    output_path = os.path.join(root,"Dados")
+    csda_path = os.path.join(root, "csda.exe")
+    tabelas_finais = os.path.join(root, "Tabelas Finais")
 
     # EXTRAIR DADOS DAS DEMOS
     run_csda_on_demos(csda_path, demos_path, output_path, camp)

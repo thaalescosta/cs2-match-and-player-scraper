@@ -2,8 +2,8 @@ import os
 import time
 from _functions.chromelib import WebDriverWait, Service, Options, webdriver
 
-def download_files(*download_links, camp, raiz):
-    destination_folder = os.path.join(raiz, "Downloads", camp)
+def download_files(*download_links, camp, root):
+    destination_folder = os.path.join(root, "downloads", camp)
     print(f"\nDownloading .RAR files for each matchup")
     # Create the destination folder if it doesn't exist
     os.makedirs(destination_folder, exist_ok=True)
