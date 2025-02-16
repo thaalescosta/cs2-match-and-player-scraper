@@ -1,14 +1,19 @@
 #
 # Just a simple function to get the chrome options for the selenium webdriver.
-#
+import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import os
+
+
 
 def get_chrome_options():
+    
+    root = os.getcwd()
     
     chrome_options = Options()        
     chrome_options.add_argument('--headless=new')
@@ -22,7 +27,7 @@ def get_chrome_options():
     chrome_options.add_argument('--no-sandbox')
 
     # Create service object with log output suppressed (getting rid of that DevTools is listening ...)
-    service = Service('C://chromedriver-win64//chromedriver.exe')
+    service = Service(os.path.join(root, r"_resources","chromedriver.exe"))
     service.creation_flags = 0x08000000  # Suppress console window
 
     # Initialize the Chrome driver

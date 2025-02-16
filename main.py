@@ -1,49 +1,103 @@
-from _functions.get_urls import get_urls
+from _functions.get_matches_url import get_matches_url
 from _functions.get_match_id import get_match_ids
-from _functions.api_request import api_request
+from _functions.get_request import get_request
 from _functions.download_files import download_files
 from _functions.unrar import unrar
 from _functions.extrair_dados import run_csda_on_demos
 from _ETL.merge_files import merge_csv_files
 import os
+from _functions.chromelib import pd
+from IPython.display import display
 
-'''
-CT SIDE = 2
-T SIDE = 3
-'''
+# pd.set_option('display.max_columns', None)  # Show all columns
+# pd.set_option('display.width', None)  # Disable line wrapping
+# pd.set_option('display.max_colwidth', None)  # Show full column content
 
-root = os.getcwd()
+pd.reset_option('display.max_rows')
+pd.reset_option('display.max_columns')
+pd.reset_option('display.width')
+pd.reset_option('display.max_colwidth')
+# -------------------------------------------------------------------------
+#   The ID of each event can be found in HLTV in either of the links below
+#   For example: 
+#   https://www.hltv.org/events/7909/blast-bounty-2025-season-1-finals
+#   https://www.hltv.org/results?event=7909
+# -------------------------------------------------------------------------
 
-# id_event = ["7909", "7903", "7524", "7557"]
-id_event = ["7909", "7903"]
+id_event = [7909,  # Blast Bounty 2025 Season 1 Finals
+            7903 # Blast Bounty 2025 Season 1 
+            # 7524, # Perfect World Shanghai Major 2024
+            # 7557  # BLAST Premier World Final 2024
+            ]
 
-match_urls, camp, camp_var = get_urls(7909)
+root = os.getcwd() # Get the root directory
 
-print(f"{match_urls}\n{camp}\n{camp_var}")
+# Gets the URLs from all the matches in the event and other info into a pandas dataframe
+tournaments_df = get_matches_url(*id_event)
 
-for id in id_event:
-    # OBTER URL DE TODOS OS JOGOS DO CAMPEONATO
-    match_urls, camp, camp_var = get_urls(id)
+# Get an ID for each match used in a url
+tournaments_df = get_match_ids(tournaments_df)
 
-    # OBTER A ID CORRESPONDENTE A CADA CONFRONTO
-    match_ids = get_match_ids(*match_urls) 
+# Makes a get request to fetch the direct links to download the demos
+tournaments_df = get_request(tournaments_df)
+                           
+# Makes the request to fetch the direct link to download the demos
+tournaments_df = download_files(tournaments_df)
 
-    # OBTER O LINK DE DOWNLOAD DAS DEMOS CADA CONFRONTO
-    download_links = api_request(*match_ids)
+unrar(tournaments_df)
 
-    # BAIXAR OS ARQUIVOS .RAR DAS DEMOS
-    download_files(*download_links, camp=camp, root=root)
+tournaments_df = run_csda_on_demos(tournaments_df)
+match_data = merge_csv_files(tournaments_df)
 
-    # EXTRAIR OS ARQUIVOS .RAR
-    unrar(camp=camp)
+# Access individual DataFrames
+matches_df = match_data['_match']
+teams_df = match_data['_teams']
+kills_df = match_data['_kills']
+players_df = match_data['_players']
+players_economy_df = match_data['_players_economy']
+clutches_df = match_data['_clutches']
 
-    demos_path = os.path.join(root,"Demos")
-    demos_path = os.path.join(demos_path,camp)
-    output_path = os.path.join(root,"Dados")
-    csda_path = os.path.join(root, "csda.exe")
-    tabelas_finais = os.path.join(root, "Tabelas Finais")
+# Display DataFrames
+print("\nMatches:")
+display(matches_df)
 
-    # EXTRAIR DADOS DAS DEMOS
-    run_csda_on_demos(csda_path, demos_path, output_path, camp)
+print("\nTeams:")
+display(teams_df)
 
-    merge_csv_files(camp, camp_var, output_path, tabelas_finais)
+print("\nKills:")
+display(kills_df)
+
+print("\nPlayers:")
+display(players_df)
+
+print("\nPlayers Economy:")
+display(players_economy_df)
+
+print("\nClutches:")
+display(clutches_df)
+
+
+# Just exporting the tables in markdown format
+output_dir = "github_tables"
+os.makedirs(output_dir, exist_ok=True)
+    
+output_file = os.path.join(output_dir, "all_tables.txt")
+with open(output_file, 'w') as f:
+    for name, df in match_data.items():
+        # Write table name as header
+        f.write(f"\n{name.strip('_')} Table:\n")
+        # Write header row
+        f.write('| ' + ' | '.join(df.columns) + ' |\n')
+        # Write separator row
+        f.write('|' + '|'.join(['---' for _ in df.columns]) + '|\n')
+        # Write first data row only
+        first_row = df.iloc[0].astype(str)
+        f.write('| ' + ' | '.join(first_row) + ' |\n')
+        f.write('\n') # Add blank line between tables
+    print(f"Saved all tables to {output_file}")
+    
+# Export tables to csv
+for name, df in match_data.items():
+    output_file = os.path.join(output_dir, f"{name.strip('_')}.csv")
+    df.to_csv(output_file, index=False)
+    print(f"Saved {output_file}")

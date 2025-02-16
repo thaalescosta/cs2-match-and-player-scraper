@@ -1,0 +1,17 @@
+number,start tick,start frame,freezetime end tick,freezetime end frame,end tick,end frame,end officially tick,end officially frame,team a name,team b name,score team a,score team b,team a side,team b side,team a start money,team b start money,team a equipment value,team b equipment value,team a money spent,team b money spent,team a economy type,team b economy type,duration,end reason,winner name,winner side,overtime number,match checksum
+1,257,345,3022,3718,5902,7051,6350,7583,Team Spirit,Eternal Fire,1,0,3,2,4000,4000,4300,4200,3300,3400,pistol,pistol,84943,8,Team Spirit,3,0,d8b7e0bddd1b3eb3
+2,6350,7583,7630,9304,11856,14314,12304,14872,Team Spirit,Eternal Fire,2,0,3,2,18450,10400,16950,1000,13650,0,semi,eco,85260,8,Team Spirit,3,0,d8b7e0bddd1b3eb3
+3,12304,14872,13584,16587,20416,24745,20864,25281,Team Spirit,Eternal Fire,3,0,3,2,23750,22700,24700,23000,12350,21800,full,full,125059,8,Team Spirit,3,0,d8b7e0bddd1b3eb3
+4,20864,25281,22144,27032,26586,32323,27034,32883,Team Spirit,Eternal Fire,4,0,3,2,29850,16300,29450,8950,17300,7750,full,semi,89199,8,Team Spirit,3,0,d8b7e0bddd1b3eb3
+5,27034,32883,28314,34605,33526,40983,33974,41525,Team Spirit,Eternal Fire,5,0,3,2,29700,25850,30650,26050,9200,25350,full,full,102601,8,Team Spirit,3,0,d8b7e0bddd1b3eb3
+6,36427,44715,37707,46452,44635,54778,45083,55311,Team Spirit,Eternal Fire,6,0,3,2,38050,18200,30250,11150,18200,10350,full,semi,127466,7,Team Spirit,3,0,d8b7e0bddd1b3eb3
+7,45083,55311,46363,57069,53155,65354,53603,65887,Team Spirit,Eternal Fire,7,0,3,2,38950,29050,31150,26550,18800,25850,full,full,127212,8,Team Spirit,3,0,d8b7e0bddd1b3eb3
+8,53603,65887,54883,67758,57786,71335,58234,71868,Team Spirit,Eternal Fire,8,0,3,2,37500,20900,30250,20700,18800,19400,full,full,69008,8,Team Spirit,3,0,d8b7e0bddd1b3eb3
+9,60695,75332,61975,77075,70204,86868,70652,87415,Team Spirit,Eternal Fire,9,0,3,2,36250,19700,29850,20750,24450,19150,full,full,146124,7,Team Spirit,3,0,d8b7e0bddd1b3eb3
+10,70652,87415,71932,89281,79644,98580,80092,99116,Team Spirit,Eternal Fire,9,1,3,2,31100,21750,29850,22100,18500,21100,full,full,141425,9,Eternal Fire,2,0,d8b7e0bddd1b3eb3
+11,82711,102615,83991,104384,89110,110429,89558,110974,Team Spirit,Eternal Fire,10,1,3,2,20500,18700,20000,23850,19200,15750,force-buy,full,98978,8,Team Spirit,3,0,d8b7e0bddd1b3eb3
+12,89558,110974,90838,112832,93721,116411,94265,117086,Team Spirit,Eternal Fire,11,1,3,2,19150,18050,29400,19350,15900,17550,full,force-buy,68869,8,Team Spirit,3,0,d8b7e0bddd1b3eb3
+13,94265,117086,108149,133980,112347,138870,112795,139404,Team Spirit,Eternal Fire,11,2,2,3,4000,4000,4750,4800,3550,3400,pistol,pistol,275933,8,Eternal Fire,3,0,d8b7e0bddd1b3eb3
+14,112795,139404,114075,141179,117785,145566,118233,146136,Team Spirit,Eternal Fire,11,3,2,3,10850,18350,1500,18900,700,17800,eco,semi,78052,8,Eternal Fire,3,0,d8b7e0bddd1b3eb3
+15,118233,146136,119513,147840,127621,157628,128069,158145,Team Spirit,Eternal Fire,12,3,2,3,22150,19800,22800,23350,21800,7700,full,full,145567,1,Team Spirit,2,0,d8b7e0bddd1b3eb3
+16,128069,158145,129349,159885,137396,169694,137396,169694,Team Spirit,Eternal Fire,13,3,2,3,27300,13800,24900,27550,9500,15700,full,full,146289,9,Team Spirit,2,0,d8b7e0bddd1b3eb3

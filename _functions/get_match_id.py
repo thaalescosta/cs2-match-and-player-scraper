@@ -1,14 +1,32 @@
 import time
+import threading
 from _functions.chromelib import By, WebDriverWait, EC, get_chrome_options
 from bs4 import BeautifulSoup
-from tqdm import tqdm  # Import tqdm for progress bar
+from tqdm import tqdm
 
-def get_match_ids(*match_urls):
-    match_ids = []
+def get_match_ids(tournaments_df):
+    total_matches = len(tournaments_df['url'])
+    
+    # Create tqdm progress bar
+    pbar = tqdm(
+        total=total_matches,
+        desc="Fetching Match IDs ",
+        unit="match",
+        ncols=100,
+        bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}]",
+    )
 
-    # Iterate over all match URLs with a progress bar
-    for match in tqdm(match_urls, desc="Fetching Match IDs", unit="match"):
-        
+    # Function to refresh tqdm every second
+    def refresh_tqdm():
+        while not pbar.n >= total_matches:
+            pbar.refresh()
+            time.sleep(1)  # Refresh every second
+
+    # Start refresh thread
+    refresh_thread = threading.Thread(target=refresh_tqdm, daemon=True)
+    refresh_thread.start()
+
+    for i, match in enumerate(tournaments_df['url'], 1):
         driver = get_chrome_options()
         driver.get(match)
 
@@ -20,19 +38,23 @@ def get_match_ids(*match_urls):
         except Exception as e:
             print("Cookies notification not found:", e)
 
-        time.sleep(1)
+        time.sleep(0.3)
 
-        # Retrieve the HTML content of the page
         html_content = driver.page_source
         soup = BeautifulSoup(html_content, 'html.parser')
 
-        # Fetch the match ID to be used in the API request
         results_holder = soup.find('div', class_='vod-text-box')
-        for id in results_holder.find_all('a', href=True):
-            href = id['href']
-            match_ids.append(href.split("/")[-1])
+        if results_holder:
+            for id_tag in results_holder.find_all('a', href=True):
+                href = id_tag['href']
+                match_id = href.split("/")[-1]
+                tournaments_df.at[i-1, 'match_id'] = match_id
+
         driver.quit()
-        
         time.sleep(0.2)
 
-    return match_ids
+        # Update progress bar
+        pbar.update(1)
+
+    pbar.close()
+    return tournaments_df

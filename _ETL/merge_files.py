@@ -1,11 +1,8 @@
 import os
 import pandas as pd
 
-def merge_csv_files(camp, camp_var, output_path, tabelas_finais):
-    # Ensure the output folder exists
-    output_path = os.path.join(output_path, camp)
-    # List of suffixes to merge and columns to drop
-    suffixes_to_drop = {
+def merge_csv_files(tournaments_df):
+    columns_to_drop = {
         "_clutches.csv": ["frame", "tick", "source_file", "round", "opponents", "side"],
         "_kills.csv": ["frame", "tick", "round", "killer_side", "assister_name", "assister_steamid", "assister_side", "assister_team_name", "weapon_type", "penetrated_objects", "is_flash_assist", "killer_controlling bot", "victim_controlling_bot", "assister_controlling_bot", "killer_x", "killer_y", "killer_z", "is_killer_airborne", "is_killer_blinded", "victim_x", "victim_y", "victim_z", "is_victim_airborne", "is_victim_blinded", "is_victim_inspecting_weapon", "assister_x", "assister_y", "assister_z", "is_trade_death", "is_through_smoke", "is_no_scope", "distance", "source_file"],
         "_match.csv": ["game", "demo_path", "demo_name", "source", "type", "share_code", "server_name", "client_name", "tick_count", "tickrate", "framerate", "game_type", "game_mode", "game_mode_str", "is_ranked", "duration", "network_protocol", "build_number", "kill_count", "assist_count", "death_count", "shot_count", "winner_name", "winner_side", "overtime_count", "max_rounds", "has_vac_live_ban", "source_file"],
@@ -14,51 +11,52 @@ def merge_csv_files(camp, camp_var, output_path, tabelas_finais):
         "_teams.csv": ["score", "score_first_half", "score_second_half", "current_side", "source_file"]
     }
     
-    # Get all CSV files in the folder
-    all_files = [f for f in os.listdir(output_path) if f.endswith(".csv")]
+    # Dictionary to store combined DataFrames for all tournaments
+    all_tournaments_data = {suffix.replace('.csv',''): [] for suffix in columns_to_drop.keys()}
     
-    for suffix in suffixes_to_drop.keys():
-        # Filter files that match the current suffix
-        matching_files = [f for f in all_files if f.endswith(suffix)]
+    # Group by tournament to process each tournament's data separately
+    for tournament, group in tournaments_df.groupby('tournament'):
+        output_path = group.iloc[0]['output_data_path']
         
-        if not matching_files:
-            continue  # Skip if no files match
+        # Get all CSV files in the folder
+        all_files = pd.Series([f for f in os.listdir(output_path) if f.endswith(".csv")])
         
-        merged_df = pd.DataFrame()
-        
-        for file in matching_files:
-            file_path = os.path.join(output_path, file)
-            df = pd.read_csv(file_path)
-            df.columns = df.columns.str.replace(" ", "_")  # Replace spaces with underscores in column names
-            if suffix == "_match.csv":
-                merged_df["tournament"] = camp
-            merged_df = pd.concat([merged_df, df], ignore_index=True)
-        
-        # Drop specified columns after merging
-        drop_columns = suffixes_to_drop[suffix]
-        merged_df.drop(columns=[col for col in drop_columns if col in merged_df.columns], inplace=True, errors='ignore')
-        
-        
-        # Make replacements in the merged "_teams.csv" table
-        if suffix == "_teams.csv":
-            merged_df.rename(columns={"letter": "team"}, inplace=True)
-            merged_df["team"] = merged_df["team"].replace({"A": "Team A", "B": "Team B"})
+        for suffix, column in columns_to_drop.items():
+            # Filter files that match the current suffix
+            matching_files = all_files[all_files.str.endswith(suffix)]
             
-        
-        if suffix == "_players_economy.csv":
-            merged_df["player_side"] = merged_df["player_side"].replace({3: "Counter Terrorist", 2: "Terrorist"})
+            if matching_files.empty:
+                continue
             
-        if suffix == "_match.csv":
-            merged_df["tournament"] = camp
-            merged_df["date"] = pd.to_datetime(merged_df["date"])
+            # Read and concatenate all matching files
+            dfs = [pd.read_csv(os.path.join(output_path, f)) for f in matching_files]
+            merged_df = pd.concat(dfs, ignore_index=True)
             
-        
-        # Save the merged DataFrame
-        if not os.path.exists(tabelas_finais):
-            os.makedirs(tabelas_finais)
-        output_file = os.path.join(tabelas_finais, f"{camp_var}{suffix}")
-        merged_df.to_csv(output_file, index=False)
+            # Clean up column names
+            merged_df.columns = merged_df.columns.str.replace(" ", "_")
+            
+            # Add tournament column for all data
+            merged_df["tournament"] = tournament
+            
+            # Drop specified columns
+            merged_df.drop(columns=[col for col in column if col in merged_df.columns], 
+                         inplace=True, errors='ignore')
+            
+            # Special handling for specific files
+            if suffix == "_teams.csv":
+                merged_df.rename(columns={"letter": "team"}, inplace=True)
+                merged_df["team"] = merged_df["team"].replace({"A": "Team A", "B": "Team B"})
+            
+            elif suffix == "_players_economy.csv":
+                merged_df["player_side"] = merged_df["player_side"].replace({3: "Counter Terrorist", 2: "Terrorist"})
+            
+            elif suffix == "_match.csv":
+                merged_df["date"] = pd.to_datetime(merged_df["date"])
+            
+            # Add to all tournaments data
+            all_tournaments_data[suffix.replace('.csv','')].append(merged_df)
+    
+    # Combine all tournaments data
+    return {name: pd.concat(dfs, ignore_index=True) if dfs else pd.DataFrame() 
+            for name, dfs in all_tournaments_data.items()}
 
-        
-        
-    print(f"All tables have been merged and saved to {tabelas_finais}.")

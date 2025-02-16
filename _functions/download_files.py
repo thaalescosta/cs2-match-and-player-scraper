@@ -1,13 +1,12 @@
 import os
 import time
+from tqdm import tqdm  # Import tqdm for the progress bar
 from _functions.chromelib import WebDriverWait, Service, Options, webdriver
 
-def download_files(*download_links, camp, root):
-    destination_folder = os.path.join(root, "downloads", camp)
-    print(f"\nDownloading .RAR files for each matchup")
-    # Create the destination folder if it doesn't exist
+def download_files(tournaments_df):
+    destination_folder = os.path.join(tournaments_df.iloc[0]['root'], "downloads", 'demos')
     os.makedirs(destination_folder, exist_ok=True)
-    
+        
     prefs = {
         "download.default_directory": destination_folder,  # Set the download directory
         "download.prompt_for_download": False,  # Disable download prompts
@@ -24,29 +23,35 @@ def download_files(*download_links, camp, root):
     chrome_options.add_argument('--silent')
     chrome_options.add_argument('--disable-logging')
     
-    # Initialize the undetected Chrome driver
+    # Initialize the Chrome driver
     driver = webdriver.Chrome(options=chrome_options)
 
-    # Function to wait for downloads to complete
-    def wait_for_downloads_to_complete(download_folder, expected_files, timeout=300):
-        """
-        Wait for all expected files to be downloaded.
-        :param download_folder: Path to the download folder.
-        :param expected_files: List of expected filenames.
-        :param timeout: Maximum time to wait (in seconds).
-        """
-        start_time = time.time()
-        while time.time() - start_time < timeout:
-            # Check if all expected files exist and are not partially downloaded
-            downloaded_files = [f for f in os.listdir(download_folder) if not f.endswith(".crdownload")]
-            if all(file in downloaded_files for file in expected_files):
-                print("All files have been downloaded.")
-                return
-            time.sleep(1)
-        print("Timeout reached. Some downloads may not have completed.")
-
-    # Extract filenames from URLs
+    # Extract filenames from URLs in tournaments_df
+    download_links = tournaments_df['url_demo'].tolist()
     expected_files = [url.split("/")[-1] for url in download_links]
+    
+    # Initialize tqdm progress bar
+    progress_bar = tqdm(total=len(expected_files),
+                        desc="Downloading .rar   ", 
+                        maxinterval=1.0,
+                        unit="file",
+                        bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}]",
+                        ncols=100,  # Adjust the width of the progress bar
+                        )
+
+    # Function to monitor the download progress
+    def update_progress_bar():
+        """Updates the progress bar based on downloaded .rar files"""
+        while progress_bar.n < len(expected_files):
+            downloaded_files = [f for f in os.listdir(destination_folder) if f.endswith(".rar")]
+            progress_bar.n = len(downloaded_files)
+            progress_bar.refresh()
+            time.sleep(1)  # Check every second
+    
+    # Start tracking downloads in a separate thread
+    from threading import Thread
+    progress_thread = Thread(target=update_progress_bar, daemon=True)
+    progress_thread.start()
 
     # Loop through each URL and download the file
     for url in download_links:
@@ -55,9 +60,16 @@ def download_files(*download_links, camp, root):
             driver.get(url)  # Open the URL in the browser
             time.sleep(1)  # Wait for the download to start (adjust as needed)
         except Exception as e:
-            print(f"Download failed: {nome} (Erro: {e})")  # Print the error message if download fails
+            print(f"Download failed: {nome} (Erro: {e})")
 
-    # Wait for all downloads to complete
-    wait_for_downloads_to_complete(destination_folder, expected_files)
+    # Wait for all expected files to be downloaded
+    while len([f for f in os.listdir(destination_folder) if f.endswith(".rar")]) < len(expected_files):
+        time.sleep(1)  # Check every second
 
+    progress_bar.n = len(expected_files)  # Ensure progress bar reaches 100%
+    progress_bar.refresh()
+    progress_bar.close()
+    
     driver.quit()
+    tournaments_df['file_name'] = tournaments_df['url_demo'].apply(lambda x: x.split("/")[-1])
+    return tournaments_df

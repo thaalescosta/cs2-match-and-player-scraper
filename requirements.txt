@@ -1,0 +1,7 @@
+# Python version: 3.13.2
+beautifulsoup4==4.13.3
+pandas==2.2.3
+rarfile==4.2
+Requests==2.32.3
+selenium==4.28.1
+tqdm==4.67.1
