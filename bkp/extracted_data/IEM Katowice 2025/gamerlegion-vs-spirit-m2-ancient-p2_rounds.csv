@@ -1,0 +1,13 @@
+number,start tick,start frame,freezetime end tick,freezetime end frame,end tick,end frame,end officially tick,end officially frame,team a name,team b name,score team a,score team b,team a side,team b side,team a start money,team b start money,team a equipment value,team b equipment value,team a money spent,team b money spent,team a economy type,team b economy type,duration,end reason,winner name,winner side,overtime number,match checksum
+1,6,146,4487,8933,9455,16896,9775,17441,Team Spirit,GamerLegion,1,0,3,2,56300,21850,30650,22400,14800,21400,pistol,pistol,150211,8,Team Spirit,3,0,d474cdcdbcd4e391
+2,9775,17441,11055,20426,16629,29560,16949,30093,Team Spirit,GamerLegion,2,0,3,2,58950,18600,30150,12350,25050,12250,full,semi,108681,8,Team Spirit,3,0,d474cdcdbcd4e391
+3,16949,30093,18229,33012,24237,42901,24557,43431,Team Spirit,GamerLegion,2,1,3,2,51450,23650,30750,23900,13200,22900,full,full,114859,9,GamerLegion,2,0,d474cdcdbcd4e391
+4,26811,47576,28091,50279,34893,61457,35213,61975,Team Spirit,GamerLegion,2,2,3,2,45850,18800,29950,20000,29450,18700,full,full,124482,9,GamerLegion,2,0,d474cdcdbcd4e391
+5,35213,61975,36493,64690,42756,74921,43300,75852,Team Spirit,GamerLegion,3,2,3,2,26600,18150,26000,26050,25200,16100,full,full,116097,8,Team Spirit,3,0,d474cdcdbcd4e391
+6,43300,75852,57526,101010,61080,106269,61400,106775,Team Spirit,GamerLegion,3,3,2,3,4000,4000,5800,4200,3300,3400,pistol,pistol,272774,8,GamerLegion,3,0,d474cdcdbcd4e391
+7,61400,106775,62680,109675,66848,116580,67168,117140,Team Spirit,GamerLegion,4,3,2,3,11400,18350,10100,20400,10700,17850,force-buy,semi,87929,9,Team Spirit,2,0,d474cdcdbcd4e391
+8,67168,117140,68448,120269,70469,124238,70789,124828,Team Spirit,GamerLegion,5,3,2,3,19050,8700,23500,8250,14750,8250,full,force-buy,63653,9,Team Spirit,2,0,d474cdcdbcd4e391
+9,70789,124828,72069,127512,76833,135287,77153,135910,Team Spirit,GamerLegion,6,3,2,3,22050,10550,24250,1100,12200,300,full,eco,93794,9,Team Spirit,2,0,d474cdcdbcd4e391
+10,77153,135910,78433,138767,86526,152046,86846,152600,Team Spirit,GamerLegion,6,4,2,3,29100,22250,24250,22950,4900,21950,full,full,144704,7,GamerLegion,3,0,d474cdcdbcd4e391
+11,86846,152600,88126,155511,97256,170293,97576,170814,Team Spirit,GamerLegion,6,5,2,3,35100,19600,24800,26900,23900,16050,full,full,158667,7,GamerLegion,3,0,d474cdcdbcd4e391
+12,100369,176045,101649,178834,109547,191777,109547,191777,Team Spirit,GamerLegion,7,5,2,3,19250,10900,24400,28550,23400,20150,full,full,141081,9,Team Spirit,2,0,d474cdcdbcd4e391

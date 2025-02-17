@@ -1,0 +1,11 @@
+number,start tick,start frame,freezetime end tick,freezetime end frame,end tick,end frame,end officially tick,end officially frame,team a name,team b name,score team a,score team b,team a side,team b side,team a start money,team b start money,team a equipment value,team b equipment value,team a money spent,team b money spent,team a economy type,team b economy type,duration,end reason,winner name,winner side,overtime number,match checksum
+1,10,257,4418,8287,8106,13839,8426,14429,Team Vitality,3DMAX,1,0,3,2,4000,4000,4700,4300,3400,3300,pistol,pistol,118901,7,Team Vitality,3,0,210aa16e681afeb
+2,8426,14429,9706,17607,13304,23261,13624,23851,Team Vitality,3DMAX,2,0,3,2,19900,14400,22450,15000,19550,14000,semi,force-buy,77318,8,Team Vitality,3,0,210aa16e681afeb
+3,13624,23851,14904,27107,19363,34421,19683,35014,Team Vitality,3DMAX,3,0,3,2,18100,13000,22350,3300,7900,2700,semi,eco,92533,8,Team Vitality,3,0,210aa16e681afeb
+4,19683,35014,20963,37575,24620,43876,24940,44523,Team Vitality,3DMAX,4,0,3,2,28550,24800,23650,25100,5300,23900,full,full,77581,8,Team Vitality,3,0,210aa16e681afeb
+5,24940,44523,26220,47440,27517,49899,27837,50474,Team Vitality,3DMAX,5,0,3,2,41000,18200,28200,9950,9900,10050,full,semi,47063,8,Team Vitality,3,0,210aa16e681afeb
+6,30388,54935,31668,57692,37428,66981,37748,67502,Team Vitality,3DMAX,5,1,3,2,48850,25150,28200,24900,2400,24200,full,full,105455,9,3DMAX,2,0,210aa16e681afeb
+7,37748,67502,39028,70711,46762,83352,47082,83915,Team Vitality,3DMAX,5,2,3,2,54350,19000,28850,23700,27850,14600,full,full,138756,1,3DMAX,2,0,210aa16e681afeb
+8,49528,88388,50808,91154,57697,102521,58017,103168,Team Vitality,3DMAX,6,2,3,2,36500,23400,29250,25100,21900,16600,full,full,123725,8,Team Vitality,3,0,210aa16e681afeb
+9,58017,103168,59297,106109,61406,109835,61726,110435,Team Vitality,3DMAX,7,2,3,2,32150,19400,30750,19100,14350,18500,full,force-buy,58365,8,Team Vitality,3,0,210aa16e681afeb
+10,61726,110435,63006,113880,67653,121963,67653,121963,Team Vitality,3DMAX,8,2,3,2,34850,18050,29450,16250,17950,15450,full,force-buy,100920,8,Team Vitality,3,0,210aa16e681afeb

@@ -1,0 +1,7 @@
+number,start tick,start frame,freezetime end tick,freezetime end frame,end tick,end frame,end officially tick,end officially frame,team a name,team b name,score team a,score team b,team a side,team b side,team a start money,team b start money,team a equipment value,team b equipment value,team a money spent,team b money spent,team a economy type,team b economy type,duration,end reason,winner name,winner side,overtime number,match checksum
+1,12,162,3553,5641,8745,12391,9065,12837,Astralis,FlyQuest,1,0,3,2,4000,4000,4250,4350,3250,3350,pistol,pistol,130464,8,Astralis,3,0,7b1ba9b6e721b66e
+2,9065,12837,10345,15147,11610,16995,11930,17435,Astralis,FlyQuest,2,0,3,2,18500,11350,19050,2100,18050,1300,semi,eco,44359,8,Astralis,3,0,7b1ba9b6e721b66e
+3,11930,17435,13210,19779,21251,30866,21571,31326,Astralis,FlyQuest,3,0,3,2,18500,22050,22050,22800,4400,21800,semi,full,143287,7,Astralis,3,0,7b1ba9b6e721b66e
+4,23835,35633,25115,37945,33294,48958,33614,49390,Astralis,FlyQuest,3,1,3,2,33700,19250,26800,10500,21900,10100,full,semi,142156,1,FlyQuest,2,0,7b1ba9b6e721b66e
+5,33614,49390,34894,51680,43842,64056,44162,64540,Astralis,FlyQuest,3,2,3,2,19400,28150,24400,26900,18900,14000,full,full,156462,9,FlyQuest,2,0,7b1ba9b6e721b66e
+6,46513,68439,47793,70819,52346,77207,52346,77207,Astralis,FlyQuest,3,3,3,2,12700,40950,9700,26100,9700,9300,force-buy,full,93540,9,FlyQuest,2,0,7b1ba9b6e721b66e

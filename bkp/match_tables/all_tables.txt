@@ -1,0 +1,36 @@
+
+clutches Table:
+| won | steamid | name | survived | kill_count | match_checksum | tournament |
+|---|---|---|---|---|---|---|
+| 0 | 76561199063238565 | magixx | 0 | 0 | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+
+
+kills Table:
+| killer_name | killer_steamid | killer_team_name | victim_name | victim_steamid | victim_side | victim_team_name | weapon_name | headshot | is_trade_kill | match_checksum | tournament |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| chopper | 76561198045898864 | Team Spirit | jottAAA | 76561198410750263 | Terrorist | Eternal Fire | USP-S | 1 | 0 | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+
+
+match Table:
+| checksum | date | map | tournament |
+|---|---|---|---|
+| 59e5b2c76e05bce0 | 2025-01-26 | de_anubis | BLAST Bounty 2025 Season 1 Finals |
+
+
+players Table:
+| name | steamid | team_name | kills | assists | deaths | headshots | hs_% | kd | kast | avg_damages_per_round | avg_kills_per_round | avg_death_per_round | utility_damage_per_round | health_damage | armor_damage | utility_damage | first_kill | first_death | trade_kill | trade_death | 1k | 2k | 3k | 4k | 5k | match_checksum | tournament |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| sh1ro | 76561198081484775 | Team Spirit | 23 | 7 | 16 | 5 | 21 | 1.4375 | 86.666664 | 79.400002 | 0.766667 | 0.533333 | 4.3 | 2382 | 301 | 129 | 2 | 0 | 8 | 1 | 11 | 5 | 1 | 0 | 0 | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+
+
+players_economy Table:
+| steamid | name | player_side | equipment_value | type | match_checksum | tournament |
+|---|---|---|---|---|---|---|
+| 76561199063238565 | magixx | Counter Terrorist | 900 | pistol | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+
+
+teams Table:
+| name | team | match_checksum | tournament |
+|---|---|---|---|
+| Team Spirit | Team A | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+

@@ -1,0 +1,10 @@
+number,start tick,start frame,freezetime end tick,freezetime end frame,end tick,end frame,end officially tick,end officially frame,team a name,team b name,score team a,score team b,team a side,team b side,team a start money,team b start money,team a equipment value,team b equipment value,team a money spent,team b money spent,team a economy type,team b economy type,duration,end reason,winner name,winner side,overtime number,match checksum
+1,1,1,1266,1714,7920,9377,8240,9754,Team A,Team B,1,0,3,2,4000,4000,4250,5550,3250,3550,pistol,pistol,120384,8,Team A,3,0,1cd7c5206b017384
+2,8240,9754,9520,11473,12398,15000,12718,15391,Team A,Team B,1,1,3,2,18500,10550,20700,10250,18100,10250,semi,force-buy,67356,9,Team B,2,0,1cd7c5206b017384
+3,12718,15391,13998,17121,21061,25403,21381,25786,Team A,Team B,2,1,3,2,8000,18050,7450,24950,7250,12500,force-buy,full,128550,8,Team A,3,0,1cd7c5206b017384
+4,21381,25786,22661,27597,32056,38587,32376,38972,Team A,Team B,2,2,3,2,18500,13750,23500,14050,18000,13350,full,force-buy,164360,1,Team B,2,0,1cd7c5206b017384
+5,32376,38972,33656,40747,41180,49647,41500,50039,Team A,Team B,2,3,3,2,8100,19400,13600,26100,7350,13800,force-buy,full,137062,9,Team B,2,0,1cd7c5206b017384
+6,41500,50039,42780,51804,48689,58705,49009,59105,Team A,Team B,2,4,3,2,11450,23650,1100,23150,300,14750,eco,full,111268,9,Team B,2,0,1cd7c5206b017384
+7,51246,61820,52526,63528,58375,70568,58695,70975,Team A,Team B,3,4,3,2,23150,27850,24400,23750,22900,4600,full,full,112321,8,Team A,3,0,1cd7c5206b017384
+8,58695,70975,59975,72766,67738,82104,68058,82479,Team A,Team B,4,4,3,2,17400,31150,25200,25000,15500,24000,full,full,142892,7,Team A,3,0,1cd7c5206b017384
+9,68058,82479,69338,84259,0,0,0,0,Team A,Team B,4,5,3,2,21300,20250,21450,20850,9100,19650,full,full,-1058999,0,,0,0,1cd7c5206b017384

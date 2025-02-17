@@ -1,0 +1,42 @@
+
+Tournaments Table:
+| root | url | url_event | tournament | nspc_tournament | match_id | url_request | url_demo | file_name | demo_path | output_data_path |
+|---|---|---|---|---|---|---|---|---|---|---|
+| c:\cs2-hltv-event-scrapper\ExtractMatchData | https://www.hltv.org/matches/2378460/eternal-fire-vs-spirit-blast-bounty-2025-season-1-finals | https://www.hltv.org/results?event=7909 | BLAST Bounty 2025 Season 1 Finals | blast-bounty-2025-season-1-finals | 93701 | https://www.hltv.org/download/demo/93701 | https://r2-demos.hltv.org/demos/111377/blast-bounty-2025-season-1-finals-eternal-fire-vs-spirit-bo5-7H36TpK_LYGHtCXpF3Cgdr.rar | blast-bounty-2025-season-1-finals-eternal-fire-vs-spirit-bo5-7H36TpK_LYGHtCXpF3Cgdr.rar | c:\cs2-hltv-event-scrapper\ExtractMatchData\downloads\unpacked_demos\BLAST Bounty 2025 Season 1 Finals | c:\cs2-hltv-event-scrapper\ExtractMatchData\downloads\extracted_data\BLAST Bounty 2025 Season 1 Finals |
+
+
+clutches Table:
+| round | won | steamid | name | survived | kill_count | match_checksum | tournament |
+|---|---|---|---|---|---|---|---|
+| 1 | 0 | 76561199063238565 | magixx | 0 | 0 | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+
+
+kills Table:
+| killer_name | killer_steamid | killer_team_name | victim_name | victim_steamid | victim_side | victim_team_name | weapon_name | headshot | is_trade_kill | match_checksum | tournament |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| chopper | 76561198045898864 | Team Spirit | jottAAA | 76561198410750263 | Terrorist | Eternal Fire | USP-S | 1 | 0 | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+
+
+match Table:
+| checksum | date | map | tournament |
+|---|---|---|---|
+| 59e5b2c76e05bce0 | 2025-01-26 | de_anubis | BLAST Bounty 2025 Season 1 Finals |
+
+
+players Table:
+| name | steamid | team_name | kills | assists | deaths | headshots | hs_% | kd | kast | avg_damages_per_round | avg_kills_per_round | avg_death_per_round | utility_damage_per_round | health_damage | armor_damage | utility_damage | first_kill | first_death | trade_kill | trade_death | 1k | 2k | 3k | 4k | 5k | match_checksum | tournament |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| XANTARES | 76561198044118796 | Eternal Fire | 23 | 10 | 21 | 14 | 60 | 1.095238 | 76.666664 | 94.76667 | 0.766667 | 0.7 | 1.333333 | 2843 | 397 | 40 | 6 | 4 | 3 | 7 | 8 | 4 | 1 | 1 | 0 | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+
+
+players_economy Table:
+| steamid | name | player_side | equipment_value | type | match_checksum | tournament |
+|---|---|---|---|---|---|---|
+| 76561198045898864 | chopper | Counter Terrorist | 400 | pistol | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+
+
+teams Table:
+| name | team | match_checksum | tournament |
+|---|---|---|---|
+| Team Spirit | Team A | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+

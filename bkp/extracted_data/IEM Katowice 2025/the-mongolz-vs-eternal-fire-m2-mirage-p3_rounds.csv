@@ -1,0 +1,7 @@
+number,start tick,start frame,freezetime end tick,freezetime end frame,end tick,end frame,end officially tick,end officially frame,team a name,team b name,score team a,score team b,team a side,team b side,team a start money,team b start money,team a equipment value,team b equipment value,team a money spent,team b money spent,team a economy type,team b economy type,duration,end reason,winner name,winner side,overtime number,match checksum
+1,3039,7919,4319,12760,13015,29378,13335,30028,The MongolZ,Eternal Fire,0,1,3,2,49450,44950,32650,27150,18650,27050,full,full,140220,1,Eternal Fire,2,0,12edef407a73615c
+2,13335,30028,14615,34282,16441,38819,16985,39978,The MongolZ,Eternal Fire,1,1,3,2,38300,36500,33150,27850,30050,18250,full,full,57443,8,The MongolZ,3,2,12edef407a73615c
+3,16985,39978,18265,44521,24830,57908,25150,58603,The MongolZ,Eternal Fire,2,1,3,2,62500,62500,29350,27950,28350,27650,full,full,117161,8,The MongolZ,3,3,12edef407a73615c
+4,27773,66891,29053,71116,33655,81059,33975,81779,The MongolZ,Eternal Fire,3,1,3,2,51900,44750,30700,27550,16550,27350,full,full,92578,8,The MongolZ,3,3,12edef407a73615c
+5,33975,81779,35255,86214,40341,97041,40885,98325,The MongolZ,Eternal Fire,4,1,3,2,53100,29500,33250,26450,23850,25750,full,full,99727,8,The MongolZ,3,3,12edef407a73615c
+6,40885,98325,42165,103253,45470,110724,45470,110724,The MongolZ,Eternal Fire,5,1,2,3,53500,41950,27250,31250,26750,30650,full,full,81019,9,The MongolZ,2,3,12edef407a73615c

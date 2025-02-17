@@ -1,0 +1,8 @@
+number,start tick,start frame,freezetime end tick,freezetime end frame,end tick,end frame,end officially tick,end officially frame,team a name,team b name,score team a,score team b,team a side,team b side,team a start money,team b start money,team a equipment value,team b equipment value,team a money spent,team b money spent,team a economy type,team b economy type,duration,end reason,winner name,winner side,overtime number,match checksum
+1,10,165,1461,2946,8265,12752,8585,13262,The MongolZ,Team Liquid,0,1,3,2,24500,45400,29100,25200,13300,24200,pistol,pistol,136455,1,Team Liquid,2,0,9169550a6483bf72
+2,8585,13262,9865,15895,16687,25283,17007,25751,The MongolZ,Team Liquid,1,1,3,2,21000,40200,27750,25500,20100,9200,full,full,130319,8,The MongolZ,3,0,9169550a6483bf72
+3,17007,25751,18287,28498,22243,33961,22787,34723,The MongolZ,Team Liquid,1,2,3,2,18450,38600,30250,27850,14850,27250,full,full,89004,9,Team Liquid,2,0,9169550a6483bf72
+4,22787,34723,47120,69609,51731,75633,52051,76107,The MongolZ,Team Liquid,2,2,2,3,4000,4000,4250,4000,3450,3400,pistol,pistol,443503,9,The MongolZ,2,0,9169550a6483bf72
+5,52051,76107,53331,78742,58275,85596,58594,86039,The MongolZ,Team Liquid,3,2,2,3,18600,10700,19700,11000,18400,10200,semi,force-buy,102869,9,The MongolZ,2,0,9169550a6483bf72
+6,58594,86039,59874,88408,68989,100959,69309,101420,The MongolZ,Team Liquid,4,2,2,3,19150,14300,20750,14450,16050,13650,full,force-buy,161747,1,The MongolZ,2,0,9169550a6483bf72
+7,69309,101420,-1,-1,0,0,0,0,The MongolZ,Team Liquid,4,3,2,3,21800,16950,8800,6800,0,0,semi,semi,-1099490,0,,0,0,9169550a6483bf72
