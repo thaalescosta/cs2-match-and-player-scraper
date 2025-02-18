@@ -39,20 +39,23 @@ def get_team_data(url, topN=40):
                 'team_page': team_page,
                 'player_name': "missing_player",
                 'player_country': "n/a", 
-                'player_nick': "missing_player"
+                'player_nick': "missing_player",
+                'player_hltv_url': "no url"
             })
         
         for player in allPlayers:
             player_name = player.find('img', class_='playerPicture')['title']
             player_country = player.find('img', class_='gtSmartphone-only flag')['alt']
             player_nick = player.find('div', class_='nick').text.strip()
-            
+            player_hltv_url = player.find('a', class_='pointer')['href']
+
             team_data.append({
                 'team_name': team_name,
                 'team_page': team_page,
                 'player_name': player_name,
                 'player_country': player_country,
-                'player_nick': player_nick
+                'player_nick': player_nick,
+                'player_hltv_url': f'https://www.hltv.org{player_hltv_url}'
             })
 
     driver.quit()

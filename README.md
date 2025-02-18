@@ -1,79 +1,67 @@
-# CS2 Matches and Players/Teams Data Scraper
+# CS2 Matches and Players/Teams Scraper
 
-This scraper basically does two things:
-1. **ExtractMatchData.ipynb** is the notebook that handles item 1.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was having a hard time finding datasets of Counter Strike 2 and after doing some googling IO figured why not make my own. 
 
-1. Download and analyze demos from every single match within N chosen events
-2. Gather data about players from top N HLTV teams (names, nicknames, PNG photos, country and more)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While I'm at it, why not make it more complex and maybe create a database in MySQL and a Power BI dashboard.
+
+## Acknowledgements
+This project uses the demo parser [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) created by [@markus-wa](https://github.com/markus-wa) and maintained by him and [@akiver](https://github.com/akiver).
+
+## Usage
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Everything was done thinking in those who are like me, who don't know much about programming but still is someone able to do something like this if they put their time into it.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Every download and output from the script will be saved into the cloned folder and you shouldn't need to install anything else other than what's in the _requirements.txt_ file.
+
+
+Clone this repository:
+```
+git clone https://github.com/yourusername/cs2-match-and-player-scraper.git
+```
+Install the _requirements.txt_ file:
+```
+pip install -r requirements.txt
+```
+Use the **ExtractMatchData.ipynb** or **ExtractPlayerData.ipynb** to scrape the data you want.
+
+&nbsp;
+
+# About the scripts
+
+### **ExtractMatchData.ipynb**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I divided everything I wanted and needed to do into function to keep the notebook clean and easy to read.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can snoop around the functions and see what's going on and disable the --headless line in **\\_resources\chromelib.py** to see what Selenium is doing.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In summary this is what I had the script do:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** Scrape through the results page of each tournament gathering the URLs for each matchup (Bo1, Bo3 or Bo5)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** Use an ID found in the matchup page to get an URL, to make a GET request and retrieve the direct download link to the demos
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** Then download all of the demos and put them through **CSDA.exe** (CS2 Demo Analyzer) to process the .dem files and extract all sorts of data.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.** Once the demos are analyzed, all the data that I've been collecting throughout the process is stored in .csv files.
+
+Coming up...
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.** In insert data into a **MySQL database** after I figure out how I want the tables to be structured and what information I need
+
+
+### **ExtractPlayerData.ipynb**
+It's a simpler script that scrapes data about players from the top N HLTV teams (names, nicknames, PNG photos, country and more).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data will be used to create a teams dataset to be later used in a Power BI dashboard.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So as with ExtractMatchData.ipynb, I divided everything into functions and these were the basic steps:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** Scrape the Top HLTV Teams gathering the URLs for each team page
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** Scrape the team pages to get the players data like full name, country, their transparent PNG photos, country flag pngs and some more data.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** Stored the data nice and clean in a dataframe that will be turned into a .csv file and later inserted into the same database.
 
 
 
-**ExtractPlayerData.ipynb** is the notebook that handles item 2.
 
-## Project Overview
-
-This repository contains two main Jupyter notebooks that handle different aspects of the data pipeline:
-
-### ExtractMatchData.ipynb
-Skills & Technologies Demonstrated:
-- Web scraping using Selenium and BeautifulSoup4
-- Automated file downloads and handling
-- Cookie/session management
-- ETL pipeline development
-- Error handling and retry mechanisms
-
-Data Pipeline:
-1. Scrapes match metadata from HLTV.org
-2. Downloads match demo files
-3. Processes demos using CS2 Demo Analyzer
-4. Transforms raw data into structured tables
-5. Outputs match-level statistics
-
-Output Tables:
-- **Matches**: Basic match information
-  ```
-  | checksum | date | map | tournament |
-  |----------|------|-----|------------|
-  ```
-- **Teams**: Team compositions and sides
-  ```
-  | name | team | match_checksum | tournament |
-  |------|------|----------------|------------|
-  ```
-- **Players Economy**: Round-by-round economic data
-  ```
-  | steamid | name | player_side | equipment_value | type | match_checksum | tournament |
-  |---------|------|-------------|-----------------|------|----------------|------------|
-  ```
-
-## **ExtractPlayerData.ipynb**
-Skills & Technologies Demonstrated:
-- Data transformation and cleaning
-- Statistical analysis
-- Performance metric calculations
-- Advanced pandas operations
-
-Data Pipeline:
-1. Processes player-level events from demo files
-2. Calculates performance metrics
-3. Analyzes clutch situations and trade patterns
-4. Generates comprehensive player statistics
-
-Output Tables:
-- **Players**: Comprehensive player statistics
-  ```
-  | name | steamid | team_name | kills | assists | deaths | headshots | hs_% | k/d | kast | ... |
-  |------|---------|-----------|-------|---------|--------|-----------|------|-----|------|-----|
-  ```
-- **Clutches**: Analysis of 1vX situations
-  ```
-  | won | steamid | name | survived | kill_count | match_checksum | tournament |
-  |-----|---------|------|----------|------------|----------------|------------|
-  ```
-- **Kills**: Detailed kill event data
-  ```
-  | killer_name | killer_steamid | victim_name | weapon_name | headshot | is_trade_kill | ... |
-  |-------------|----------------|-------------|-------------|----------|----------------|-----|
-  ```
 
 

@@ -90,15 +90,4 @@ def get_player_photos(players_data):
     players_data.loc[players_data['photo_player'].isna(), 'player_nick'] = "Benched"
     players_data.loc[players_data['photo_player'].isna(), 'photo_player'] = "https://www.hltv.org/img/static/player/player_silhouette.png"
     
-    benched_count = len(players_data[players_data['photo_player'] == "https://www.hltv.org/img/static/player/player_silhouette.png"])
-    
-    if benched_count == 0:
-        print(f"\nAll players had their photos downloaded")
-    else:
-        print(f"\nA total of {benched_count} players didn't have photos")
-
-
-    players_data.to_csv('photo_players.csv',encoding='utf-8-sig', index=False)
-    players_data.dropna(subset=['player_flag'], inplace=True)
-    
     return players_data

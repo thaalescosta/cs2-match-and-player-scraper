@@ -4,6 +4,7 @@ import requests
 import os
 import time
 import numpy as np
+import pandas as pd
 
 def download_photos(players_data):
     """
@@ -117,7 +118,7 @@ def download_photos(players_data):
         except UnidentifiedImageError:
             print(f"Could not identify image for URL: {photo_player}")
             
-        if row['player_flag'] == np.nan:
+        if pd.isna(row['player_flag']):
             continue
         else:
             response2 = requests.get(player_flag, headers=headers)
@@ -131,5 +132,7 @@ def download_photos(players_data):
         # Update the DataFrame with the local file paths
         players_data.loc[index, 'photo_player_path'] = os.path.abspath(os.path.join(output_dir, f"{row['team_name'].lower().replace(' ', '-')}-{player_nick}.png"))
         players_data.loc[index, 'player_flag_path'] = os.path.abspath(os.path.join(output_dir_flags, f"{row['player_country'].lower().replace(' ','-')}.png"))
-
+    
+    print(f"\nAll players who had their photos on HLTV have been downloaded")
+    
     return players_data

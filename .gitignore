@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 **/__pycache__/
+**/ExtractPlayerData/photo_players/
+**/
 **/bkp/
 # Jupyter Notebook
 .ipynb_checkpoints
