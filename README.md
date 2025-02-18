@@ -1,16 +1,16 @@
 # CS2 Matches and Players/Teams Scraper
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was having a hard time finding datasets of Counter Strike 2 and after doing some googling IO figured why not make my own. 
+I was having a hard time finding datasets of Counter Strike 2 and after doing some googling IO figured why not make my own. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While I'm at it, why not make it more complex and maybe create a database in MySQL and a Power BI dashboard.
+While I'm at it, why not make it more complex and maybe create a database in MySQL and a Power BI dashboard.
 
 ## Acknowledgements
 This project uses the demo parser [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) created by [@markus-wa](https://github.com/markus-wa) and maintained by him and [@akiver](https://github.com/akiver).
 
 ## Usage
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Everything was done thinking in those who are like me, who don't know much about programming but still is someone able to do something like this if they put their time into it.
+Everything was done thinking in those who are like me, who don't know much about programming but still is someone able to do something like this if they put their time into it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Every download and output from the script will be saved into the cloned folder and you shouldn't need to install anything else other than what's in the _requirements.txt_ file.
+Every download and output from the script will be saved into the cloned folder and you shouldn't need to install anything else other than what's in the _requirements.txt_ file.
 
 
 Clone this repository:
@@ -28,11 +28,11 @@ Use the **ExtractMatchData.ipynb** or **ExtractPlayerData.ipynb** to scrape the 
 # About the scripts
 
 ### **ExtractMatchData.ipynb**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I divided everything I wanted and needed to do into function to keep the notebook clean and easy to read.
+I divided everything I wanted and needed to do into function to keep the notebook clean and easy to read.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can snoop around the functions and see what's going on and disable the --headless line in **\\_resources\chromelib.py** to see what Selenium is doing.
+You can snoop around the functions and see what's going on and disable the --headless line in **\\_resources\chromelib.py** to see what Selenium is doing.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In summary this is what I had the script do:
+In summary this is what I had the script do:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** Scrape through the results page of each tournament gathering the URLs for each matchup (Bo1, Bo3 or Bo5)
 
@@ -49,10 +49,9 @@ Coming up...
 
 ### **ExtractPlayerData.ipynb**
 It's a simpler script that scrapes data about players from the top N HLTV teams (names, nicknames, PNG photos, country and more).
+This data will be used to create a teams dataset to be later used in a Power BI dashboard.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data will be used to create a teams dataset to be later used in a Power BI dashboard.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So as with ExtractMatchData.ipynb, I divided everything into functions and these were the basic steps:
+So as with ExtractMatchData.ipynb, I divided everything into functions and these were the basic steps:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** Scrape the Top HLTV Teams gathering the URLs for each team page
 
