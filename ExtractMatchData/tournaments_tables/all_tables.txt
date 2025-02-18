@@ -2,7 +2,7 @@
 Tournaments Table:
 | root | url | url_event | tournament | nspc_tournament | match_id | url_request | url_demo | file_name | demo_path | output_data_path |
 |---|---|---|---|---|---|---|---|---|---|---|
-| c:\cs2-hltv-event-scrapper\ExtractMatchData | https://www.hltv.org/matches/2378460/eternal-fire-vs-spirit-blast-bounty-2025-season-1-finals | https://www.hltv.org/results?event=7909 | BLAST Bounty 2025 Season 1 Finals | blast-bounty-2025-season-1-finals | 93701 | https://www.hltv.org/download/demo/93701 | https://r2-demos.hltv.org/demos/111377/blast-bounty-2025-season-1-finals-eternal-fire-vs-spirit-bo5-7H36TpK_LYGHtCXpF3Cgdr.rar | blast-bounty-2025-season-1-finals-eternal-fire-vs-spirit-bo5-7H36TpK_LYGHtCXpF3Cgdr.rar | c:\cs2-hltv-event-scrapper\ExtractMatchData\downloads\unpacked_demos\BLAST Bounty 2025 Season 1 Finals | c:\cs2-hltv-event-scrapper\ExtractMatchData\downloads\extracted_data\BLAST Bounty 2025 Season 1 Finals |
+| c:\cs2-match-and-player-scraper\ExtractMatchData | https://www.hltv.org/matches/2378460/eternal-fire-vs-spirit-blast-bounty-2025-season-1-finals | https://www.hltv.org/results?event=7909 | BLAST Bounty 2025 Season 1 Finals | blast-bounty-2025-season-1-finals | 93701 | https://www.hltv.org/download/demo/93701 | https://r2-demos.hltv.org/demos/111377/blast-bounty-2025-season-1-finals-eternal-fire-vs-spirit-bo5-7H36TpK_LYGHtCXpF3Cgdr.rar | blast-bounty-2025-season-1-finals-eternal-fire-vs-spirit-bo5-7H36TpK_LYGHtCXpF3Cgdr.rar | c:\cs2-match-and-player-scraper\ExtractMatchData\downloads\unpacked_demos\BLAST Bounty 2025 Season 1 Finals | c:\cs2-match-and-player-scraper\ExtractMatchData\downloads\extracted_data\BLAST Bounty 2025 Season 1 Finals |
 
 
 clutches Table:
@@ -26,13 +26,13 @@ match Table:
 players Table:
 | name | steamid | team_name | kills | assists | deaths | headshots | hs_% | kd | kast | avg_damages_per_round | avg_kills_per_round | avg_death_per_round | utility_damage_per_round | health_damage | armor_damage | utility_damage | first_kill | first_death | trade_kill | trade_death | 1k | 2k | 3k | 4k | 5k | match_checksum | tournament |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| XANTARES | 76561198044118796 | Eternal Fire | 23 | 10 | 21 | 14 | 60 | 1.095238 | 76.666664 | 94.76667 | 0.766667 | 0.7 | 1.333333 | 2843 | 397 | 40 | 6 | 4 | 3 | 7 | 8 | 4 | 1 | 1 | 0 | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+| chopper | 76561198045898864 | Team Spirit | 18 | 5 | 23 | 12 | 66 | 0.782609 | 70.0 | 60.599998 | 0.6 | 0.766667 | 1.566667 | 1818 | 417 | 47 | 5 | 5 | 3 | 6 | 9 | 3 | 1 | 0 | 0 | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
 
 
 players_economy Table:
 | steamid | name | player_side | equipment_value | type | match_checksum | tournament |
 |---|---|---|---|---|---|---|
-| 76561198045898864 | chopper | Counter Terrorist | 400 | pistol | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
+| 76561198812513923 | Wicadia | Terrorist | 1150 | pistol | 59e5b2c76e05bce0 | BLAST Bounty 2025 Season 1 Finals |
 
 
 teams Table:

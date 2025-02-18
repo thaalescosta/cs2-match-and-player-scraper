@@ -1,4 +1,3 @@
-import shutil
 import os
 import rarfile
 from tqdm import tqdm  # Import tqdm for progress bar
@@ -66,9 +65,5 @@ def unrar(tournaments_df):
         progress_bar.update(1)  # Update tqdm progress bar after each file
 
     progress_bar.close()  # Close tqdm progress bar
-
-    # Remove the source folder after extraction
-    # if os.path.exists(source_folder):
-    #     shutil.rmtree(source_folder)
     
     return tournaments_df

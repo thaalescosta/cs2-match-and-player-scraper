@@ -1,8 +1,7 @@
 import os
 import time
 from tqdm import tqdm  # Import tqdm for the progress bar
-from ExtractMatchData._functions.chromelib import WebDriverWait, Service, Options, webdriver
-import shutil
+from ExtractMatchData._functions.chromelib import Options, webdriver
 
 def download_files(tournaments_df):
     destination_folder = os.path.join(tournaments_df.iloc[0]['root'], "downloads", 'demos')

@@ -2,7 +2,6 @@ import os
 import subprocess
 import time
 from tqdm import tqdm  # Import tqdm for progress bar
-import shutil
 
 def run_csda_on_demos(tournaments_df):
     tournaments_df['output_data_path'] = None
