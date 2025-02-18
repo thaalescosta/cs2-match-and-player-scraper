@@ -2,7 +2,8 @@
 
 I was having a hard time finding datasets of Counter Strike 2 on the internet. After doing some googling I figured why not make my own.
 
-Andhile I'm at it, why not make it more complex and maybe create a database in MySQL and a Power BI dashboard.
+And while I'm at it, why not make it more complex and maybe create a database in MySQL and a Power BI dashboard.
+
 ![test](https://github.com/thaalescosta/cs2-match-and-player-scraper/blob/main/ExtractMatchData/_resources/diagram.png)
 
 ## Tools
