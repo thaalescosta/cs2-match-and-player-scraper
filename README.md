@@ -5,7 +5,10 @@ I was having a hard time finding datasets of Counter Strike 2 and after doing so
 While I'm at it, why not make it more complex and maybe create a database in MySQL and a Power BI dashboard.
 
 ## Acknowledgements
-This project uses the demo parser [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) created by [@markus-wa](https://github.com/markus-wa) and maintained by him and [@akiver](https://github.com/akiver).
+This project uses a modified demo parser [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) created by [@markus-wa](https://github.com/markus-wa) and maintained by him and [@akiver](https://github.com/akiver).
+
+The modification was made to reduce the number of .csv files generated for each demo, generating only the ones I felt relevant to my project
+
 
 ## Usage
 Everything was done thinking in those who are like me, who don't know much about programming but still is someone able to do something like this if they put their time into it.
@@ -38,7 +41,7 @@ In summary this is what I had the script do:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** Use an ID found in the matchup page to get an URL, to make a GET request and retrieve the direct download link to the demos
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** Then download all of the demos and put them through **CSDA.exe** (CS2 Demo Analyzer) to process the .dem files and extract all sorts of data.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** Then download all demos and put them through **CSDA.exe** to process the .dem files and extract all sorts of data.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.** Once the demos are analyzed, all the data that I've been collecting throughout the process is stored in .csv files.
 
@@ -55,9 +58,10 @@ So as with ExtractMatchData.ipynb, I divided everything into functions and these
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** Scrape the Top HLTV Teams gathering the URLs for each team page
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** Scrape the team pages to get the players data like full name, country, their transparent PNG photos, country flag pngs and some more data.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** Scrape the team pages to get the players data like full name, country, PNG photos, country flag and some more data.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** Stored the data nice and clean in a dataframe that will be turned into a .csv file and later inserted into the same database.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** Stored the data nice and clean in a dataframe or .csv file and later.
+
 
 
 
