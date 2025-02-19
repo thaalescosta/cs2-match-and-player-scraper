@@ -2,8 +2,13 @@ import os
 import time
 from tqdm import tqdm  # Import tqdm for the progress bar
 from ExtractMatchData._functions.chromelib import Options, webdriver
+import shutil
 
 def download_files(tournaments_df):
+        
+    if os.path.exists(os.path.join(tournaments_df.iloc[0]['root'], 'downloads')):
+        shutil.rmtree(os.path.join(tournaments_df.iloc[0]['root'], 'downloads')) 
+    
     destination_folder = os.path.join(tournaments_df.iloc[0]['root'], "downloads", 'demos')
     os.makedirs(destination_folder, exist_ok=True)
         

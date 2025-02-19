@@ -60,7 +60,7 @@ def run_csda_on_demos(tournaments_df):
                     break  # Break out of the loop for any other exceptions
             time.sleep(2)
 
-        # Update output_data_path for all matches in this tournament
         tournaments_df.loc[tournaments_df['tournament'] == tournament, 'output_data_path'] = output_path
+        
         
     return tournaments_df

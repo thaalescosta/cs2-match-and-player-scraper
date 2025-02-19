@@ -38,8 +38,7 @@ def unrar(tournaments_df):
         match = tournaments_df[tournaments_df['file_name'] == rar_filename]
 
         if match.empty:
-            print(f"Skipping {rar_filename} (No matching tournament found).")
-            progress_bar.update(1)
+            # print(f"Skipping {rar_filename} (No matching tournament found).")
             continue
         
         tournament = match['tournament'].values[0]  # Get the tournament value

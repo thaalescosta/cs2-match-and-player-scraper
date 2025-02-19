@@ -23,16 +23,16 @@ def download_photos(players_data):
         os.makedirs(output_dir_flags)
 
     for index, row in players_data.iterrows():
-        time.sleep(1)
+        time.sleep(0.5)
         
         player_nick = row['player_nick']
         photo_player = row['photo_player']
         player_flag = row['player_flag']
         
         if "player_silhouette" in photo_player or photo_player == None:
-            response = scraper.get('https://www.hltv.org/img/static/player/player_silhouette.png') #, headers=headers2
+            response = scraper.get('https://www.hltv.org/img/static/player/player_silhouette.png')
         else:
-            response = scraper.get(photo_player) #, headers=headers
+            response = scraper.get(photo_player)
         
         try:
             img = Image.open(BytesIO(response.content))
@@ -43,7 +43,7 @@ def download_photos(players_data):
         if pd.isna(row['player_flag']):
             continue
         else:
-            response2 = scraper.get(player_flag) #, headers=headers
+            response2 = scraper.get(player_flag)
         
         try:
             img = Image.open(BytesIO(response2.content))
