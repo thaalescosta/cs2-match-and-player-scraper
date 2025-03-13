@@ -1,4 +1,3 @@
-#
 # Just a simple function to get the chrome options for the selenium webdriver.
 import pandas as pd
 from selenium import webdriver

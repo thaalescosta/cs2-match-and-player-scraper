@@ -1,4 +1,3 @@
-
 from ExtractMatchData._functions.chromelib import get_chrome_options, By, WebDriverWait, EC, pd
 from bs4 import BeautifulSoup
 

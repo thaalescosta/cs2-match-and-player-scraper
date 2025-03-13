@@ -1,6 +1,5 @@
 from io import BytesIO
 from PIL import Image, UnidentifiedImageError
-import requests
 import os
 import time
 import numpy as np

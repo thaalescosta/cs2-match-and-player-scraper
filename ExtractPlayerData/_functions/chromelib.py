@@ -9,9 +9,10 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from IPython.display import display
 import pandas as pd
+import os
 
 def get_chrome_options():
-
+    root = os.path.join(os.getcwd(), r'ExtractMatchData')
     chrome_options = Options()        
     chrome_options.add_argument('--headless=new')
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36")
@@ -24,7 +25,7 @@ def get_chrome_options():
     chrome_options.add_argument('--no-sandbox')
 
     # Create service object with log output suppressed
-    service = Service('C://chromedriver-win64//chromedriver.exe')
+    service = Service(os.path.join(root, r"_resources","chromedriver.exe"))
     service.creation_flags = 0x08000000  # Suppress console window
 
     # Initialize the Chrome driver

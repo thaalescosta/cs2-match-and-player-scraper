@@ -1,4 +1,5 @@
 import cloudscraper
+
 def get_request(tournaments_df):
 
     scraper = cloudscraper.create_scraper()

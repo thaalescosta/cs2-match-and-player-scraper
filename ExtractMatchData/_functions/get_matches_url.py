@@ -1,8 +1,7 @@
-import time
-from ExtractMatchData._functions.chromelib import By, WebDriverWait, EC, get_chrome_options
+from ExtractMatchData._functions.chromelib import By, WebDriverWait, EC, get_chrome_options, pd
 from bs4 import BeautifulSoup
-from ExtractMatchData._functions.chromelib import pd
 import os
+import time
 
 def get_matches_url(*id_event, root):
     

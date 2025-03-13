@@ -90,6 +90,7 @@ def get_match_ids(tournaments_df):
         tournaments_df.at[i-1, 'team_1_result'] = team1_score
         tournaments_df.at[i-1, 'team_2'] = team2_name
         tournaments_df.at[i-1, 'team_2_result'] = team2_score
+        tournaments_df.at[i-1, 'event_id'] = tournaments_df.at[i-1, 'url_event'].replace('https://www.hltv.org/results?event=', '')
 
 
         driver.quit()

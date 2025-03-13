@@ -1,5 +1,4 @@
 from ExtractPlayerData._functions.chromelib import get_chrome_options, WebDriverWait, EC, By, BeautifulSoup
-import pandas as pd
 
 def get_player_photos(players_data):
     """
@@ -18,17 +17,16 @@ def get_player_photos(players_data):
     # Initialize the progress bar for total number of players
     progress_bar = tqdm(total=total_players,
                         desc="Fetching player photo URLs",
-                        maxinterval=1.0,
+                        mininterval=0.5, # Set minimum update interval to 1 second
+                        maxinterval=0.5,
                         unit="player",
                         ncols=100,
                         bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}]",
     )
-    players_processed = 0
-
+    
     for team_page in unique_team_pages:
-        
+
         driver = get_chrome_options()
-        
         driver.get(team_page)
         
         try:
@@ -48,7 +46,7 @@ def get_player_photos(players_data):
         html_content = driver.page_source
         soup = BeautifulSoup(html_content, 'html.parser')
         
-        team_name = soup.find('img', class_='team-logo')['alt']
+        team_name = soup.find('h1', class_='profile-team-name text-ellipsis').text.strip()
         # Find the player pictures within the team page
         bodyshot_divs = soup.find_all('a', class_='col-custom', limit=5)    
         if len(bodyshot_divs) == 4:
@@ -70,24 +68,23 @@ def get_player_photos(players_data):
                 player_flag = f"https://www.hltv.org{flag_element['src']}" if flag_element else None
             
             matching_rows_url = players_data[(players_data['player_nick'] == player_nick) & (players_data['team_name'] == team_name)]
-            
-            # Update the DataFrame with the new player photo URL
+            progress_bar.update(len(matching_rows_url))
+
+           # Update the DataFrame with the new player photo URL
             mask = (players_data['player_nick'].str.strip() == player_nick.strip()) & (players_data['team_name'].str.strip() == team_name.strip())
             players_data.loc[mask, 'photo_player'] = photo_player
             if player_flag:
                 players_data.loc[mask, 'player_flag'] = player_flag
-            # print(f'{player_nameplayer_countryplayer_flagplayer_countryphoto_player}')
-            # Update progress for each player processed
-            players_processed += len(matching_rows_url)
-            progress_bar.update(len(matching_rows_url))
-
+               
+        
         driver.quit()
-
-    # Close the progress bar
-    progress_bar.close()
 
     players_data.loc[players_data['photo_player'].isna(), 'player_name'] = ("Player was Benched")
     players_data.loc[players_data['photo_player'].isna(), 'player_nick'] = "Benched"
     players_data.loc[players_data['photo_player'].isna(), 'photo_player'] = "https://www.hltv.org/img/static/player/player_silhouette.png"
+    players_data.loc[players_data['photo_player'].isna(), 'player_flag'] = "?"
     
+    # Close the progress bar
+    progress_bar.close()
+
     return players_data
