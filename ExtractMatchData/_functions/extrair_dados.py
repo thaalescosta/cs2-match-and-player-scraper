@@ -1,6 +1,7 @@
 import os
 import subprocess
 import time
+import pandas as pd
 from tqdm import tqdm  # Import tqdm for progress bar
 
 def run_csda_on_demos(tournaments_df):
@@ -23,7 +24,7 @@ def run_csda_on_demos(tournaments_df):
         # Get the list of .dem files
         dem_files = [f for f in os.listdir(demos_path) if f.endswith('.dem')]
         
-        print(f"\nNumber of games: {len(dem_files)}")
+        # print(f"\nNumber of games: {len(dem_files)}")
         
         # Iterate over all .dem files with a progress bar
         for filename in tqdm(dem_files,
@@ -34,11 +35,11 @@ def run_csda_on_demos(tournaments_df):
                         bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}]"
                         ):
             # Construct the full path to the .dem file
-            # If demos_path is "c:\cs2-hltv-event-scrapper\ExtractMatchData\downloads\unpacked_demos\BLAST Bounty 2025 Season 1 Finals"
-            # and filename is "game.dem"
-            # dem_path would be "c:\cs2-hltv-event-scrapper\ExtractMatchData\downloads\unpacked_demos\BLAST Bounty 2025 Season 1 Finals\game.dem"
             dem_path = os.path.join(demos_path, filename)
             
+            # Create unique name by combining filename and nspc_tournament
+            unique_name = f"{filename.replace('.dem', '')}_{row['nspc_tournament']}"
+            tournaments_df.loc[tournaments_df['tournament'] == tournament, 'unique_name'] = unique_name
             
             # Construct the command to run csda (as a single string for shell=True)
             sources = ["esl", "faceit", "valve"]
@@ -47,6 +48,7 @@ def run_csda_on_demos(tournaments_df):
                 try:
                     # Run the command with shell=True
                     subprocess.run(command, shell=True, check=True)
+                   
                     break  # If the command succeeds, break out of the loop
                 except subprocess.CalledProcessError as e:
                     if "unknown demo source" in str(e):
@@ -59,8 +61,8 @@ def run_csda_on_demos(tournaments_df):
                     print(f"An unexpected error occurred with {filename}: {e}")
                     break  # Break out of the loop for any other exceptions
             time.sleep(2)
-
         tournaments_df.loc[tournaments_df['tournament'] == tournament, 'output_data_path'] = output_path
+        
         
         
     return tournaments_df

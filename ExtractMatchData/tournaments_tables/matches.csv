@@ -1,254 +1,711 @@
-checksum,date,source,map,kill_count,assist_count,death_count,tournament
-59e5b2c76e05bce0,2025-01-26,esl,de_anubis,204,72,207,BLAST Bounty 2025 Season 1 Finals
-2a4c3f36d8d46afa,2025-01-26,esl,de_nuke,130,42,133,BLAST Bounty 2025 Season 1 Finals
-d8b7e0bddd1b3eb3,2025-01-26,esl,de_dust2,110,45,110,BLAST Bounty 2025 Season 1 Finals
-9cb48de6a17ebe1,2025-01-26,esl,de_mirage,147,42,149,BLAST Bounty 2025 Season 1 Finals
-f101e58241ef725a,2025-01-23,esl,de_anubis,107,38,108,BLAST Bounty 2025 Season 1 Finals
-d8db8a4b337c6ecd,2025-01-23,esl,de_dust2,111,46,112,BLAST Bounty 2025 Season 1 Finals
-bde29716c3d4329a,2025-01-25,esl,de_anubis,163,58,163,BLAST Bounty 2025 Season 1 Finals
-3e8f1122a4f9f6e8,2025-01-25,esl,de_dust2,135,53,135,BLAST Bounty 2025 Season 1 Finals
-40d4c1527dc406f0,2025-01-25,esl,de_nuke,167,55,167,BLAST Bounty 2025 Season 1 Finals
-e1b5625501404064,2025-01-24,esl,de_dust2,194,62,195,BLAST Bounty 2025 Season 1 Finals
-4ccce73468468deb,2025-01-24,esl,de_nuke,133,26,133,BLAST Bounty 2025 Season 1 Finals
-341d802e05c4673,2025-01-24,esl,de_mirage,172,54,173,BLAST Bounty 2025 Season 1 Finals
-79792497772f19cb,2025-01-25,esl,de_dust2,133,43,133,BLAST Bounty 2025 Season 1 Finals
-cf562d2195118fe,2025-01-25,esl,de_ancient,274,102,287,BLAST Bounty 2025 Season 1 Finals
-6ff36ec1a9149902,2025-01-23,esl,de_anubis,158,50,158,BLAST Bounty 2025 Season 1 Finals
-74f1eea03072e6b4,2025-01-23,esl,de_nuke,111,22,111,BLAST Bounty 2025 Season 1 Finals
-299d651349cc6962,2025-01-24,esl,de_anubis,132,41,132,BLAST Bounty 2025 Season 1 Finals
-ad2b34ad0667c962,2025-01-24,esl,de_mirage,158,50,168,BLAST Bounty 2025 Season 1 Finals
-3a5be6e4d45a306e,2025-02-02,esl,de_ancient,164,52,164,IEM Katowice 2025
-bf5f494d030fe791,2025-02-02,esl,de_inferno,126,36,127,IEM Katowice 2025
-7a873ef2dfe2748b,2025-02-03,esl,de_inferno,114,42,114,IEM Katowice 2025
-6c679391a6dbcf2f,2025-02-03,esl,de_anubis,184,65,184,IEM Katowice 2025
-59915953161c3f2c,2025-02-03,esl,de_dust2,151,47,151,IEM Katowice 2025
-2560f7943b930418,2025-02-04,esl,de_anubis,112,40,112,IEM Katowice 2025
-60fb075c6ceb579d,2025-02-04,esl,de_nuke,327,94,333,IEM Katowice 2025
-24caf48b107978c8,2025-02-02,esl,de_anubis,137,47,137,IEM Katowice 2025
-f724d4d6b20a12bb,2025-02-02,esl,de_dust2,27,13,28,IEM Katowice 2025
-81aee11eb055c1ff,2025-02-02,esl,de_dust2,125,52,125,IEM Katowice 2025
-d3c2cd2f022a60c2,2025-02-02,esl,de_train,186,64,188,IEM Katowice 2025
-cbf08c5a4ea5b688,2025-02-01,esl,de_inferno,134,47,135,IEM Katowice 2025
-fbcad246a8dde6be,2025-02-01,esl,de_train,123,37,123,IEM Katowice 2025
-e537f0fbeee87b04,2025-02-02,esl,de_ancient,144,49,144,IEM Katowice 2025
-689e7c4b453a1b22,2025-02-02,esl,de_dust2,120,39,120,IEM Katowice 2025
-559ac651f961dcd4,2025-02-02,esl,de_mirage,175,64,177,IEM Katowice 2025
-28433542262f6ce8,2025-02-01,esl,de_ancient,81,30,82,IEM Katowice 2025
-19d23a463472ab70,2025-02-01,esl,de_ancient,72,18,82,IEM Katowice 2025
-d9bcb36f06fcf029,2025-02-01,esl,de_mirage,154,44,154,IEM Katowice 2025
-d6d0f7100c7b886a,2025-02-01,esl,de_nuke,127,37,134,IEM Katowice 2025
-37b4c80e049802e4,2025-02-03,esl,de_inferno,20,12,20,IEM Katowice 2025
-693fb6f5fe54ada3,2025-02-03,esl,de_inferno,120,49,122,IEM Katowice 2025
-a841aa475f35b827,2025-02-03,esl,de_dust2,135,50,136,IEM Katowice 2025
-b1546cb16ce4f919,2025-02-03,esl,de_nuke,42,14,42,IEM Katowice 2025
-7e2a3723b325ac32,2025-02-03,esl,de_nuke,106,34,117,IEM Katowice 2025
-1d90a7887b738639,2025-02-03,esl,de_ancient,56,19,56,IEM Katowice 2025
-45e1ab827f1078e8,2025-02-03,esl,de_ancient,151,52,151,IEM Katowice 2025
-2a9902e81ae40834,2025-02-03,esl,de_inferno,64,17,64,IEM Katowice 2025
-751f3a46428921f2,2025-02-03,esl,de_inferno,84,31,84,IEM Katowice 2025
-55f900d795622dae,2025-02-03,esl,de_nuke,137,43,137,IEM Katowice 2025
-3374c692d0b7534,2025-02-01,esl,de_inferno,136,54,137,IEM Katowice 2025
-c56449524c6b814a,2025-02-01,esl,de_mirage,192,50,192,IEM Katowice 2025
-1cd7c5206b017384,2025-02-04,esl,de_nuke,56,19,57,IEM Katowice 2025
-1cb455e4100595e,2025-02-04,esl,de_nuke,87,22,97,IEM Katowice 2025
-24aae0a026f21989,2025-02-04,esl,de_mirage,128,43,128,IEM Katowice 2025
-f0512b9774f1d4e0,2025-02-04,esl,de_anubis,45,14,45,IEM Katowice 2025
-466fcbf188bb4eeb,2025-02-04,esl,de_anubis,105,32,105,IEM Katowice 2025
-6db171ff15dfdd09,2025-02-04,esl,de_ancient,45,15,46,IEM Katowice 2025
-d474cdcdbcd4e391,2025-02-04,esl,de_ancient,89,44,102,IEM Katowice 2025
-c051cd28c3fef2fb,2025-02-04,esl,de_nuke,112,42,113,IEM Katowice 2025
-52f410db2e464ddf,2025-02-03,esl,de_nuke,151,34,151,IEM Katowice 2025
-68f960e49f620eb6,2025-02-03,esl,de_mirage,132,42,133,IEM Katowice 2025
-460cdd1cb28a18de,2025-02-04,esl,de_nuke,46,12,47,IEM Katowice 2025
-ba4d5563629a1e42,2025-02-04,esl,de_nuke,86,38,87,IEM Katowice 2025
-61cd6440284a9038,2025-02-04,esl,de_dust2,132,37,133,IEM Katowice 2025
-a0154a45e1d020a3,2025-02-01,esl,de_inferno,147,51,148,IEM Katowice 2025
-ac1380546b71e382,2025-02-01,esl,de_mirage,164,53,167,IEM Katowice 2025
-fd5f8a6034103d74,2025-02-03,esl,de_nuke,126,35,129,IEM Katowice 2025
-923d4f47b764dce7,2025-02-03,esl,de_ancient,134,53,134,IEM Katowice 2025
-ebcee65afcd51cc1,2025-02-01,esl,de_dust2,116,43,117,IEM Katowice 2025
-72cbe2c6ce383400,2025-02-01,esl,de_mirage,95,32,97,IEM Katowice 2025
-4a7f07789d54e3b7,2025-02-03,esl,de_mirage,142,44,142,IEM Katowice 2025
-9db7975699fd0241,2025-02-03,esl,de_dust2,23,8,24,IEM Katowice 2025
-8c8bbaa2641a47f5,2025-02-03,esl,de_dust2,5,3,7,IEM Katowice 2025
-e732cdb2060c513d,2025-02-03,esl,de_dust2,117,36,117,IEM Katowice 2025
-d283b059cd044a37,2025-02-08,esl,de_dust2,191,73,191,IEM Katowice 2025
-e5487aec09987be7,2025-02-03,esl,de_nuke,207,60,207,IEM Katowice 2025
-15ecd8037c10dd79,2025-02-02,esl,de_nuke,118,32,120,IEM Katowice 2025
-c4954bead7b0cea3,2025-02-02,esl,de_dust2,15,5,16,IEM Katowice 2025
-2582d0e2275df235,2025-02-02,esl,de_dust2,99,36,100,IEM Katowice 2025
-7c8d471088efabbd,2025-02-07,esl,de_anubis,128,49,129,IEM Katowice 2025
-4314a9bfc52002d9,2025-02-07,esl,de_mirage,8,3,9,IEM Katowice 2025
-cde638435845fd7f,2025-02-07,esl,de_mirage,220,60,232,IEM Katowice 2025
-12edef407a73615c,2025-02-07,esl,de_mirage,39,12,39,IEM Katowice 2025
-b4ed316595c9e3ee,2025-02-02,esl,de_nuke,54,14,55,IEM Katowice 2025
-9169550a6483bf72,2025-02-02,esl,de_nuke,41,12,42,IEM Katowice 2025
-551f82d6a90513c,2025-02-02,esl,de_nuke,59,15,59,IEM Katowice 2025
-9d28525a9109fae5,2025-02-02,esl,de_mirage,141,51,141,IEM Katowice 2025
-b3e630844838d64a,2025-02-02,esl,de_ancient,153,67,156,IEM Katowice 2025
-d1a36e7ffefcc2b,2025-02-04,esl,de_mirage,99,25,100,IEM Katowice 2025
-ff97bf15fec913cc,2025-02-04,esl,de_ancient,153,61,153,IEM Katowice 2025
-389c398779c40eb7,2025-02-07,esl,de_train,106,30,106,IEM Katowice 2025
-2d40aa7843420a75,2025-02-07,esl,de_ancient,143,55,148,IEM Katowice 2025
-fe4b8e62bc76e328,2025-02-04,esl,de_anubis,130,41,130,IEM Katowice 2025
-9762731cfede72e3,2025-02-04,esl,de_inferno,119,51,121,IEM Katowice 2025
-570f8248223e79f2,2025-02-01,esl,de_inferno,235,72,235,IEM Katowice 2025
-21962835eb0afc65,2025-02-01,esl,de_nuke,61,20,62,IEM Katowice 2025
-338bf45269a7603e,2025-02-01,esl,de_nuke,23,6,34,IEM Katowice 2025
-210aa16e681afeb,2025-02-01,esl,de_nuke,66,18,66,IEM Katowice 2025
-35700478db137ecd,2025-02-02,esl,de_nuke,104,32,106,IEM Katowice 2025
-383f3f966a667aac,2025-02-02,esl,de_anubis,157,72,157,IEM Katowice 2025
-da770bde2ceb32d,2025-02-02,esl,de_dust2,250,82,250,IEM Katowice 2025
-195047b6d1906fc4,2025-02-09,esl,de_dust2,128,45,128,IEM Katowice 2025
-da94e61682a859f4,2025-02-09,esl,de_nuke,111,25,111,IEM Katowice 2025
-9f4bfbc3b264416b,2025-02-09,esl,de_mirage,168,61,169,IEM Katowice 2025
-c7e4db4643f03b80,2025-02-08,esl,de_mirage,141,47,141,IEM Katowice 2025
-f500563a00bf8c99,2025-02-08,esl,de_nuke,154,57,155,IEM Katowice 2025
-bfc6f2825a0867f9,2025-01-29,esl,de_train,117,29,117,IEM Katowice 2025 Play-in
-b4c6188c4486cbd4,2025-01-29,esl,de_inferno,117,46,118,IEM Katowice 2025 Play-in
-8ba8780c2294ec78,2025-01-30,esl,de_inferno,227,90,232,IEM Katowice 2025 Play-in
-69fe15c294772f47,2025-01-30,esl,de_nuke,120,28,121,IEM Katowice 2025 Play-in
-27ff2724d14966de,2025-01-29,esl,de_mirage,66,21,69,IEM Katowice 2025 Play-in
-c63cce56b8892279,2025-01-29,esl,de_mirage,14,5,14,IEM Katowice 2025 Play-in
-dd7f4fbf9530e544,2025-01-29,esl,de_mirage,105,29,106,IEM Katowice 2025 Play-in
-99a415d433476e78,2025-01-29,esl,de_ancient,158,67,160,IEM Katowice 2025 Play-in
-a6bf6fa832a47317,2025-01-31,esl,de_nuke,111,27,112,IEM Katowice 2025 Play-in
-b2c49860d94e5292,2025-01-31,esl,de_ancient,118,37,122,IEM Katowice 2025 Play-in
-118dfcc021267f70,2025-01-30,esl,de_inferno,109,40,109,IEM Katowice 2025 Play-in
-adb0c2aafaa3fb20,2025-01-30,esl,de_ancient,125,42,126,IEM Katowice 2025 Play-in
-282f92f9b99085d8,2025-01-29,esl,de_anubis,30,11,30,IEM Katowice 2025 Play-in
-96e3bfd883fd165b,2025-01-29,esl,de_anubis,90,30,90,IEM Katowice 2025 Play-in
-69c385174318c430,2025-01-29,esl,de_train,239,62,239,IEM Katowice 2025 Play-in
-570bcf1cea3a6b34,2025-01-31,esl,de_inferno,133,44,133,IEM Katowice 2025 Play-in
-391305308d8bb198,2025-01-31,esl,de_ancient,157,64,161,IEM Katowice 2025 Play-in
-376b2624d4ca6f5b,2025-01-30,esl,de_nuke,170,47,175,IEM Katowice 2025 Play-in
-9266ec02c32bf917,2025-01-30,esl,de_anubis,203,61,205,IEM Katowice 2025 Play-in
-42946d021e655086,2025-01-30,esl,de_train,87,31,89,IEM Katowice 2025 Play-in
-7b1ba9b6e721b66e,2025-01-30,esl,de_train,41,12,41,IEM Katowice 2025 Play-in
-51bc12af9ae45411,2025-01-30,esl,de_ancient,142,58,142,IEM Katowice 2025 Play-in
-d185d613a8ea4fc9,2025-01-30,esl,de_inferno,32,13,33,IEM Katowice 2025 Play-in
-c39d8c39a8021aa0,2025-01-30,esl,de_inferno,126,40,127,IEM Katowice 2025 Play-in
-6a3336f2505564e3,2025-01-29,esl,de_mirage,188,66,190,IEM Katowice 2025 Play-in
-b5500bd51a9f996b,2025-01-29,esl,de_dust2,93,29,93,IEM Katowice 2025 Play-in
-27006799e54e274f,2025-01-29,esl,de_anubis,133,35,133,IEM Katowice 2025 Play-in
-6ef292ed1ac32c41,2025-01-29,esl,de_nuke,161,56,164,IEM Katowice 2025 Play-in
-2e87cbcb4590cc62,2025-01-29,esl,de_dust2,148,60,148,IEM Katowice 2025 Play-in
-2cdde6ece4c31865,2025-01-31,esl,de_inferno,195,78,198,IEM Katowice 2025 Play-in
-739a6277108d6f14,2025-01-31,esl,de_anubis,88,33,88,IEM Katowice 2025 Play-in
-b94a4b5a4eff365a,2025-01-31,esl,de_inferno,121,45,125,IEM Katowice 2025 Play-in
-2e4c30c44c381f4a,2025-01-31,esl,de_dust2,135,49,135,IEM Katowice 2025 Play-in
-56156d57e4f26bd4,2025-01-30,esl,de_inferno,78,28,80,IEM Katowice 2025 Play-in
-793d2f5ca174881a,2025-01-30,esl,de_inferno,28,10,38,IEM Katowice 2025 Play-in
-a9fedde9b99c606b,2025-01-30,esl,de_mirage,109,29,109,IEM Katowice 2025 Play-in
-795130c6663b9062,2025-01-29,esl,de_nuke,8,5,8,IEM Katowice 2025 Play-in
-974f707b47a12411,2025-01-29,esl,de_nuke,12,2,23,IEM Katowice 2025 Play-in
-dbddb4f7c8f66c15,2025-01-29,esl,de_nuke,49,14,51,IEM Katowice 2025 Play-in
-524c22e996af05d8,2025-01-29,esl,de_nuke,98,27,99,IEM Katowice 2025 Play-in
-21e8fb23cd6fbd3c,2025-01-29,esl,de_inferno,149,51,149,IEM Katowice 2025 Play-in
-5bf3360f6d134a54,2025-01-31,esl,de_anubis,117,42,117,IEM Katowice 2025 Play-in
-7daded92331b1937,2025-01-31,esl,de_ancient,149,55,150,IEM Katowice 2025 Play-in
-ef753259c87d4591,2025-01-29,esl,de_mirage,142,45,142,IEM Katowice 2025 Play-in
-2d16c1abd0c120e1,2025-01-29,esl,de_dust2,105,41,105,IEM Katowice 2025 Play-in
-4190a28a28d8d8a7,2025-01-30,esl,de_dust2,114,39,115,IEM Katowice 2025 Play-in
-615da7d45a1425e8,2025-01-30,esl,de_inferno,109,44,110,IEM Katowice 2025 Play-in
-eadba096300e07f7,2025-01-29,esl,de_ancient,111,41,112,IEM Katowice 2025 Play-in
-b0a70b5c0e07178d,2025-01-29,esl,de_inferno,185,66,187,IEM Katowice 2025 Play-in
-967336fe72e43148,2025-01-31,esl,de_inferno,100,34,100,IEM Katowice 2025 Play-in
-4df19d8300502981,2025-01-31,esl,de_dust2,113,36,114,IEM Katowice 2025 Play-in
-2691cc418a36940e,2025-01-31,esl,de_nuke,210,76,210,IEM Katowice 2025 Play-in
-3f251748b8393476,2025-02-17,esl,de_anubis,155,53,155,PGL Cluj-Napoca 2025
-9ad7d29167f2ca51,2025-02-17,esl,de_inferno,117,42,117,PGL Cluj-Napoca 2025
-e4b9d1335d21094a,2025-02-17,esl,de_nuke,154,45,157,PGL Cluj-Napoca 2025
-77ef2f7df122bb35,2025-02-16,esl,de_ancient,115,37,116,PGL Cluj-Napoca 2025
-6082aa79743c5f85,2025-02-16,esl,de_inferno,173,70,175,PGL Cluj-Napoca 2025
-719f6c104d82bb53,2025-02-18,esl,de_nuke,153,46,157,PGL Cluj-Napoca 2025
-ab0b2e3a07f7f86c,2025-02-18,esl,de_dust2,185,63,188,PGL Cluj-Napoca 2025
-f343b2f4f55745de,2025-02-14,esl,de_ancient,171,61,173,PGL Cluj-Napoca 2025
-3ab9f0b20ae61cf9,2025-02-14,esl,de_inferno,127,47,130,PGL Cluj-Napoca 2025
-1d1a15f1e2e1d224,2025-02-14,esl,de_dust2,148,54,148,PGL Cluj-Napoca 2025
-d080f564cea8cd05,2025-02-18,esl,de_ancient,131,49,133,PGL Cluj-Napoca 2025
-ab367709b942fccf,2025-02-18,esl,de_inferno,132,59,132,PGL Cluj-Napoca 2025
-a17c5a4faabaae87,2025-02-23,esl,de_mirage,354,126,361,PGL Cluj-Napoca 2025
-e243d6cfc497543c,2025-02-23,esl,de_inferno,124,42,127,PGL Cluj-Napoca 2025
-14236f05f10ac21,2025-02-23,esl,de_ancient,145,56,149,PGL Cluj-Napoca 2025
-d107231647529557,2025-02-17,esl,de_mirage,315,91,318,PGL Cluj-Napoca 2025
-9c4102ad6f978324,2025-02-17,esl,de_inferno,180,77,185,PGL Cluj-Napoca 2025
-4e34865dbbcec7f6,2025-02-17,esl,de_nuke,118,37,121,PGL Cluj-Napoca 2025
-9bcfdf63d264d337,2025-02-14,esl,de_inferno,119,39,120,PGL Cluj-Napoca 2025
-c978da8497f30304,2025-02-14,esl,de_mirage,128,36,131,PGL Cluj-Napoca 2025
-4546a2f80c74e673,2025-02-14,esl,de_nuke,168,43,169,PGL Cluj-Napoca 2025
-42af4dc3ef922c1d,2025-02-15,esl,de_inferno,90,38,90,PGL Cluj-Napoca 2025
-6ec9bc3d57ce6825,2025-02-15,esl,de_ancient,119,45,122,PGL Cluj-Napoca 2025
-f333c614957f1bf4,2025-02-15,esl,de_nuke,121,35,133,PGL Cluj-Napoca 2025
-5c3aa31e1ac51db0,2025-02-16,esl,de_ancient,128,46,129,PGL Cluj-Napoca 2025
-f4fd1b113360ef79,2025-02-16,esl,de_train,102,34,104,PGL Cluj-Napoca 2025
-c7aca95633e343dc,2025-02-17,esl,de_ancient,180,63,183,PGL Cluj-Napoca 2025
-c8971c4bedb46283,2025-02-17,esl,de_inferno,103,34,104,PGL Cluj-Napoca 2025
-12ab6838e9add535,2025-02-15,esl,de_dust2,133,47,133,PGL Cluj-Napoca 2025
-c96c0556d9723606,2025-02-15,esl,de_inferno,190,71,190,PGL Cluj-Napoca 2025
-7405ba24ed9de634,2025-02-16,esl,de_dust2,112,35,114,PGL Cluj-Napoca 2025
-575ae0f0cf4e2a32,2025-02-16,esl,de_inferno,130,49,132,PGL Cluj-Napoca 2025
-a40b1947c7a8669b,2025-02-14,esl,de_mirage,126,34,128,PGL Cluj-Napoca 2025
-cccf50030a136fba,2025-02-14,esl,de_nuke,98,23,103,PGL Cluj-Napoca 2025
-67d933e15e185158,2025-02-16,esl,de_ancient,124,41,125,PGL Cluj-Napoca 2025
-c27c28e2beffd379,2025-02-16,esl,de_dust2,132,34,132,PGL Cluj-Napoca 2025
-e80f71396bc5e838,2025-02-16,esl,de_nuke,124,34,124,PGL Cluj-Napoca 2025
-2795a6022f93c28b,2025-02-21,esl,de_train,170,43,171,PGL Cluj-Napoca 2025
-ef8ed2699ef2ca00,2025-02-21,esl,de_dust2,127,45,127,PGL Cluj-Napoca 2025
-356dd5e42e94e35,2025-02-21,esl,de_nuke,143,38,144,PGL Cluj-Napoca 2025
-95572d934852097,2025-02-22,esl,de_dust2,150,42,150,PGL Cluj-Napoca 2025
-342ddd641d2e1e6c,2025-02-22,esl,de_ancient,124,44,134,PGL Cluj-Napoca 2025
-dd3b864695e348e8,2025-02-14,esl,de_inferno,133,52,133,PGL Cluj-Napoca 2025
-bb19401ecba45e75,2025-02-14,esl,de_dust2,131,51,131,PGL Cluj-Napoca 2025
-2e0e57d68463a46c,2025-02-15,esl,de_mirage,127,41,128,PGL Cluj-Napoca 2025
-53832f4285a8fd3a,2025-02-15,esl,de_dust2,183,69,184,PGL Cluj-Napoca 2025
-6ce4ab96cfa5f42c,2025-02-15,esl,de_nuke,143,39,148,PGL Cluj-Napoca 2025
-3c03dd935ba1b2c2,2025-02-15,esl,de_dust2,110,39,111,PGL Cluj-Napoca 2025
-d2f837b331e7cf81,2025-02-15,esl,de_anubis,149,48,149,PGL Cluj-Napoca 2025
-d177cc76401c534b,2025-02-15,esl,de_inferno,144,56,145,PGL Cluj-Napoca 2025
-e30a9f245e81b107,2025-02-21,esl,de_ancient,121,43,122,PGL Cluj-Napoca 2025
-7910e3c8323009bf,2025-02-21,esl,de_nuke,152,43,155,PGL Cluj-Napoca 2025
-e20f2530ced2ce1c,2025-02-15,esl,de_mirage,104,37,105,PGL Cluj-Napoca 2025
-29bee8fa8681c489,2025-02-15,esl,de_ancient,112,34,134,PGL Cluj-Napoca 2025
-5c78a2a95d36163,2025-02-14,esl,de_train,226,70,228,PGL Cluj-Napoca 2025
-6a0d38c44c8c3e84,2025-02-14,esl,de_nuke,109,28,109,PGL Cluj-Napoca 2025
-c0e5bcf59e3a93ee,2025-02-15,esl,de_inferno,147,55,148,PGL Cluj-Napoca 2025
-22073118e045bf5d,2025-02-15,esl,de_nuke,127,36,135,PGL Cluj-Napoca 2025
-8dbdea7760952eed,2025-02-22,esl,de_inferno,190,78,191,PGL Cluj-Napoca 2025
-650587e30d460b16,2025-02-22,esl,de_nuke,139,41,142,PGL Cluj-Napoca 2025
-7b17dfb6cd426728,2025-02-22,esl,de_ancient,119,47,149,PGL Cluj-Napoca 2025
-f992936756d1d510,2025-02-14,esl,de_ancient,181,63,185,PGL Cluj-Napoca 2025
-bafea191e011b8e,2025-02-14,esl,de_mirage,117,38,121,PGL Cluj-Napoca 2025
-de3c819acbd300e2,2025-02-23,esl,de_dust2,122,34,123,PGL Cluj-Napoca 2025
-fcca81be959aa765,2025-02-23,esl,de_mirage,108,31,108,PGL Cluj-Napoca 2025
-16220bf977ffc531,2025-02-17,esl,de_ancient,128,44,133,PGL Cluj-Napoca 2025
-708608327557ed51,2025-02-23,esl,de_nuke,152,45,164,PGL Cluj-Napoca 2025
-e1b7b47f799525cd,2025-02-23,esl,de_ancient,142,52,142,PGL Cluj-Napoca 2025
-2d6c9ba5235d59cb,2025-02-16,esl,de_ancient,169,59,169,PGL Cluj-Napoca 2025
-5b50c6a3dce2e917,2025-02-16,esl,de_mirage,132,37,134,PGL Cluj-Napoca 2025
-b330e0c8331629e0,2025-02-18,esl,de_ancient,144,50,147,PGL Cluj-Napoca 2025
-48fba0be597c5fc0,2025-02-18,esl,de_inferno,163,65,170,PGL Cluj-Napoca 2025
-8ffac8a4b5f9bcc4,2025-02-18,esl,de_mirage,102,33,103,PGL Cluj-Napoca 2025
-a5139af982160cf4,2025-02-21,esl,de_inferno,139,52,140,PGL Cluj-Napoca 2025
-a1acf7f433f81e5d,2025-02-21,esl,de_mirage,160,60,161,PGL Cluj-Napoca 2025
-3a6d4409c273c792,2025-02-16,esl,de_inferno,178,73,179,PGL Cluj-Napoca 2025
-454452b86e344106,2025-02-16,esl,de_dust2,200,87,200,PGL Cluj-Napoca 2025
-220772e29f8c7932,2025-02-16,esl,de_mirage,127,38,127,PGL Cluj-Napoca 2025
-f355f498fcf0ede4,2025-02-17,esl,de_inferno,146,63,150,PGL Cluj-Napoca 2025
-167895a96a09289b,2025-02-17,esl,de_mirage,137,48,138,PGL Cluj-Napoca 2025
-146727a43eaf95d5,2025-02-15,esl,de_nuke,160,38,162,PGL Cluj-Napoca 2025
-4cd06917c15ea653,2025-02-15,esl,de_inferno,126,47,126,PGL Cluj-Napoca 2025
-e230c52de4ac0a8e,2025-02-16,esl,de_inferno,192,77,194,PGL Cluj-Napoca 2025
-3f72a68a3a388b7a,2025-02-16,esl,de_dust2,129,45,130,PGL Cluj-Napoca 2025
-6b69d0a38da64321,2025-02-16,esl,de_ancient,148,54,148,PGL Cluj-Napoca 2025
-d0daa93a6adbe074,2025-02-21,esl,de_mirage,153,59,154,PGL Cluj-Napoca 2025
-4376720fa6459e5a,2025-02-21,esl,de_inferno,189,72,189,PGL Cluj-Napoca 2025
-a39714f34ad87249,2025-02-14,esl,de_dust2,130,40,130,PGL Cluj-Napoca 2025
-c4ab21fa55e3845c,2025-02-14,esl,de_ancient,140,44,143,PGL Cluj-Napoca 2025
-bfa9de6924fad7f5,2025-02-15,esl,de_inferno,219,75,239,PGL Cluj-Napoca 2025
-a0cff6b6c0c2d3c5,2025-02-15,esl,de_ancient,149,58,151,PGL Cluj-Napoca 2025
-f2dda70b9eb0dd3f,2025-02-17,esl,de_ancient,97,43,102,PGL Cluj-Napoca 2025
-28db440cd4639f41,2025-02-17,esl,de_inferno,134,57,134,PGL Cluj-Napoca 2025
-7d968d39b00c7a3f,2025-02-17,esl,de_nuke,149,48,150,PGL Cluj-Napoca 2025
-97f352fe94d9a208,2025-02-16,esl,de_dust2,154,51,155,PGL Cluj-Napoca 2025
-db89fa22bad25c3b,2025-02-16,esl,de_inferno,143,43,144,PGL Cluj-Napoca 2025
+checksum,demo_name,date,source,map,kill_count,assist_count,death_count,tournament,match_id,unique_name
+1229e6b33a7c388f,3dmax-vs-heroic-m1-ancient,2025-01-14,esl,de_ancient,207,68,208,BLAST Bounty 2025 Season 1,93435,3dmax-vs-heroic-m1-ancient_blast-bounty-2025-season-1
+409bde782d701247,3dmax-vs-heroic-m2-dust2,2025-01-14,esl,de_dust2,155,53,155,BLAST Bounty 2025 Season 1,93435,3dmax-vs-heroic-m2-dust2_blast-bounty-2025-season-1
+c92c0fe937a29b0e,3dmax-vs-heroic-m3-anubis,2025-01-14,esl,de_anubis,138,51,138,BLAST Bounty 2025 Season 1,93435,3dmax-vs-heroic-m3-anubis_blast-bounty-2025-season-1
+e404f30b9dc3e185,astralis-vs-natus-vincere-m1-inferno,2025-01-18,esl,de_inferno,172,72,176,BLAST Bounty 2025 Season 1,93435,astralis-vs-natus-vincere-m1-inferno_blast-bounty-2025-season-1
+339f817fc0609ea4,astralis-vs-natus-vincere-m2-ancient,2025-01-18,esl,de_ancient,117,51,121,BLAST Bounty 2025 Season 1,93435,astralis-vs-natus-vincere-m2-ancient_blast-bounty-2025-season-1
+fce806f201778c31,astralis-vs-wildcard-m1-inferno,2025-01-15,esl,de_inferno,140,54,152,BLAST Bounty 2025 Season 1,93435,astralis-vs-wildcard-m1-inferno_blast-bounty-2025-season-1
+433e792f292e65d9,astralis-vs-wildcard-m2-mirage,2025-01-15,esl,de_mirage,121,41,121,BLAST Bounty 2025 Season 1,93435,astralis-vs-wildcard-m2-mirage_blast-bounty-2025-season-1
+c32b2a8cd3336bee,big-vs-g2-m1-ancient,2025-01-19,esl,de_ancient,138,58,138,BLAST Bounty 2025 Season 1,93435,big-vs-g2-m1-ancient_blast-bounty-2025-season-1
+54bbdcd43f4bf674,big-vs-g2-m2-mirage,2025-01-19,esl,de_mirage,145,52,145,BLAST Bounty 2025 Season 1,93435,big-vs-g2-m2-mirage_blast-bounty-2025-season-1
+4a9b2a2d938bff82,big-vs-g2-m3-dust2,2025-01-19,esl,de_dust2,136,52,137,BLAST Bounty 2025 Season 1,93435,big-vs-g2-m3-dust2_blast-bounty-2025-season-1
+4b803bde16fb75b,complexity-vs-virtus-pro-m1-dust2,2025-01-16,esl,de_dust2,146,41,146,BLAST Bounty 2025 Season 1,93435,complexity-vs-virtus-pro-m1-dust2_blast-bounty-2025-season-1
+cca2a16ad0db047a,complexity-vs-virtus-pro-m2-train,2025-01-16,esl,de_train,159,49,159,BLAST Bounty 2025 Season 1,93435,complexity-vs-virtus-pro-m2-train_blast-bounty-2025-season-1
+14efc1a4233d5731,eternal-fire-vs-falcons-m1-inferno,2025-01-19,esl,de_inferno,116,44,117,BLAST Bounty 2025 Season 1,93435,eternal-fire-vs-falcons-m1-inferno_blast-bounty-2025-season-1
+158d0ae0dba34fd9,eternal-fire-vs-falcons-m2-nuke,2025-01-19,esl,de_nuke,227,56,257,BLAST Bounty 2025 Season 1,93435,eternal-fire-vs-falcons-m2-nuke_blast-bounty-2025-season-1
+88348cc9229176,eternal-fire-vs-fluxo-m1-mirage,2025-01-16,esl,de_mirage,147,42,151,BLAST Bounty 2025 Season 1,93435,eternal-fire-vs-fluxo-m1-mirage_blast-bounty-2025-season-1
+8a11859cf290b188,eternal-fire-vs-fluxo-m2-dust2,2025-01-16,esl,de_dust2,139,49,141,BLAST Bounty 2025 Season 1,93435,eternal-fire-vs-fluxo-m2-dust2_blast-bounty-2025-season-1
+fcf3f309a1a26770,falcons-vs-ence-m1-train,2025-01-15,esl,de_train,201,74,201,BLAST Bounty 2025 Season 1,93435,falcons-vs-ence-m1-train_blast-bounty-2025-season-1
+14549e5012277fa9,falcons-vs-ence-m2-dust2,2025-01-15,esl,de_dust2,177,53,188,BLAST Bounty 2025 Season 1,93435,falcons-vs-ence-m2-dust2_blast-bounty-2025-season-1
+cb64a544c75067cf,faze-vs-m80-m1-ancient,2025-01-16,esl,de_ancient,148,58,162,BLAST Bounty 2025 Season 1,93435,faze-vs-m80-m1-ancient_blast-bounty-2025-season-1
+981db6a7a27771c7,faze-vs-m80-m2-inferno,2025-01-16,esl,de_inferno,124,40,126,BLAST Bounty 2025 Season 1,93435,faze-vs-m80-m2-inferno_blast-bounty-2025-season-1
+d389f5446d5026f8,faze-vs-m80-m3-dust2,2025-01-16,esl,de_dust2,149,51,150,BLAST Bounty 2025 Season 1,93435,faze-vs-m80-m3-dust2_blast-bounty-2025-season-1
+16e083366aa1469d,flyquest-vs-mibr-m1-nuke,2025-01-14,esl,de_nuke,137,31,139,BLAST Bounty 2025 Season 1,93435,flyquest-vs-mibr-m1-nuke_blast-bounty-2025-season-1
+5ef6282b4869c572,flyquest-vs-mibr-m2-anubis,2025-01-14,esl,de_anubis,118,40,122,BLAST Bounty 2025 Season 1,93435,flyquest-vs-mibr-m2-anubis_blast-bounty-2025-season-1
+60e3db804b37fdf9,flyquest-vs-spirit-m1-anubis,2025-01-18,esl,de_anubis,111,33,111,BLAST Bounty 2025 Season 1,93435,flyquest-vs-spirit-m1-anubis_blast-bounty-2025-season-1
+6defc9f121e256a4,flyquest-vs-spirit-m2-dust2,2025-01-18,esl,de_dust2,93,35,93,BLAST Bounty 2025 Season 1,93435,flyquest-vs-spirit-m2-dust2_blast-bounty-2025-season-1
+87783cacb1099e3b,furia-vs-betboom-m1-dust2,2025-01-19,esl,de_dust2,164,56,165,BLAST Bounty 2025 Season 1,93435,furia-vs-betboom-m1-dust2_blast-bounty-2025-season-1
+545e5b6c20f66b54,furia-vs-betboom-m2-mirage,2025-01-19,esl,de_mirage,158,61,159,BLAST Bounty 2025 Season 1,93435,furia-vs-betboom-m2-mirage_blast-bounty-2025-season-1
+569a1128a75ef5ff,furia-vs-betboom-m3-anubis,2025-01-19,esl,de_anubis,141,47,154,BLAST Bounty 2025 Season 1,93435,furia-vs-betboom-m3-anubis_blast-bounty-2025-season-1
+c7e2ef7f33c52a10,furia-vs-nemiga-m1-anubis,2025-01-17,esl,de_anubis,140,58,141,BLAST Bounty 2025 Season 1,93435,furia-vs-nemiga-m1-anubis_blast-bounty-2025-season-1
+a3db0ced7f3d1f07,furia-vs-nemiga-m2-mirage,2025-01-17,esl,de_mirage,140,38,140,BLAST Bounty 2025 Season 1,93435,furia-vs-nemiga-m2-mirage_blast-bounty-2025-season-1
+c05ee6f2c03c0b26,furia-vs-nemiga-m3-inferno,2025-01-17,esl,de_inferno,127,41,130,BLAST Bounty 2025 Season 1,93435,furia-vs-nemiga-m3-inferno_blast-bounty-2025-season-1
+789873d5480b2d86,g2-vs-b8-m1-ancient,2025-01-17,esl,de_ancient,204,62,204,BLAST Bounty 2025 Season 1,93435,g2-vs-b8-m1-ancient_blast-bounty-2025-season-1
+759d1628c3ad98f7,g2-vs-b8-m2-inferno,2025-01-17,esl,de_inferno,116,37,117,BLAST Bounty 2025 Season 1,93435,g2-vs-b8-m2-inferno_blast-bounty-2025-season-1
+1aa317037186f7a3,g2-vs-b8-m3-dust2,2025-01-17,esl,de_dust2,180,69,181,BLAST Bounty 2025 Season 1,93435,g2-vs-b8-m3-dust2_blast-bounty-2025-season-1
+f7c65a6ab75a3a25,heroic-vs-liquid-m1-mirage,2025-01-18,esl,de_mirage,156,46,156,BLAST Bounty 2025 Season 1,93435,heroic-vs-liquid-m1-mirage_blast-bounty-2025-season-1
+f92d463756d8334e,heroic-vs-liquid-m2-anubis,2025-01-18,esl,de_anubis,138,44,138,BLAST Bounty 2025 Season 1,93435,heroic-vs-liquid-m2-anubis_blast-bounty-2025-season-1
+39ee7741554cb1d4,heroic-vs-liquid-m3-ancient,2025-01-18,esl,de_ancient,155,58,157,BLAST Bounty 2025 Season 1,93435,heroic-vs-liquid-m3-ancient_blast-bounty-2025-season-1
+278e073a204c8dd0,liquid-vs-9-pandas-m1-nuke,2025-01-14,esl,de_nuke,146,52,149,BLAST Bounty 2025 Season 1,93435,liquid-vs-9-pandas-m1-nuke_blast-bounty-2025-season-1
+eb4903815cd684fd,liquid-vs-9-pandas-m2-ancient,2025-01-14,esl,de_ancient,140,49,142,BLAST Bounty 2025 Season 1,93435,liquid-vs-9-pandas-m2-ancient_blast-bounty-2025-season-1
+8099f5bd95004f24,mouz-vs-betboom-m1-dust2,2025-01-17,esl,de_dust2,234,79,234,BLAST Bounty 2025 Season 1,93435,mouz-vs-betboom-m1-dust2_blast-bounty-2025-season-1
+d53f2850c300c053,mouz-vs-betboom-m2-nuke,2025-01-17,esl,de_nuke,125,47,128,BLAST Bounty 2025 Season 1,93435,mouz-vs-betboom-m2-nuke_blast-bounty-2025-season-1
+fbf78c246823fe98,mouz-vs-betboom-m3-mirage,2025-01-17,esl,de_mirage,165,58,167,BLAST Bounty 2025 Season 1,93435,mouz-vs-betboom-m3-mirage_blast-bounty-2025-season-1
+4f4c3d9d0403aa1d,natus-vincere-vs-imperial-fe-m1-ancient,2025-01-16,esl,de_ancient,145,51,145,BLAST Bounty 2025 Season 1,93435,natus-vincere-vs-imperial-fe-m1-ancient_blast-bounty-2025-season-1
+ae43c12d258f7377,natus-vincere-vs-imperial-fe-m2-mirage,2025-01-16,esl,de_mirage,143,45,143,BLAST Bounty 2025 Season 1,93435,natus-vincere-vs-imperial-fe-m2-mirage_blast-bounty-2025-season-1
+1d595f30e2271da8,pain-vs-faze-m1-dust2,2025-01-18,esl,de_dust2,145,50,156,BLAST Bounty 2025 Season 1,93435,pain-vs-faze-m1-dust2_blast-bounty-2025-season-1
+b24037a3e9942c2a,pain-vs-faze-m2-inferno,2025-01-18,esl,de_inferno,140,51,144,BLAST Bounty 2025 Season 1,93435,pain-vs-faze-m2-inferno_blast-bounty-2025-season-1
+1c84ce40cd34a0c4,pain-vs-gamerlegion-m1-inferno,2025-01-17,esl,de_inferno,135,46,138,BLAST Bounty 2025 Season 1,93435,pain-vs-gamerlegion-m1-inferno_blast-bounty-2025-season-1
+b8bd9df442017102,pain-vs-gamerlegion-m2-mirage,2025-01-17,esl,de_mirage,133,49,133,BLAST Bounty 2025 Season 1,93435,pain-vs-gamerlegion-m2-mirage_blast-bounty-2025-season-1
+2632360dbef620f0,pain-vs-gamerlegion-m3-nuke,2025-01-17,esl,de_nuke,170,50,214,BLAST Bounty 2025 Season 1,93435,pain-vs-gamerlegion-m3-nuke_blast-bounty-2025-season-1
+73bb2a47403d34e5,saw-vs-big-m1-ancient,2025-01-15,esl,de_ancient,88,30,89,BLAST Bounty 2025 Season 1,93435,saw-vs-big-m1-ancient_blast-bounty-2025-season-1
+fa9fcdfe9c4fc7d1,saw-vs-big-m2-nuke,2025-01-15,esl,de_nuke,191,50,203,BLAST Bounty 2025 Season 1,93435,saw-vs-big-m2-nuke_blast-bounty-2025-season-1
+8738e4d8bcbc3539,spirit-vs-fnatic-m1-train,2025-01-14,esl,de_train,145,38,145,BLAST Bounty 2025 Season 1,93435,spirit-vs-fnatic-m1-train_blast-bounty-2025-season-1
+fe15b9d327fb1796,spirit-vs-fnatic-m2-nuke,2025-01-14,esl,de_nuke,104,35,104,BLAST Bounty 2025 Season 1,93435,spirit-vs-fnatic-m2-nuke_blast-bounty-2025-season-1
+203387ea74a7261b,virtus-pro-vs-vitality-m1-train,2025-01-19,esl,de_train,173,57,173,BLAST Bounty 2025 Season 1,93435,virtus-pro-vs-vitality-m1-train_blast-bounty-2025-season-1
+e206729fcd4e0025,virtus-pro-vs-vitality-m2-inferno,2025-01-19,esl,de_inferno,117,43,117,BLAST Bounty 2025 Season 1,93435,virtus-pro-vs-vitality-m2-inferno_blast-bounty-2025-season-1
+f5be5e4a4b5dfebe,vitality-vs-metizport-m1-mirage,2025-01-15,esl,de_mirage,174,67,175,BLAST Bounty 2025 Season 1,93435,vitality-vs-metizport-m1-mirage_blast-bounty-2025-season-1
+11a3c7f1f45e0fee,vitality-vs-metizport-m2-dust2,2025-01-15,esl,de_dust2,147,56,147,BLAST Bounty 2025 Season 1,93435,vitality-vs-metizport-m2-dust2_blast-bounty-2025-season-1
+59e5b2c76e05bce0,eternal-fire-vs-spirit-m1-anubis,2025-01-26,esl,de_anubis,204,72,207,BLAST Bounty 2025 Season 1 Finals,93701,eternal-fire-vs-spirit-m1-anubis_blast-bounty-2025-season-1-finals
+2a4c3f36d8d46afa,eternal-fire-vs-spirit-m2-nuke,2025-01-26,esl,de_nuke,130,42,133,BLAST Bounty 2025 Season 1 Finals,93701,eternal-fire-vs-spirit-m2-nuke_blast-bounty-2025-season-1-finals
+d8b7e0bddd1b3eb3,eternal-fire-vs-spirit-m3-dust2,2025-01-26,esl,de_dust2,110,45,110,BLAST Bounty 2025 Season 1 Finals,93701,eternal-fire-vs-spirit-m3-dust2_blast-bounty-2025-season-1-finals
+9cb48de6a17ebe1,eternal-fire-vs-spirit-m4-mirage,2025-01-26,esl,de_mirage,147,42,149,BLAST Bounty 2025 Season 1 Finals,93701,eternal-fire-vs-spirit-m4-mirage_blast-bounty-2025-season-1-finals
+f101e58241ef725a,g2-vs-betboom-m1-anubis,2025-01-23,esl,de_anubis,107,38,108,BLAST Bounty 2025 Season 1 Finals,93701,g2-vs-betboom-m1-anubis_blast-bounty-2025-season-1-finals
+d8db8a4b337c6ecd,g2-vs-betboom-m2-dust2,2025-01-23,esl,de_dust2,111,46,112,BLAST Bounty 2025 Season 1 Finals,93701,g2-vs-betboom-m2-dust2_blast-bounty-2025-season-1-finals
+bde29716c3d4329a,g2-vs-eternal-fire-m1-anubis,2025-01-25,esl,de_anubis,163,58,163,BLAST Bounty 2025 Season 1 Finals,93701,g2-vs-eternal-fire-m1-anubis_blast-bounty-2025-season-1-finals
+3e8f1122a4f9f6e8,g2-vs-eternal-fire-m2-dust2,2025-01-25,esl,de_dust2,135,53,135,BLAST Bounty 2025 Season 1 Finals,93701,g2-vs-eternal-fire-m2-dust2_blast-bounty-2025-season-1-finals
+40d4c1527dc406f0,g2-vs-eternal-fire-m3-nuke,2025-01-25,esl,de_nuke,167,55,167,BLAST Bounty 2025 Season 1 Finals,93701,g2-vs-eternal-fire-m3-nuke_blast-bounty-2025-season-1-finals
+e1b5625501404064,natus-vincere-vs-pain-m1-dust2,2025-01-24,esl,de_dust2,194,62,195,BLAST Bounty 2025 Season 1 Finals,93701,natus-vincere-vs-pain-m1-dust2_blast-bounty-2025-season-1-finals
+4ccce73468468deb,natus-vincere-vs-pain-m2-nuke,2025-01-24,esl,de_nuke,133,26,133,BLAST Bounty 2025 Season 1 Finals,93701,natus-vincere-vs-pain-m2-nuke_blast-bounty-2025-season-1-finals
+341d802e05c4673,natus-vincere-vs-pain-m3-mirage,2025-01-24,esl,de_mirage,172,54,173,BLAST Bounty 2025 Season 1 Finals,93701,natus-vincere-vs-pain-m3-mirage_blast-bounty-2025-season-1-finals
+79792497772f19cb,natus-vincere-vs-spirit-m1-dust2,2025-01-25,esl,de_dust2,133,43,133,BLAST Bounty 2025 Season 1 Finals,93701,natus-vincere-vs-spirit-m1-dust2_blast-bounty-2025-season-1-finals
+cf562d2195118fe,natus-vincere-vs-spirit-m2-ancient,2025-01-25,esl,de_ancient,274,102,287,BLAST Bounty 2025 Season 1 Finals,93701,natus-vincere-vs-spirit-m2-ancient_blast-bounty-2025-season-1-finals
+6ff36ec1a9149902,spirit-vs-heroic-m1-anubis,2025-01-23,esl,de_anubis,158,50,158,BLAST Bounty 2025 Season 1 Finals,93701,spirit-vs-heroic-m1-anubis_blast-bounty-2025-season-1-finals
+74f1eea03072e6b4,spirit-vs-heroic-m2-nuke,2025-01-23,esl,de_nuke,111,22,111,BLAST Bounty 2025 Season 1 Finals,93701,spirit-vs-heroic-m2-nuke_blast-bounty-2025-season-1-finals
+299d651349cc6962,vitality-vs-eternal-fire-m1-anubis,2025-01-24,esl,de_anubis,132,41,132,BLAST Bounty 2025 Season 1 Finals,93701,vitality-vs-eternal-fire-m1-anubis_blast-bounty-2025-season-1-finals
+ad2b34ad0667c962,vitality-vs-eternal-fire-m2-mirage,2025-01-24,esl,de_mirage,158,50,168,BLAST Bounty 2025 Season 1 Finals,93701,vitality-vs-eternal-fire-m2-mirage_blast-bounty-2025-season-1-finals
+3fe1165857db9858,astralis-vs-spirit-m1-ancient,2024-09-26,esl,de_ancient,104,31,115,BLAST Premier Fall Final 2024,91377,astralis-vs-spirit-m1-ancient_blast-premier-fall-final-2024
+94af9d204ecc562f,astralis-vs-spirit-m2-dust2,2024-09-26,esl,de_dust2,106,45,106,BLAST Premier Fall Final 2024,91377,astralis-vs-spirit-m2-dust2_blast-premier-fall-final-2024
+22c9f761b92e8538,astralis-vs-spirit-m3-mirage,2024-09-26,esl,de_mirage,164,56,165,BLAST Premier Fall Final 2024,91377,astralis-vs-spirit-m3-mirage_blast-premier-fall-final-2024
+688884209ed23cc9,falcons-vs-faze-m1-nuke,2024-09-26,esl,de_nuke,173,39,177,BLAST Premier Fall Final 2024,91377,falcons-vs-faze-m1-nuke_blast-premier-fall-final-2024
+facfc909fd2aa7e1,falcons-vs-faze-m2-ancient,2024-09-26,esl,de_ancient,290,120,291,BLAST Premier Fall Final 2024,91377,falcons-vs-faze-m2-ancient_blast-premier-fall-final-2024
+9db22803781656ae,falcons-vs-faze-m3-dust2,2024-09-26,esl,de_dust2,144,65,144,BLAST Premier Fall Final 2024,91377,falcons-vs-faze-m3-dust2_blast-premier-fall-final-2024
+842eb3e942d6f9d9,faze-vs-liquid-m1-inferno,2024-09-27,esl,de_inferno,126,54,128,BLAST Premier Fall Final 2024,91377,faze-vs-liquid-m1-inferno_blast-premier-fall-final-2024
+fcd5530a24901b5c,faze-vs-liquid-m2-mirage,2024-09-27,esl,de_mirage,105,36,105,BLAST Premier Fall Final 2024,91377,faze-vs-liquid-m2-mirage_blast-premier-fall-final-2024
+244a2ce7b3198b26,g2-vs-faze-m1-dust2,2024-09-25,esl,de_dust2,141,43,141,BLAST Premier Fall Final 2024,91377,g2-vs-faze-m1-dust2_blast-premier-fall-final-2024
+843198248b74467f,g2-vs-faze-m2-inferno,2024-09-25,esl,de_inferno,120,43,121,BLAST Premier Fall Final 2024,91377,g2-vs-faze-m2-inferno_blast-premier-fall-final-2024
+7e19066ac7d50ce7,g2-vs-faze-m3-mirage,2024-09-25,esl,de_mirage,138,46,138,BLAST Premier Fall Final 2024,91377,g2-vs-faze-m3-mirage_blast-premier-fall-final-2024
+19230fae532ea8dc,g2-vs-natus-vincere-m1-ancient,2024-09-29,esl,de_ancient,140,46,140,BLAST Premier Fall Final 2024,91377,g2-vs-natus-vincere-m1-ancient_blast-premier-fall-final-2024
+389695be0ff7fea8,g2-vs-natus-vincere-m2-dust2,2024-09-29,esl,de_dust2,149,49,149,BLAST Premier Fall Final 2024,91377,g2-vs-natus-vincere-m2-dust2_blast-premier-fall-final-2024
+abf693514172a68b,g2-vs-natus-vincere-m3-mirage,2024-09-29,esl,de_mirage,170,50,172,BLAST Premier Fall Final 2024,91377,g2-vs-natus-vincere-m3-mirage_blast-premier-fall-final-2024
+cfe1b764a70adcf1,g2-vs-natus-vincere-m4-inferno,2024-09-29,esl,de_inferno,121,42,121,BLAST Premier Fall Final 2024,91377,g2-vs-natus-vincere-m4-inferno_blast-premier-fall-final-2024
+ceb22f514351b022,g2-vs-spirit-m1-dust2,2024-09-27,esl,de_dust2,148,47,149,BLAST Premier Fall Final 2024,91377,g2-vs-spirit-m1-dust2_blast-premier-fall-final-2024
+3d0285f6c0764b,g2-vs-spirit-m2-mirage,2024-09-27,esl,de_mirage,192,65,193,BLAST Premier Fall Final 2024,91377,g2-vs-spirit-m2-mirage_blast-premier-fall-final-2024
+35f2d5519a0a732b,natus-vincere-vs-falcons-m1-anubis,2024-09-25,esl,de_anubis,120,38,120,BLAST Premier Fall Final 2024,91377,natus-vincere-vs-falcons-m1-anubis_blast-premier-fall-final-2024
+d4b6afeb66413d48,natus-vincere-vs-falcons-m2-ancient,2024-09-25,esl,de_ancient,156,49,157,BLAST Premier Fall Final 2024,91377,natus-vincere-vs-falcons-m2-ancient_blast-premier-fall-final-2024
+8d56c665f77ef90c,natus-vincere-vs-faze-m1-inferno-p1,2024-09-28,esl,de_inferno,147,63,186,BLAST Premier Fall Final 2024,91377,natus-vincere-vs-faze-m1-inferno-p1_blast-premier-fall-final-2024
+2080b12749091507,natus-vincere-vs-faze-m1-inferno-p2,2024-09-28,esl,de_inferno,15,5,15,BLAST Premier Fall Final 2024,91377,natus-vincere-vs-faze-m1-inferno-p2_blast-premier-fall-final-2024
+9158bb8c156799fa,natus-vincere-vs-faze-m2-ancient,2024-09-28,esl,de_ancient,155,58,155,BLAST Premier Fall Final 2024,91377,natus-vincere-vs-faze-m2-ancient_blast-premier-fall-final-2024
+6347f8b47f2a59f,natus-vincere-vs-faze-m3-anubis,2024-09-28,esl,de_anubis,115,49,115,BLAST Premier Fall Final 2024,91377,natus-vincere-vs-faze-m3-anubis_blast-premier-fall-final-2024
+2e62bce896ec68eb,natus-vincere-vs-g2-m1-dust2,2024-09-26,esl,de_dust2,155,41,155,BLAST Premier Fall Final 2024,91377,natus-vincere-vs-g2-m1-dust2_blast-premier-fall-final-2024
+fc87fd78399ac64c,natus-vincere-vs-g2-m2-ancient,2024-09-26,esl,de_ancient,161,63,162,BLAST Premier Fall Final 2024,91377,natus-vincere-vs-g2-m2-ancient_blast-premier-fall-final-2024
+393da96677ba9003,spirit-vs-liquid-m1-dust2,2024-09-25,esl,de_dust2,109,33,109,BLAST Premier Fall Final 2024,91377,spirit-vs-liquid-m1-dust2_blast-premier-fall-final-2024
+1b5739652fe40b68,spirit-vs-liquid-m2-nuke,2024-09-25,esl,de_nuke,163,46,165,BLAST Premier Fall Final 2024,91377,spirit-vs-liquid-m2-nuke_blast-premier-fall-final-2024
+8e12a08490f17ff4,spirit-vs-liquid-m3-anubis,2024-09-25,esl,de_anubis,166,51,166,BLAST Premier Fall Final 2024,91377,spirit-vs-liquid-m3-anubis_blast-premier-fall-final-2024
+1fde84c9a8835f01,vitality-vs-astralis-m1-inferno,2024-09-25,esl,de_inferno,89,24,89,BLAST Premier Fall Final 2024,91377,vitality-vs-astralis-m1-inferno_blast-premier-fall-final-2024
+a2564e17a79aa1a5,vitality-vs-astralis-m2-dust2,2024-09-25,esl,de_dust2,103,38,107,BLAST Premier Fall Final 2024,91377,vitality-vs-astralis-m2-dust2_blast-premier-fall-final-2024
+2c930c088bdc94c,vitality-vs-g2-m1-anubis,2024-09-28,esl,de_anubis,144,48,144,BLAST Premier Fall Final 2024,91377,vitality-vs-g2-m1-anubis_blast-premier-fall-final-2024
+a138c1f347c2efb6,vitality-vs-g2-m2-dust2,2024-09-28,esl,de_dust2,129,49,129,BLAST Premier Fall Final 2024,91377,vitality-vs-g2-m2-dust2_blast-premier-fall-final-2024
+6c3b5aea6cee79c2,vitality-vs-g2-m3-mirage,2024-09-28,esl,de_mirage,213,75,217,BLAST Premier Fall Final 2024,91377,vitality-vs-g2-m3-mirage_blast-premier-fall-final-2024
+451ecb4df33b047c,vitality-vs-liquid-m1-anubis,2024-09-26,esl,de_anubis,186,65,186,BLAST Premier Fall Final 2024,91377,vitality-vs-liquid-m1-anubis_blast-premier-fall-final-2024
+aa8eea79435b5c9b,vitality-vs-liquid-m2-nuke,2024-09-26,esl,de_nuke,152,32,152,BLAST Premier Fall Final 2024,91377,vitality-vs-liquid-m2-nuke_blast-premier-fall-final-2024
+eeaa4f5e047f493d,astralis-vs-falcons-m1-dust2,2024-08-02,esl,de_dust2,196,60,196,BLAST Premier Fall Groups 2024,89480,astralis-vs-falcons-m1-dust2_blast-premier-fall-groups-2024
+56ad21f4f61cbf81,astralis-vs-falcons-m2-ancient,2024-08-02,esl,de_ancient,87,23,91,BLAST Premier Fall Groups 2024,89480,astralis-vs-falcons-m2-ancient_blast-premier-fall-groups-2024
+3899c71cf6eea89d,astralis-vs-falcons-m3-nuke,2024-08-02,esl,de_nuke,161,48,161,BLAST Premier Fall Groups 2024,89480,astralis-vs-falcons-m3-nuke_blast-premier-fall-groups-2024
+f85e88fc29b96a22,astralis-vs-ninjas-in-pyjamas-m1-mirage,2024-08-04,esl,de_mirage,118,35,120,BLAST Premier Fall Groups 2024,89480,astralis-vs-ninjas-in-pyjamas-m1-mirage_blast-premier-fall-groups-2024
+2e15b4608b3dcede,astralis-vs-ninjas-in-pyjamas-m2-inferno,2024-08-04,esl,de_inferno,118,38,119,BLAST Premier Fall Groups 2024,89480,astralis-vs-ninjas-in-pyjamas-m2-inferno_blast-premier-fall-groups-2024
+ea71c8ded3dd9e5,big-vs-virtuspro-m1-dust2,2024-08-01,esl,de_dust2,150,44,152,BLAST Premier Fall Groups 2024,89480,big-vs-virtuspro-m1-dust2_blast-premier-fall-groups-2024
+7722ec113a866f14,big-vs-virtuspro-m2-mirage,2024-08-01,esl,de_mirage,147,49,147,BLAST Premier Fall Groups 2024,89480,big-vs-virtuspro-m2-mirage_blast-premier-fall-groups-2024
+fafafd15893bfc0b,big-vs-virtuspro-m3-ancient,2024-08-01,esl,de_ancient,137,43,139,BLAST Premier Fall Groups 2024,89480,big-vs-virtuspro-m3-ancient_blast-premier-fall-groups-2024
+ef3c1e7f6d22bdf6,cloud9-vs-ninjas-in-pyjamas-m1-mirage,2024-08-01,esl,de_mirage,117,40,118,BLAST Premier Fall Groups 2024,89480,cloud9-vs-ninjas-in-pyjamas-m1-mirage_blast-premier-fall-groups-2024
+8bc7d8f7330dff5a,cloud9-vs-ninjas-in-pyjamas-m2-ancient,2024-08-01,esl,de_ancient,137,51,139,BLAST Premier Fall Groups 2024,89480,cloud9-vs-ninjas-in-pyjamas-m2-ancient_blast-premier-fall-groups-2024
+36478e352c459f4f,cloud9-vs-ninjas-in-pyjamas-m3-anubis,2024-08-01,esl,de_anubis,166,61,167,BLAST Premier Fall Groups 2024,89480,cloud9-vs-ninjas-in-pyjamas-m3-anubis_blast-premier-fall-groups-2024
+215d8fe58bf6c7de,complexity-vs-heroic-m1-ancient,2024-07-29,esl,de_ancient,148,52,148,BLAST Premier Fall Groups 2024,89480,complexity-vs-heroic-m1-ancient_blast-premier-fall-groups-2024
+b56a78e9d74bbd21,complexity-vs-heroic-m2-vertigo,2024-07-29,esl,de_vertigo,207,69,207,BLAST Premier Fall Groups 2024,89480,complexity-vs-heroic-m2-vertigo_blast-premier-fall-groups-2024
+d6468fa4a0c2b5d8,complexity-vs-natus-vincere-m1-anubis,2024-08-04,esl,de_anubis,167,60,167,BLAST Premier Fall Groups 2024,89480,complexity-vs-natus-vincere-m1-anubis_blast-premier-fall-groups-2024
+8ccd5c475a7740a4,complexity-vs-natus-vincere-m2-nuke,2024-08-04,esl,de_nuke,112,32,113,BLAST Premier Fall Groups 2024,89480,complexity-vs-natus-vincere-m2-nuke_blast-premier-fall-groups-2024
+b5b499bf1d9b4bb7,faze-vs-cloud9-m1-dust2,2024-07-31,esl,de_dust2,156,58,156,BLAST Premier Fall Groups 2024,89480,faze-vs-cloud9-m1-dust2_blast-premier-fall-groups-2024
+edfa9b6aee6c422e,faze-vs-cloud9-m2-inferno,2024-07-31,esl,de_inferno,136,48,137,BLAST Premier Fall Groups 2024,89480,faze-vs-cloud9-m2-inferno_blast-premier-fall-groups-2024
+4b9905f0f3ac548,faze-vs-cloud9-m3-mirage,2024-07-31,esl,de_mirage,225,90,226,BLAST Premier Fall Groups 2024,89480,faze-vs-cloud9-m3-mirage_blast-premier-fall-groups-2024
+40f4319225a23515,faze-vs-g2-m1-ancient,2024-08-01,esl,de_ancient,154,47,155,BLAST Premier Fall Groups 2024,89480,faze-vs-g2-m1-ancient_blast-premier-fall-groups-2024
+14c9bcd6c1b92ada,faze-vs-g2-m2-nuke,2024-08-01,esl,de_nuke,125,30,127,BLAST Premier Fall Groups 2024,89480,faze-vs-g2-m2-nuke_blast-premier-fall-groups-2024
+c19401af10a9af44,faze-vs-g2-m3-mirage,2024-08-01,esl,de_mirage,140,38,141,BLAST Premier Fall Groups 2024,89480,faze-vs-g2-m3-mirage_blast-premier-fall-groups-2024
+708336b11a438da3,faze-vs-ninjas-in-pyjamas-m1-ancient,2024-08-02,esl,de_ancient,193,58,196,BLAST Premier Fall Groups 2024,89480,faze-vs-ninjas-in-pyjamas-m1-ancient_blast-premier-fall-groups-2024
+eafceb6d0841043f,faze-vs-ninjas-in-pyjamas-m2-inferno,2024-08-02,esl,de_inferno,167,60,169,BLAST Premier Fall Groups 2024,89480,faze-vs-ninjas-in-pyjamas-m2-inferno_blast-premier-fall-groups-2024
+595d1698bfe97cc8,g2-vs-ninjas-in-pyjamas-m1-ancient,2024-08-03,esl,de_ancient,143,51,143,BLAST Premier Fall Groups 2024,89480,g2-vs-ninjas-in-pyjamas-m1-ancient_blast-premier-fall-groups-2024
+c71bf0fa5d75bf4e,g2-vs-ninjas-in-pyjamas-m1-anubis,2024-07-31,esl,de_anubis,118,35,118,BLAST Premier Fall Groups 2024,89480,g2-vs-ninjas-in-pyjamas-m1-anubis_blast-premier-fall-groups-2024
+a2a50bca148cc03,g2-vs-ninjas-in-pyjamas-m2-inferno,2024-08-03,esl,de_inferno,137,40,137,BLAST Premier Fall Groups 2024,89480,g2-vs-ninjas-in-pyjamas-m2-inferno_blast-premier-fall-groups-2024
+f42fb294667700ec,gamerlegion-vs-falcons-m1-anubis,2024-07-30,esl,de_anubis,138,48,138,BLAST Premier Fall Groups 2024,89480,gamerlegion-vs-falcons-m1-anubis_blast-premier-fall-groups-2024
+8b0cb1572698f9b7,gamerlegion-vs-falcons-m2-nuke,2024-07-30,esl,de_nuke,112,29,114,BLAST Premier Fall Groups 2024,89480,gamerlegion-vs-falcons-m2-nuke_blast-premier-fall-groups-2024
+d6ee86eba76228be,heroic-vs-complexity-m1-anubis,2024-08-02,esl,de_anubis,111,41,111,BLAST Premier Fall Groups 2024,89480,heroic-vs-complexity-m1-anubis_blast-premier-fall-groups-2024
+1ceeb2c95d22dc4f,heroic-vs-complexity-m2-ancient,2024-08-02,esl,de_ancient,159,51,159,BLAST Premier Fall Groups 2024,89480,heroic-vs-complexity-m2-ancient_blast-premier-fall-groups-2024
+1730f1b4e199b6a9,liquid-vs-natus-vincere-m1-nuke,2024-08-03,esl,de_nuke,151,45,151,BLAST Premier Fall Groups 2024,89480,liquid-vs-natus-vincere-m1-nuke_blast-premier-fall-groups-2024
+6ea4dc864f96c25f,liquid-vs-natus-vincere-m2-anubis,2024-08-03,esl,de_anubis,211,77,212,BLAST Premier Fall Groups 2024,89480,liquid-vs-natus-vincere-m2-anubis_blast-premier-fall-groups-2024
+58ede9da53ef6c14,liquid-vs-natus-vincere-m3-inferno,2024-08-03,esl,de_inferno,161,44,161,BLAST Premier Fall Groups 2024,89480,liquid-vs-natus-vincere-m3-inferno_blast-premier-fall-groups-2024
+b1c728eb69f287b2,natus-vincere-vs-big-m1-dust2,2024-08-02,esl,de_dust2,132,45,132,BLAST Premier Fall Groups 2024,89480,natus-vincere-vs-big-m1-dust2_blast-premier-fall-groups-2024
+db0bbe5c6d55218f,natus-vincere-vs-big-m2-mirage,2024-08-02,esl,de_mirage,108,31,108,BLAST Premier Fall Groups 2024,89480,natus-vincere-vs-big-m2-mirage_blast-premier-fall-groups-2024
+ad33204c37b8eec6,natus-vincere-vs-liquid-m1-anubis,2024-08-01,esl,de_anubis,159,50,159,BLAST Premier Fall Groups 2024,89480,natus-vincere-vs-liquid-m1-anubis_blast-premier-fall-groups-2024
+ddcbcf043b38cc10,natus-vincere-vs-liquid-m2-mirage,2024-08-01,esl,de_mirage,93,32,93,BLAST Premier Fall Groups 2024,89480,natus-vincere-vs-liquid-m2-mirage_blast-premier-fall-groups-2024
+6274cde9e9f8ea,natus-vincere-vs-liquid-m3-inferno,2024-08-01,esl,de_inferno,160,62,162,BLAST Premier Fall Groups 2024,89480,natus-vincere-vs-liquid-m3-inferno_blast-premier-fall-groups-2024
+73aa5b5682a00e68,og-vs-complexity-m1-ancient,2024-07-30,esl,de_ancient,135,45,137,BLAST Premier Fall Groups 2024,89480,og-vs-complexity-m1-ancient_blast-premier-fall-groups-2024
+7652675195c8336a,og-vs-complexity-m2-vertigo,2024-07-30,esl,de_vertigo,155,49,165,BLAST Premier Fall Groups 2024,89480,og-vs-complexity-m2-vertigo_blast-premier-fall-groups-2024
+4a2e6eeee6811883,og-vs-complexity-m3-anubis,2024-07-30,esl,de_anubis,127,45,127,BLAST Premier Fall Groups 2024,89480,og-vs-complexity-m3-anubis_blast-premier-fall-groups-2024
+b86801935af5f282,spirit-vs-complexity-m1-dust2,2024-08-03,esl,de_dust2,226,73,226,BLAST Premier Fall Groups 2024,89480,spirit-vs-complexity-m1-dust2_blast-premier-fall-groups-2024
+b2b02bde8611add2,spirit-vs-complexity-m2-anubis,2024-08-03,esl,de_anubis,120,35,120,BLAST Premier Fall Groups 2024,89480,spirit-vs-complexity-m2-anubis_blast-premier-fall-groups-2024
+e86893540c8a9fc6,spirit-vs-complexity-m3-nuke,2024-08-03,esl,de_nuke,162,60,166,BLAST Premier Fall Groups 2024,89480,spirit-vs-complexity-m3-nuke_blast-premier-fall-groups-2024
+18cce698c83429e1,spirit-vs-heroic-m1-vertigo,2024-07-30,esl,de_vertigo,159,43,160,BLAST Premier Fall Groups 2024,89480,spirit-vs-heroic-m1-vertigo_blast-premier-fall-groups-2024
+d171f345ef3abef4,spirit-vs-heroic-m2-anubis,2024-07-30,esl,de_anubis,122,40,122,BLAST Premier Fall Groups 2024,89480,spirit-vs-heroic-m2-anubis_blast-premier-fall-groups-2024
+fe562c6d95285ead,spirit-vs-og-m1-dust2,2024-07-29,esl,de_dust2,109,38,109,BLAST Premier Fall Groups 2024,89480,spirit-vs-og-m1-dust2_blast-premier-fall-groups-2024
+d840bb0116745b38,spirit-vs-og-m2-mirage,2024-07-29,esl,de_mirage,150,44,152,BLAST Premier Fall Groups 2024,89480,spirit-vs-og-m2-mirage_blast-premier-fall-groups-2024
+6ebb3fa0da57b4dc,virtuspro-vs-liquid-m1-ancient,2024-07-31,esl,de_ancient,287,88,292,BLAST Premier Fall Groups 2024,89480,virtuspro-vs-liquid-m1-ancient_blast-premier-fall-groups-2024
+6de1626c373c7648,virtuspro-vs-liquid-m2-dust2,2024-07-31,esl,de_dust2,131,44,132,BLAST Premier Fall Groups 2024,89480,virtuspro-vs-liquid-m2-dust2_blast-premier-fall-groups-2024
+edf81c3472840fcb,vitality-vs-astralis-m1-nuke,2024-07-30,esl,de_nuke,139,38,139,BLAST Premier Fall Groups 2024,89480,vitality-vs-astralis-m1-nuke_blast-premier-fall-groups-2024
+6381c2af36014359,vitality-vs-astralis-m1-vertigo,2024-08-03,esl,de_vertigo,164,59,164,BLAST Premier Fall Groups 2024,89480,vitality-vs-astralis-m1-vertigo_blast-premier-fall-groups-2024
+ecb4da1b97bf3a2c,vitality-vs-astralis-m2-dust2,2024-07-30,esl,de_dust2,164,48,164,BLAST Premier Fall Groups 2024,89480,vitality-vs-astralis-m2-dust2_blast-premier-fall-groups-2024
+726dc4e0dc729524,vitality-vs-astralis-m2-mirage,2024-08-03,esl,de_mirage,145,43,147,BLAST Premier Fall Groups 2024,89480,vitality-vs-astralis-m2-mirage_blast-premier-fall-groups-2024
+575d735266f2f734,vitality-vs-astralis-m3-nuke,2024-08-03,esl,de_nuke,144,50,146,BLAST Premier Fall Groups 2024,89480,vitality-vs-astralis-m3-nuke_blast-premier-fall-groups-2024
+b1288a8273f91565,vitality-vs-gamerlegion-m1-anubis,2024-07-30,esl,de_anubis,156,53,157,BLAST Premier Fall Groups 2024,89480,vitality-vs-gamerlegion-m1-anubis_blast-premier-fall-groups-2024
+98d4dd39c5132162,vitality-vs-gamerlegion-m2-mirage,2024-07-29,esl,de_mirage,251,91,256,BLAST Premier Fall Groups 2024,89480,vitality-vs-gamerlegion-m2-mirage_blast-premier-fall-groups-2024
+58797097c3d8aebf,vitality-vs-gamerlegion-m3-dust2,2024-07-29,esl,de_dust2,118,40,118,BLAST Premier Fall Groups 2024,89480,vitality-vs-gamerlegion-m3-dust2_blast-premier-fall-groups-2024
+3d26344f17f13837,astralis-vs-mouz-m1-vertigo,2024-10-31,esl,de_vertigo,133,60,144,BLAST Premier World Final 2024,92197,astralis-vs-mouz-m1-vertigo_blast-premier-world-final-2024
+95b841ba110bc66,astralis-vs-mouz-m2-nuke,2024-10-31,esl,de_nuke,146,42,146,BLAST Premier World Final 2024,92197,astralis-vs-mouz-m2-nuke_blast-premier-world-final-2024
+d6a5da1b4e77c240,astralis-vs-spirit-m1-dust2,2024-11-02,esl,de_dust2,116,35,120,BLAST Premier World Final 2024,92197,astralis-vs-spirit-m1-dust2_blast-premier-world-final-2024
+b52e1d9753015e28,astralis-vs-spirit-m2-vertigo,2024-11-02,esl,de_vertigo,111,39,111,BLAST Premier World Final 2024,92197,astralis-vs-spirit-m2-vertigo_blast-premier-world-final-2024
+4c63395b4c2d2672,astralis-vs-spirit-m3-ancient,2024-11-02,esl,de_ancient,132,56,132,BLAST Premier World Final 2024,92197,astralis-vs-spirit-m3-ancient_blast-premier-world-final-2024
+c53128b26fc9081c,faze-vs-spirit-m1-mirage,2024-11-01,esl,de_mirage,153,39,154,BLAST Premier World Final 2024,92197,faze-vs-spirit-m1-mirage_blast-premier-world-final-2024
+6bff0803deb724c0,faze-vs-spirit-m2-anubis,2024-11-01,esl,de_anubis,238,79,240,BLAST Premier World Final 2024,92197,faze-vs-spirit-m2-anubis_blast-premier-world-final-2024
+44579bee3d97fc86,g2-vs-liquid-m1-ancient,2024-10-30,esl,de_ancient,89,28,89,BLAST Premier World Final 2024,92197,g2-vs-liquid-m1-ancient_blast-premier-world-final-2024
+387c0cf5e98d763b,g2-vs-liquid-m2-inferno,2024-10-30,esl,de_inferno,122,45,123,BLAST Premier World Final 2024,92197,g2-vs-liquid-m2-inferno_blast-premier-world-final-2024
+96c7ccb4b0853c0,g2-vs-liquid-m3-mirage,2024-10-30,esl,de_mirage,135,32,135,BLAST Premier World Final 2024,92197,g2-vs-liquid-m3-mirage_blast-premier-world-final-2024
+58a332f9511c65a2,g2-vs-spirit-m1-anubis,2024-10-31,esl,de_anubis,189,66,190,BLAST Premier World Final 2024,92197,g2-vs-spirit-m1-anubis_blast-premier-world-final-2024
+428db1f9ec319bd3,g2-vs-spirit-m1-mirage,2024-11-03,esl,de_mirage,133,41,135,BLAST Premier World Final 2024,92197,g2-vs-spirit-m1-mirage_blast-premier-world-final-2024
+803d577b3d7ccd7,g2-vs-spirit-m2-anubis,2024-11-03,esl,de_anubis,126,43,126,BLAST Premier World Final 2024,92197,g2-vs-spirit-m2-anubis_blast-premier-world-final-2024
+7108f666509fa9d2,g2-vs-spirit-m2-mirage,2024-10-31,esl,de_mirage,159,51,159,BLAST Premier World Final 2024,92197,g2-vs-spirit-m2-mirage_blast-premier-world-final-2024
+94af43cd62a85e74,g2-vs-spirit-m3-dust2,2024-11-03,esl,de_dust2,131,44,131,BLAST Premier World Final 2024,92197,g2-vs-spirit-m3-dust2_blast-premier-world-final-2024
+afd99b702c5aafc4,g2-vs-vitality-m1-dust2,2024-11-02,esl,de_dust2,158,52,158,BLAST Premier World Final 2024,92197,g2-vs-vitality-m1-dust2_blast-premier-world-final-2024
+5bb16082b6d7bf2b,g2-vs-vitality-m2-inferno,2024-11-02,esl,de_inferno,124,41,125,BLAST Premier World Final 2024,92197,g2-vs-vitality-m2-inferno_blast-premier-world-final-2024
+8daa396e113e118c,g2-vs-vitality-m3-mirage,2024-11-02,esl,de_mirage,136,45,137,BLAST Premier World Final 2024,92197,g2-vs-vitality-m3-mirage_blast-premier-world-final-2024
+6cd242073d19497b,liquid-vs-vitality-m1-anubis,2024-10-31,esl,de_anubis,146,46,146,BLAST Premier World Final 2024,92197,liquid-vs-vitality-m1-anubis_blast-premier-world-final-2024
+c37ee9184f0fccf3,liquid-vs-vitality-m2-dust2,2024-10-31,esl,de_dust2,97,37,97,BLAST Premier World Final 2024,92197,liquid-vs-vitality-m2-dust2_blast-premier-world-final-2024
+711139ec6e55fd91,liquid-vs-vitality-m3-nuke,2024-10-31,esl,de_nuke,164,53,165,BLAST Premier World Final 2024,92197,liquid-vs-vitality-m3-nuke_blast-premier-world-final-2024
+b293a59fe730997a,mouz-vs-faze-m1-inferno,2024-10-30,esl,de_inferno,184,69,184,BLAST Premier World Final 2024,92197,mouz-vs-faze-m1-inferno_blast-premier-world-final-2024
+b783523242dc5cd9,mouz-vs-faze-m2-nuke,2024-10-30,esl,de_nuke,160,47,162,BLAST Premier World Final 2024,92197,mouz-vs-faze-m2-nuke_blast-premier-world-final-2024
+feb54802b6a9c832,mouz-vs-vitality-m1-dust2,2024-11-01,esl,de_dust2,116,39,116,BLAST Premier World Final 2024,92197,mouz-vs-vitality-m1-dust2_blast-premier-world-final-2024
+fe36626287e46b88,mouz-vs-vitality-m2-mirage,2024-11-01,esl,de_mirage,118,37,118,BLAST Premier World Final 2024,92197,mouz-vs-vitality-m2-mirage_blast-premier-world-final-2024
+396cb5177b9dae02,natus-vincere-vs-astralis-m1-nuke,2024-10-30,esl,de_nuke,137,40,148,BLAST Premier World Final 2024,92197,natus-vincere-vs-astralis-m1-nuke_blast-premier-world-final-2024
+6c692080c5f6abee,natus-vincere-vs-astralis-m2-mirage,2024-10-30,esl,de_mirage,135,39,136,BLAST Premier World Final 2024,92197,natus-vincere-vs-astralis-m2-mirage_blast-premier-world-final-2024
+abd480a89674e421,natus-vincere-vs-faze-m1-inferno,2024-10-31,esl,de_inferno,119,39,119,BLAST Premier World Final 2024,92197,natus-vincere-vs-faze-m1-inferno_blast-premier-world-final-2024
+61978a585e80788f,natus-vincere-vs-faze-m2-mirage,2024-10-31,esl,de_mirage,129,46,129,BLAST Premier World Final 2024,92197,natus-vincere-vs-faze-m2-mirage_blast-premier-world-final-2024
+af4da788cca3cf47,natus-vincere-vs-faze-m3-ancient,2024-10-31,esl,de_ancient,146,60,146,BLAST Premier World Final 2024,92197,natus-vincere-vs-faze-m3-ancient_blast-premier-world-final-2024
+dbff32cc281390d2,vitality-vs-spirit-m1-anubis,2024-10-30,esl,de_anubis,133,49,133,BLAST Premier World Final 2024,92197,vitality-vs-spirit-m1-anubis_blast-premier-world-final-2024
+6fc423a29305d61b,vitality-vs-spirit-m2-mirage,2024-10-30,esl,de_mirage,158,52,165,BLAST Premier World Final 2024,92197,vitality-vs-spirit-m2-mirage_blast-premier-world-final-2024
+d2efa0d1275c41cd,eternal-fire-vs-furia-m1-vertigo,2024-08-30,esl,de_vertigo,117,42,118,BetBoom Dacha Belgrade Season 2,90459,eternal-fire-vs-furia-m1-vertigo_betboom-dacha-belgrade-season-2
+75181692308bac2b,eternal-fire-vs-furia-m2-nuke,2024-08-30,esl,de_nuke,115,39,116,BetBoom Dacha Belgrade Season 2,90459,eternal-fire-vs-furia-m2-nuke_betboom-dacha-belgrade-season-2
+225927b1180d0b81,eternal-fire-vs-furia-m3-mirage,2024-08-30,esl,de_mirage,145,44,148,BetBoom Dacha Belgrade Season 2,90459,eternal-fire-vs-furia-m3-mirage_betboom-dacha-belgrade-season-2
+76736c2b365c292f,eternal-fire-vs-pain-m1-inferno,2024-08-31,esl,de_inferno,142,48,152,BetBoom Dacha Belgrade Season 2,90459,eternal-fire-vs-pain-m1-inferno_betboom-dacha-belgrade-season-2
+ad7810e74206982f,eternal-fire-vs-pain-m2-anubis,2024-08-31,esl,de_anubis,122,38,125,BetBoom Dacha Belgrade Season 2,90459,eternal-fire-vs-pain-m2-anubis_betboom-dacha-belgrade-season-2
+79283a38aad394a1,falcons-vs-virtus-pro-m1-mirage,2024-08-29,esl,de_mirage,147,52,148,BetBoom Dacha Belgrade Season 2,90459,falcons-vs-virtus-pro-m1-mirage_betboom-dacha-belgrade-season-2
+ba92a36f1e77f8bb,falcons-vs-virtus-pro-m2-vertigo,2024-08-29,esl,de_vertigo,140,50,140,BetBoom Dacha Belgrade Season 2,90459,falcons-vs-virtus-pro-m2-vertigo_betboom-dacha-belgrade-season-2
+23515541f3d0fe06,falcons-vs-virtus-pro-m3-ancient,2024-08-29,esl,de_ancient,147,63,157,BetBoom Dacha Belgrade Season 2,90459,falcons-vs-virtus-pro-m3-ancient_betboom-dacha-belgrade-season-2
+a77714d1d24e40de,heroic-vs-eternal-fire-m1-mirage,2024-08-29,esl,de_mirage,143,53,145,BetBoom Dacha Belgrade Season 2,90459,heroic-vs-eternal-fire-m1-mirage_betboom-dacha-belgrade-season-2
+68a6634cb6e7b36,heroic-vs-eternal-fire-m2-anubis,2024-08-29,esl,de_anubis,148,49,148,BetBoom Dacha Belgrade Season 2,90459,heroic-vs-eternal-fire-m2-anubis_betboom-dacha-belgrade-season-2
+ab9ef4232034c346,heroic-vs-pain-m1-vertigo,2024-08-28,esl,de_vertigo,119,45,119,BetBoom Dacha Belgrade Season 2,90459,heroic-vs-pain-m1-vertigo_betboom-dacha-belgrade-season-2
+c4dafd1140033743,heroic-vs-pain-m2-dust2,2024-08-28,esl,de_dust2,145,41,148,BetBoom Dacha Belgrade Season 2,90459,heroic-vs-pain-m2-dust2_betboom-dacha-belgrade-season-2
+8ac2cf84dabdca64,heroic-vs-pain-m3-nuke,2024-08-28,esl,de_nuke,132,33,133,BetBoom Dacha Belgrade Season 2,90459,heroic-vs-pain-m3-nuke_betboom-dacha-belgrade-season-2
+50576be7856f921,mouz-vs-eternal-fire-m1-dust2,2024-08-31,esl,de_dust2,163,57,163,BetBoom Dacha Belgrade Season 2,90459,mouz-vs-eternal-fire-m1-dust2_betboom-dacha-belgrade-season-2
+9278cbca5a95ae0b,mouz-vs-eternal-fire-m1-inferno,2024-08-28,esl,de_inferno,143,54,143,BetBoom Dacha Belgrade Season 2,90459,mouz-vs-eternal-fire-m1-inferno_betboom-dacha-belgrade-season-2
+8cedc59445ce900,mouz-vs-eternal-fire-m2-nuke,2024-08-31,esl,de_nuke,243,71,246,BetBoom Dacha Belgrade Season 2,90459,mouz-vs-eternal-fire-m2-nuke_betboom-dacha-belgrade-season-2
+6785d8905ae2f55e,pain-vs-mouz-m1-vertigo,2024-08-29,esl,de_vertigo,186,74,193,BetBoom Dacha Belgrade Season 2,90459,pain-vs-mouz-m1-vertigo_betboom-dacha-belgrade-season-2
+720972f97c3616a2,pain-vs-mouz-m2-mirage,2024-08-29,esl,de_mirage,124,35,126,BetBoom Dacha Belgrade Season 2,90459,pain-vs-mouz-m2-mirage_betboom-dacha-belgrade-season-2
+56f5d44e6bb58057,pain-vs-mouz-m3-nuke,2024-08-29,esl,de_nuke,132,35,135,BetBoom Dacha Belgrade Season 2,90459,pain-vs-mouz-m3-nuke_betboom-dacha-belgrade-season-2
+188eef04e54cf616,spirit-vs-eternal-fire-m1-nuke,2024-09-01,esl,de_nuke,126,35,128,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-eternal-fire-m1-nuke_betboom-dacha-belgrade-season-2
+7371a3b73b92df57,spirit-vs-eternal-fire-m2-vertigo,2024-09-01,esl,de_vertigo,135,48,145,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-eternal-fire-m2-vertigo_betboom-dacha-belgrade-season-2
+7f95b07bea0dd1c6,spirit-vs-eternal-fire-m3-mirage,2024-09-01,esl,de_mirage,131,40,135,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-eternal-fire-m3-mirage_betboom-dacha-belgrade-season-2
+4f72601c9ef431f3,spirit-vs-falcons-m1-nuke,2024-08-28,esl,de_nuke,128,37,129,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-falcons-m1-nuke_betboom-dacha-belgrade-season-2
+c1a587cf1fd09651,spirit-vs-falcons-m2-dust2,2024-08-28,esl,de_dust2,173,66,184,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-falcons-m2-dust2_betboom-dacha-belgrade-season-2
+2aa812c05d2b4ad4,spirit-vs-furia-m1-mirage,2024-08-29,esl,de_mirage,100,32,103,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-furia-m1-mirage_betboom-dacha-belgrade-season-2
+415f46cbc4b7c058,spirit-vs-furia-m2-anubis,2024-08-29,esl,de_anubis,95,26,95,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-furia-m2-anubis_betboom-dacha-belgrade-season-2
+77be9a84ae689c4e,spirit-vs-mouz-m1-nuke,2024-08-30,esl,de_nuke,151,39,162,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-mouz-m1-nuke_betboom-dacha-belgrade-season-2
+c0ac912d7810e22b,spirit-vs-mouz-m2-mirage,2024-08-30,esl,de_mirage,208,71,211,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-mouz-m2-mirage_betboom-dacha-belgrade-season-2
+b6c6a04db615332d,spirit-vs-mouz-m3-ancient,2024-08-30,esl,de_ancient,162,58,162,BetBoom Dacha Belgrade Season 2,90459,spirit-vs-mouz-m3-ancient_betboom-dacha-belgrade-season-2
+167956817a0b29f1,virtus-pro-vs-furia-m1-inferno,2024-08-28,esl,de_inferno,110,41,113,BetBoom Dacha Belgrade Season 2,90459,virtus-pro-vs-furia-m1-inferno_betboom-dacha-belgrade-season-2
+d8a5142cd440e88d,virtus-pro-vs-furia-m2-mirage,2024-08-28,esl,de_mirage,122,43,126,BetBoom Dacha Belgrade Season 2,90459,virtus-pro-vs-furia-m2-mirage_betboom-dacha-belgrade-season-2
+7a5312d550601df9,virtuspro-vs-pain-m1-mirage,2024-08-30,esl,de_mirage,134,43,138,BetBoom Dacha Belgrade Season 2,90459,virtuspro-vs-pain-m1-mirage_betboom-dacha-belgrade-season-2
+af1b32e16b360c7d,virtuspro-vs-pain-m2-vertigo,2024-08-30,esl,de_vertigo,138,36,142,BetBoom Dacha Belgrade Season 2,90459,virtuspro-vs-pain-m2-vertigo_betboom-dacha-belgrade-season-2
+1ad6f7d3a179e722,virtuspro-vs-pain-m3-dust2,2024-08-30,esl,de_dust2,139,53,139,BetBoom Dacha Belgrade Season 2,90459,virtuspro-vs-pain-m3-dust2_betboom-dacha-belgrade-season-2
+8ae4e1ef8aba42ab,3dmax-vs-spirit-m1-anubis,2024-09-06,esl,de_anubis,122,48,122,ESL Pro League Season 20,91083,3dmax-vs-spirit-m1-anubis_esl-pro-league-season-20
+496b197de6cc9f89,3dmax-vs-spirit-m2-ancient,2024-09-06,esl,de_ancient,128,48,128,ESL Pro League Season 20,91083,3dmax-vs-spirit-m2-ancient_esl-pro-league-season-20
+100bb9c09b657dc0,3dmax-vs-spirit-m3-nuke,2024-09-06,esl,de_nuke,105,34,106,ESL Pro League Season 20,91083,3dmax-vs-spirit-m3-nuke_esl-pro-league-season-20
+2f4ed7e0e8e4dcd8,9z-vs-3dmax-m1-inferno,2024-09-06,esl,de_inferno,191,77,192,ESL Pro League Season 20,91083,9z-vs-3dmax-m1-inferno_esl-pro-league-season-20
+a7ab08edebc5d6fd,9z-vs-3dmax-m2-nuke-p1,2024-09-06,esl,de_nuke,8,4,8,ESL Pro League Season 20,91083,9z-vs-3dmax-m2-nuke-p1_esl-pro-league-season-20
+67200a1484e9ef03,9z-vs-3dmax-m2-nuke-p2,2024-09-06,esl,de_nuke,121,45,121,ESL Pro League Season 20,91083,9z-vs-3dmax-m2-nuke-p2_esl-pro-league-season-20
+7378bb59ddc11a54,9z-vs-the-mongolz-m1-nuke,2024-09-07,esl,de_nuke,155,51,155,ESL Pro League Season 20,91083,9z-vs-the-mongolz-m1-nuke_esl-pro-league-season-20
+751faa6fbacf6a4e,9z-vs-the-mongolz-m2-ancient,2024-09-07,esl,de_ancient,141,56,141,ESL Pro League Season 20,91083,9z-vs-the-mongolz-m2-ancient_esl-pro-league-season-20
+e9301e806fb78ac4,9z-vs-wildcard-m1-ancient,2024-09-05,esl,de_ancient,127,37,127,ESL Pro League Season 20,91083,9z-vs-wildcard-m1-ancient_esl-pro-league-season-20
+1dbd2808bb33407e,9z-vs-wildcard-m2-nuke,2024-09-05,esl,de_nuke,153,35,154,ESL Pro League Season 20,91083,9z-vs-wildcard-m2-nuke_esl-pro-league-season-20
+17a8e4d2a5927512,astralis-vs-complexity-m1-vertigo,2024-09-11,esl,de_vertigo,241,92,243,ESL Pro League Season 20,91083,astralis-vs-complexity-m1-vertigo_esl-pro-league-season-20
+c820ec824f034bc7,astralis-vs-complexity-m2-inferno,2024-09-11,esl,de_inferno,177,58,177,ESL Pro League Season 20,91083,astralis-vs-complexity-m2-inferno_esl-pro-league-season-20
+a3f185c7b3d74d91,atox-vs-ence-m1-ancient,2024-09-13,esl,de_ancient,105,32,107,ESL Pro League Season 20,91083,atox-vs-ence-m1-ancient_esl-pro-league-season-20
+d03108c8ad63469f,atox-vs-ence-m2-nuke,2024-09-13,esl,de_nuke,125,43,128,ESL Pro League Season 20,91083,atox-vs-ence-m2-nuke_esl-pro-league-season-20
+27628e13e4d06258,atox-vs-falcons-m1-ancient,2024-09-12,esl,de_ancient,125,39,126,ESL Pro League Season 20,91083,atox-vs-falcons-m1-ancient_esl-pro-league-season-20
+6ed42c5ac9299d86,atox-vs-falcons-m2-anubis,2024-09-12,esl,de_anubis,121,37,121,ESL Pro League Season 20,91083,atox-vs-falcons-m2-anubis_esl-pro-league-season-20
+eb43e07bf7fa9695,atox-vs-furia-m1-inferno,2024-09-14,esl,de_inferno,120,46,120,ESL Pro League Season 20,91083,atox-vs-furia-m1-inferno_esl-pro-league-season-20
+cbd114c69a3b9d1f,atox-vs-furia-m2-nuke,2024-09-14,esl,de_nuke,139,37,141,ESL Pro League Season 20,91083,atox-vs-furia-m2-nuke_esl-pro-league-season-20
+a7d322c3b6ce819a,big-vs-complexity-m1-ancient,2024-09-13,esl,de_ancient,166,63,167,ESL Pro League Season 20,91083,big-vs-complexity-m1-ancient_esl-pro-league-season-20
+81ebdf96ff1044cc,big-vs-complexity-m2-vertigo,2024-09-13,esl,de_vertigo,167,72,167,ESL Pro League Season 20,91083,big-vs-complexity-m2-vertigo_esl-pro-league-season-20
+9d086592b4e9403f,big-vs-complexity-m3-dust2,2024-09-13,esl,de_dust2,95,39,95,ESL Pro League Season 20,91083,big-vs-complexity-m3-dust2_esl-pro-league-season-20
+95bea4bad94a796f,big-vs-fnatic-m1-anubis,2024-09-12,esl,de_anubis,113,36,113,ESL Pro League Season 20,91083,big-vs-fnatic-m1-anubis_esl-pro-league-season-20
+44174f429c215151,big-vs-fnatic-m2-mirage,2024-09-12,esl,de_mirage,119,45,119,ESL Pro League Season 20,91083,big-vs-fnatic-m2-mirage_esl-pro-league-season-20
+20624f5a9a2c8bdd,big-vs-imperial-m1-nuke-p1,2024-09-10,esl,de_nuke,43,10,43,ESL Pro League Season 20,91083,big-vs-imperial-m1-nuke-p1_esl-pro-league-season-20
+54ee753ac0c087fa,big-vs-imperial-m1-nuke-p2,2024-09-10,esl,de_nuke,107,32,109,ESL Pro League Season 20,91083,big-vs-imperial-m1-nuke-p2_esl-pro-league-season-20
+b0801ac76ef9650,big-vs-imperial-m2-mirage,2024-09-10,esl,de_mirage,116,34,116,ESL Pro League Season 20,91083,big-vs-imperial-m2-mirage_esl-pro-league-season-20
+fdc74c455d2e5077,big-vs-imperial-m3-dust2,2024-09-10,esl,de_dust2,144,48,144,ESL Pro League Season 20,91083,big-vs-imperial-m3-dust2_esl-pro-league-season-20
+a2f95ac5c15f30c5,big-vs-the-mongolz-m1-ancient,2024-09-17,esl,de_ancient,281,111,281,ESL Pro League Season 20,91083,big-vs-the-mongolz-m1-ancient_esl-pro-league-season-20
+7de3b6883f744730,big-vs-the-mongolz-m2-nuke,2024-09-17,esl,de_nuke,165,41,166,ESL Pro League Season 20,91083,big-vs-the-mongolz-m2-nuke_esl-pro-league-season-20
+a61d3d0a10eac73,big-vs-the-mongolz-m3-mirage,2024-09-17,esl,de_mirage,144,38,146,ESL Pro League Season 20,91083,big-vs-the-mongolz-m3-mirage_esl-pro-league-season-20
+7c1e14a6737a2f98,complexity-vs-astralis-m1-vertigo,2024-09-14,esl,de_vertigo,151,52,151,ESL Pro League Season 20,91083,complexity-vs-astralis-m1-vertigo_esl-pro-league-season-20
+4781e17b8d9fe2ac,complexity-vs-astralis-m2-inferno,2024-09-14,esl,de_inferno,127,55,128,ESL Pro League Season 20,91083,complexity-vs-astralis-m2-inferno_esl-pro-league-season-20
+9ebbec77263629b5,complexity-vs-astralis-m3-nuke,2024-09-14,esl,de_nuke,210,75,211,ESL Pro League Season 20,91083,complexity-vs-astralis-m3-nuke_esl-pro-league-season-20
+4f1d881c62e3a1c5,complexity-vs-m80-m1-ancient-p1,2024-09-10,esl,de_ancient,18,6,18,ESL Pro League Season 20,91083,complexity-vs-m80-m1-ancient-p1_esl-pro-league-season-20
+20f37e690f542187,complexity-vs-m80-m1-ancient-p2,2024-09-10,esl,de_ancient,104,33,114,ESL Pro League Season 20,91083,complexity-vs-m80-m1-ancient-p2_esl-pro-league-season-20
+3f9c98d76ce86ea4,complexity-vs-m80-m2-anubis,2024-09-10,esl,de_anubis,161,65,161,ESL Pro League Season 20,91083,complexity-vs-m80-m2-anubis_esl-pro-league-season-20
+3e4610e9f9d6f1d7,complexity-vs-mouz-m1-vertigo,2024-09-12,esl,de_vertigo,140,53,140,ESL Pro League Season 20,91083,complexity-vs-mouz-m1-vertigo_esl-pro-league-season-20
+309170ffbaf48e3e,complexity-vs-mouz-m2-nuke,2024-09-12,esl,de_nuke,124,38,124,ESL Pro League Season 20,91083,complexity-vs-mouz-m2-nuke_esl-pro-league-season-20
+ec27892abb868501,ence-vs-red-canids-m1-ancient,2024-09-12,esl,de_ancient,114,48,114,ESL Pro League Season 20,91083,ence-vs-red-canids-m1-ancient_esl-pro-league-season-20
+72c143f234466d3b,ence-vs-red-canids-m2-vertigo,2024-09-12,esl,de_vertigo,125,51,125,ESL Pro League Season 20,91083,ence-vs-red-canids-m2-vertigo_esl-pro-league-season-20
+7e744fad8b3fc120,ence-vs-red-canids-m3-anubis,2024-09-12,esl,de_anubis,148,43,153,ESL Pro League Season 20,91083,ence-vs-red-canids-m3-anubis_esl-pro-league-season-20
+48b6d651701b92d0,eternal-fire-vs-natus-vincere-m1-anubis,2024-09-07,esl,de_anubis,266,107,272,ESL Pro League Season 20,91083,eternal-fire-vs-natus-vincere-m1-anubis_esl-pro-league-season-20
+bccaf1bb325618cf,eternal-fire-vs-natus-vincere-m1-nuke,2024-09-22,esl,de_nuke,141,31,142,ESL Pro League Season 20,91083,eternal-fire-vs-natus-vincere-m1-nuke_esl-pro-league-season-20
+e44e2a3a0caf5180,eternal-fire-vs-natus-vincere-m2-anubis,2024-09-22,esl,de_anubis,149,59,149,ESL Pro League Season 20,91083,eternal-fire-vs-natus-vincere-m2-anubis_esl-pro-league-season-20
+4b6dab5d2810bb4c,eternal-fire-vs-natus-vincere-m2-mirage,2024-09-07,esl,de_mirage,121,43,125,ESL Pro League Season 20,91083,eternal-fire-vs-natus-vincere-m2-mirage_esl-pro-league-season-20
+a6a3568070a7f005,eternal-fire-vs-natus-vincere-m3-ancient,2024-09-22,esl,de_ancient,158,61,160,ESL Pro League Season 20,91083,eternal-fire-vs-natus-vincere-m3-ancient_esl-pro-league-season-20
+c5bae36a3f56878a,eternal-fire-vs-natus-vincere-m4-inferno,2024-09-22,esl,de_inferno,101,36,101,ESL Pro League Season 20,91083,eternal-fire-vs-natus-vincere-m4-inferno_esl-pro-league-season-20
+2eced1ca72644688,eternal-fire-vs-natus-vincere-m5-dust2,2024-09-22,esl,de_dust2,144,56,144,ESL Pro League Season 20,91083,eternal-fire-vs-natus-vincere-m5-dust2_esl-pro-league-season-20
+c979862bdeee8c9b,eternal-fire-vs-sangal-m1-dust2,2024-09-04,esl,de_dust2,151,59,151,ESL Pro League Season 20,91083,eternal-fire-vs-sangal-m1-dust2_esl-pro-league-season-20
+bb1541fc31601ae3,eternal-fire-vs-sangal-m2-nuke,2024-09-04,esl,de_nuke,97,29,97,ESL Pro League Season 20,91083,eternal-fire-vs-sangal-m2-nuke_esl-pro-league-season-20
+6d6ec022af8c3d64,eternal-fire-vs-the-mongolz-m1-mirage,2024-09-18,esl,de_mirage,185,61,186,ESL Pro League Season 20,91083,eternal-fire-vs-the-mongolz-m1-mirage_esl-pro-league-season-20
+c1503cd158482ef2,eternal-fire-vs-the-mongolz-m2-anubis,2024-09-18,esl,de_anubis,136,48,137,ESL Pro League Season 20,91083,eternal-fire-vs-the-mongolz-m2-anubis_esl-pro-league-season-20
+11eb90e0d69272e3,eternal-fire-vs-the-mongolz-m3-inferno,2024-09-18,esl,de_inferno,158,55,160,ESL Pro League Season 20,91083,eternal-fire-vs-the-mongolz-m3-inferno_esl-pro-league-season-20
+ba61141a1b75e37d,falcons-vs-red-canids-m1-mirage,2024-09-14,esl,de_mirage,145,51,147,ESL Pro League Season 20,91083,falcons-vs-red-canids-m1-mirage_esl-pro-league-season-20
+79f0d52d95aa27cf,falcons-vs-red-canids-m2-dust2,2024-09-14,esl,de_dust2,133,57,133,ESL Pro League Season 20,91083,falcons-vs-red-canids-m2-dust2_esl-pro-league-season-20
+a44b40e06b1fd68f,falcons-vs-virtus-pro-m1-dust2,2024-09-13,esl,de_dust2,177,72,177,ESL Pro League Season 20,91083,falcons-vs-virtus-pro-m1-dust2_esl-pro-league-season-20
+3d552733aed776a8,falcons-vs-virtus-pro-m2-vertigo,2024-09-13,esl,de_vertigo,190,67,192,ESL Pro League Season 20,91083,falcons-vs-virtus-pro-m2-vertigo_esl-pro-league-season-20
+a132b576223c6a5,falcons-vs-virtus-pro-m3-ancient,2024-09-13,esl,de_ancient,159,42,161,ESL Pro League Season 20,91083,falcons-vs-virtus-pro-m3-ancient_esl-pro-league-season-20
+ecd20376923bbd77,faze-vs-complexity-m1-anubis,2024-09-17,esl,de_anubis,139,46,139,ESL Pro League Season 20,91083,faze-vs-complexity-m1-anubis_esl-pro-league-season-20
+54dd9285e5b9e7dd,faze-vs-complexity-m2-dust2,2024-09-17,esl,de_dust2,146,55,146,ESL Pro League Season 20,91083,faze-vs-complexity-m2-dust2_esl-pro-league-season-20
+4654d19238c2ae29,faze-vs-ninjas-in-pyjamas-m1-ancient,2024-09-05,esl,de_ancient,146,51,146,ESL Pro League Season 20,91083,faze-vs-ninjas-in-pyjamas-m1-ancient_esl-pro-league-season-20
+141c224c05b3eed,faze-vs-ninjas-in-pyjamas-m2-mirage,2024-09-05,esl,de_mirage,155,43,155,ESL Pro League Season 20,91083,faze-vs-ninjas-in-pyjamas-m2-mirage_esl-pro-league-season-20
+1234c2e7860dd4e7,faze-vs-ninjas-in-pyjamas-m3-dust2,2024-09-05,esl,de_dust2,92,29,92,ESL Pro League Season 20,91083,faze-vs-ninjas-in-pyjamas-m3-dust2_esl-pro-league-season-20
+1fdf78a348cacff8,faze-vs-sangal-m1-anubis,2024-09-03,esl,de_anubis,95,29,95,ESL Pro League Season 20,91083,faze-vs-sangal-m1-anubis_esl-pro-league-season-20
+b7465da217305097,faze-vs-sangal-m2-ancient,2024-09-03,esl,de_ancient,156,58,156,ESL Pro League Season 20,91083,faze-vs-sangal-m2-ancient_esl-pro-league-season-20
+79078f38e81fa037,faze-vs-sangal-m3-nuke-p1,2024-09-03,esl,de_nuke,117,33,117,ESL Pro League Season 20,91083,faze-vs-sangal-m3-nuke-p1_esl-pro-league-season-20
+c6e2a25a18d037b,faze-vs-sangal-m3-nuke-p2,2024-09-03,esl,de_nuke,38,13,38,ESL Pro League Season 20,91083,faze-vs-sangal-m3-nuke-p2_esl-pro-league-season-20
+3e0b29353505a714,flyquest-vs-eternal-fire-m1-inferno,2024-09-03,esl,de_inferno,136,44,137,ESL Pro League Season 20,91083,flyquest-vs-eternal-fire-m1-inferno_esl-pro-league-season-20
+c763d938d3859665,flyquest-vs-eternal-fire-m2-dust2,2024-09-03,esl,de_dust2,137,44,137,ESL Pro League Season 20,91083,flyquest-vs-eternal-fire-m2-dust2_esl-pro-league-season-20
+a6add572516fa634,flyquest-vs-faze-m1-anubis,2024-09-04,esl,de_anubis,134,42,134,ESL Pro League Season 20,91083,flyquest-vs-faze-m1-anubis_esl-pro-league-season-20
+a5fc1f248bb0df4c,flyquest-vs-faze-m2-ancient,2024-09-04,esl,de_ancient,158,57,162,ESL Pro League Season 20,91083,flyquest-vs-faze-m2-ancient_esl-pro-league-season-20
+5959f0fdf4ac6a88,flyquest-vs-lynn-vision-m1-anubis,2024-09-06,esl,de_anubis,134,54,134,ESL Pro League Season 20,91083,flyquest-vs-lynn-vision-m1-anubis_esl-pro-league-season-20
+be8d16edb7edead,flyquest-vs-lynn-vision-m2-vertigo,2024-09-06,esl,de_vertigo,167,61,167,ESL Pro League Season 20,91083,flyquest-vs-lynn-vision-m2-vertigo_esl-pro-league-season-20
+ec8d123a695bd7c2,flyquest-vs-lynn-vision-m3-ancient,2024-09-06,esl,de_ancient,201,72,201,ESL Pro League Season 20,91083,flyquest-vs-lynn-vision-m3-ancient_esl-pro-league-season-20
+8d8bdd5a207579f4,fnatic-vs-astralis-m1-vertigo,2024-09-10,esl,de_vertigo,149,43,150,ESL Pro League Season 20,91083,fnatic-vs-astralis-m1-vertigo_esl-pro-league-season-20
+81427e3514a6601b,fnatic-vs-astralis-m2-inferno,2024-09-10,esl,de_inferno,135,49,136,ESL Pro League Season 20,91083,fnatic-vs-astralis-m2-inferno_esl-pro-league-season-20
+a1128d8978d07d19,fnatic-vs-astralis-m3-ancient,2024-09-10,esl,de_ancient,134,48,134,ESL Pro League Season 20,91083,fnatic-vs-astralis-m3-ancient_esl-pro-league-season-20
+ebd9b1765f3fa5e4,fnatic-vs-m80-m1-anubis,2024-09-11,esl,de_anubis,478,177,481,ESL Pro League Season 20,91083,fnatic-vs-m80-m1-anubis_esl-pro-league-season-20
+bf96e5708cdd9410,fnatic-vs-m80-m2-inferno,2024-09-11,esl,de_inferno,171,65,172,ESL Pro League Season 20,91083,fnatic-vs-m80-m2-inferno_esl-pro-league-season-20
+7c410a6907c1f259,fnatic-vs-mouz-m1-vertigo,2024-09-14,esl,de_vertigo,98,40,98,ESL Pro League Season 20,91083,fnatic-vs-mouz-m1-vertigo_esl-pro-league-season-20
+e52a77a11521f5cb,fnatic-vs-mouz-m2-mirage,2024-09-14,esl,de_mirage,123,41,125,ESL Pro League Season 20,91083,fnatic-vs-mouz-m2-mirage_esl-pro-league-season-20
+644db06277a51557,furia-vs-falcons-m1-nuke,2024-09-11,esl,de_nuke,141,44,141,ESL Pro League Season 20,91083,furia-vs-falcons-m1-nuke_esl-pro-league-season-20
+cffc4637a3fee6fa,furia-vs-falcons-m2-anubis,2024-09-11,esl,de_anubis,157,50,158,ESL Pro League Season 20,91083,furia-vs-falcons-m2-anubis_esl-pro-league-season-20
+aafb82a3c5c4cb59,furia-vs-falcons-m3-dust2,2024-09-11,esl,de_dust2,144,56,144,ESL Pro League Season 20,91083,furia-vs-falcons-m3-dust2_esl-pro-league-season-20
+1bcab8017249d263,furia-vs-red-canids-m1-anubis,2024-09-13,esl,de_anubis,91,27,91,ESL Pro League Season 20,91083,furia-vs-red-canids-m1-anubis_esl-pro-league-season-20
+856b83aa086bc719,furia-vs-red-canids-m2-nuke,2024-09-13,esl,de_nuke,117,36,125,ESL Pro League Season 20,91083,furia-vs-red-canids-m2-nuke_esl-pro-league-season-20
+c7ff2fde09ee4e30,furia-vs-red-canids-m3-vertigo,2024-09-13,esl,de_vertigo,145,52,145,ESL Pro League Season 20,91083,furia-vs-red-canids-m3-vertigo_esl-pro-league-season-20
+c330aa3c16d317c2,furia-vs-virtus-pro-m1-dust2,2024-09-13,esl,de_dust2,175,61,175,ESL Pro League Season 20,91083,furia-vs-virtus-pro-m1-dust2_esl-pro-league-season-20
+35218983185c65b3,furia-vs-virtus-pro-m2-vertigo,2024-09-13,esl,de_vertigo,119,42,120,ESL Pro League Season 20,91083,furia-vs-virtus-pro-m2-vertigo_esl-pro-league-season-20
+18fd8dc3c740f344,furia-vs-virtus-pro-m3-mirage,2024-09-13,esl,de_mirage,126,47,128,ESL Pro League Season 20,91083,furia-vs-virtus-pro-m3-mirage_esl-pro-league-season-20
+9abdbc3dbd866326,g2-vs-3dmax-m1-anubis,2024-09-05,esl,de_anubis,139,53,139,ESL Pro League Season 20,91083,g2-vs-3dmax-m1-anubis_esl-pro-league-season-20
+9c46a8131d8f0be3,g2-vs-3dmax-m2-ancient,2024-09-05,esl,de_ancient,119,46,119,ESL Pro League Season 20,91083,g2-vs-3dmax-m2-ancient_esl-pro-league-season-20
+b0b12f999e3472af,g2-vs-3dmax-m3-nuke,2024-09-05,esl,de_nuke,138,40,140,ESL Pro League Season 20,91083,g2-vs-3dmax-m3-nuke_esl-pro-league-season-20
+77e13ece3fbea1a5,g2-vs-liquid-m1-inferno,2024-09-20,esl,de_inferno,110,40,110,ESL Pro League Season 20,91083,g2-vs-liquid-m1-inferno_esl-pro-league-season-20
+17fc17ad75afd4a,g2-vs-liquid-m2-mirage,2024-09-20,esl,de_mirage,105,26,105,ESL Pro League Season 20,91083,g2-vs-liquid-m2-mirage_esl-pro-league-season-20
+54740fa2652d61c8,g2-vs-liquid-m3-nuke,2024-09-20,esl,de_nuke,104,27,106,ESL Pro League Season 20,91083,g2-vs-liquid-m3-nuke_esl-pro-league-season-20
+e8a341d62adabdf1,heroic-vs-ninjas-in-pyjamas-m1-ancient,2024-09-03,esl,de_ancient,142,50,142,ESL Pro League Season 20,91083,heroic-vs-ninjas-in-pyjamas-m1-ancient_esl-pro-league-season-20
+33f4420784d78542,heroic-vs-ninjas-in-pyjamas-m2-nuke,2024-09-03,esl,de_nuke,124,22,127,ESL Pro League Season 20,91083,heroic-vs-ninjas-in-pyjamas-m2-nuke_esl-pro-league-season-20
+5a54d392d4b278da,heroic-vs-ninjas-in-pyjamas-m3-anubis,2024-09-07,esl,de_anubis,114,35,114,ESL Pro League Season 20,91083,heroic-vs-ninjas-in-pyjamas-m3-anubis_esl-pro-league-season-20
+95f0da09c8d57ca0,heroic-vs-ninjas-in-pyjamas-m3-vertigo,2024-09-03,esl,de_vertigo,127,40,127,ESL Pro League Season 20,91083,heroic-vs-ninjas-in-pyjamas-m3-vertigo_esl-pro-league-season-20
+26fbd0d09d7db9be,imperial-vs-m80-m1-vertigo,2024-09-14,esl,de_vertigo,138,38,138,ESL Pro League Season 20,91083,imperial-vs-m80-m1-vertigo_esl-pro-league-season-20
+b05af6918b0b7a37,imperial-vs-m80-m2-dust2,2024-09-14,esl,de_dust2,151,59,151,ESL Pro League Season 20,91083,imperial-vs-m80-m2-dust2_esl-pro-league-season-20
+56b65f81c9ed08d4,imperial-vs-spirit-m1-nuke,2024-09-18,esl,de_nuke,196,58,199,ESL Pro League Season 20,91083,imperial-vs-spirit-m1-nuke_esl-pro-league-season-20
+6859f22615808a53,imperial-vs-spirit-m2-dust2,2024-09-18,esl,de_dust2,102,20,103,ESL Pro League Season 20,91083,imperial-vs-spirit-m2-dust2_esl-pro-league-season-20
+6410b0681d88b18a,koi-vs-g2-m1-inferno,2024-09-03,esl,de_inferno,120,48,120,ESL Pro League Season 20,91083,koi-vs-g2-m1-inferno_esl-pro-league-season-20
+6b6ea8551ccc1c90,koi-vs-g2-m2-mirage,2024-09-03,esl,de_mirage,144,46,144,ESL Pro League Season 20,91083,koi-vs-g2-m2-mirage_esl-pro-league-season-20
+cac348d015dd5d2f,koi-vs-the-mongolz-m1-inferno,2024-09-05,esl,de_inferno,87,26,96,ESL Pro League Season 20,91083,koi-vs-the-mongolz-m1-inferno_esl-pro-league-season-20
+7b008cc346500058,koi-vs-the-mongolz-m2-mirage,2024-09-05,esl,de_mirage,89,27,89,ESL Pro League Season 20,91083,koi-vs-the-mongolz-m2-mirage_esl-pro-league-season-20
+5d1c1377a2e71daf,koi-vs-wildcard-m1-ancient-p1,2024-09-06,esl,de_ancient,82,28,83,ESL Pro League Season 20,91083,koi-vs-wildcard-m1-ancient-p1_esl-pro-league-season-20
+b10fa5fddb30d3f2,koi-vs-wildcard-m1-ancient-p2,2024-09-06,esl,de_ancient,41,9,51,ESL Pro League Season 20,91083,koi-vs-wildcard-m1-ancient-p2_esl-pro-league-season-20
+7a3b3ceb3a3c8128,koi-vs-wildcard-m2-nuke,2024-09-06,esl,de_nuke,145,33,145,ESL Pro League Season 20,91083,koi-vs-wildcard-m2-nuke_esl-pro-league-season-20
+a9519ae32c6f85fc,liquid-vs-complexity-m1-nuke,2024-09-18,esl,de_nuke,107,45,107,ESL Pro League Season 20,91083,liquid-vs-complexity-m1-nuke_esl-pro-league-season-20
+5b7fcb0f9480f74c,liquid-vs-complexity-m2-anubis,2024-09-18,esl,de_anubis,125,41,125,ESL Pro League Season 20,91083,liquid-vs-complexity-m2-anubis_esl-pro-league-season-20
+719ffc9929901273,liquid-vs-ence-m1-nuke,2024-09-10,esl,de_nuke,168,50,168,ESL Pro League Season 20,91083,liquid-vs-ence-m1-nuke_esl-pro-league-season-20
+19e8a7751cb62d68,liquid-vs-ence-m2-anubis,2024-09-10,esl,de_anubis,134,39,134,ESL Pro League Season 20,91083,liquid-vs-ence-m2-anubis_esl-pro-league-season-20
+4277434da5587962,liquid-vs-virtus-pro-m1-ancient,2024-09-12,esl,de_ancient,126,41,126,ESL Pro League Season 20,91083,liquid-vs-virtus-pro-m1-ancient_esl-pro-league-season-20
+821364aaf9673fc9,liquid-vs-virtus-pro-m2-dust2,2024-09-12,esl,de_dust2,135,48,135,ESL Pro League Season 20,91083,liquid-vs-virtus-pro-m2-dust2_esl-pro-league-season-20
+9431eb841aacfcc7,liquid-vs-vitality-m1-anubis,2024-09-15,esl,de_anubis,154,47,154,ESL Pro League Season 20,91083,liquid-vs-vitality-m1-anubis_esl-pro-league-season-20
+b0a0ccc760d46f53,liquid-vs-vitality-m2-nuke,2024-09-15,esl,de_nuke,118,27,119,ESL Pro League Season 20,91083,liquid-vs-vitality-m2-nuke_esl-pro-league-season-20
+37482a57ac003f74,liquid-vs-vitality-m3-dust2,2024-09-15,esl,de_dust2,132,39,132,ESL Pro League Season 20,91083,liquid-vs-vitality-m3-dust2_esl-pro-league-season-20
+988afef8c570086f,lynn-vision-vs-heroic-m1-dust2-p1,2024-09-04,esl,de_dust2,102,23,102,ESL Pro League Season 20,91083,lynn-vision-vs-heroic-m1-dust2-p1_esl-pro-league-season-20
+3a90cb332295e871,lynn-vision-vs-heroic-m1-dust2-p2,2024-09-04,esl,de_dust2,47,17,47,ESL Pro League Season 20,91083,lynn-vision-vs-heroic-m1-dust2-p2_esl-pro-league-season-20
+fb946bbb444b5487,lynn-vision-vs-heroic-m2-ancient,2024-09-04,esl,de_ancient,123,38,123,ESL Pro League Season 20,91083,lynn-vision-vs-heroic-m2-ancient_esl-pro-league-season-20
+3fc1998dfc8f90b4,lynn-vision-vs-heroic-m3-nuke,2024-09-04,esl,de_nuke,130,38,131,ESL Pro League Season 20,91083,lynn-vision-vs-heroic-m3-nuke_esl-pro-league-season-20
+c57c6a336dfa771,lynn-vision-vs-natus-vincere-m1-dust2,2024-09-03,esl,de_dust2,203,71,203,ESL Pro League Season 20,91083,lynn-vision-vs-natus-vincere-m1-dust2_esl-pro-league-season-20
+8b86f5901fed22cf,lynn-vision-vs-natus-vincere-m2-ancient,2024-09-03,esl,de_ancient,115,35,115,ESL Pro League Season 20,91083,lynn-vision-vs-natus-vincere-m2-ancient_esl-pro-league-season-20
+cef47846ed7080a7,m80-vs-mibr-m1-anubis,2024-09-19,esl,de_anubis,145,54,146,ESL Pro League Season 20,91083,m80-vs-mibr-m1-anubis_esl-pro-league-season-20
+3bf0ae8ed2a522d0,m80-vs-mibr-m2-ancient,2024-09-19,esl,de_ancient,135,36,138,ESL Pro League Season 20,91083,m80-vs-mibr-m2-ancient_esl-pro-league-season-20
+93370e872ccdcac9,mibr-vs-9z-m1-anubis-p1,2024-09-03,esl,de_anubis,97,33,97,ESL Pro League Season 20,91083,mibr-vs-9z-m1-anubis-p1_esl-pro-league-season-20
+b6211effbb63eab1,mibr-vs-9z-m1-anubis-p2,2024-09-03,esl,de_anubis,52,19,53,ESL Pro League Season 20,91083,mibr-vs-9z-m1-anubis-p2_esl-pro-league-season-20
+60b320cacd9dc713,mibr-vs-9z-m2-nuke,2024-09-03,esl,de_nuke,144,47,144,ESL Pro League Season 20,91083,mibr-vs-9z-m2-nuke_esl-pro-league-season-20
+2cadd33b5f907fe7,mibr-vs-eternal-fire-m1-nuke-p1,2024-09-21,esl,de_nuke,24,11,24,ESL Pro League Season 20,91083,mibr-vs-eternal-fire-m1-nuke-p1_esl-pro-league-season-20
+da7f000468916d42,mibr-vs-eternal-fire-m1-nuke-p2,2024-09-21,esl,de_nuke,94,28,106,ESL Pro League Season 20,91083,mibr-vs-eternal-fire-m1-nuke-p2_esl-pro-league-season-20
+b4ad7f2166ad4a04,mibr-vs-eternal-fire-m2-inferno,2024-09-21,esl,de_inferno,134,61,140,ESL Pro League Season 20,91083,mibr-vs-eternal-fire-m2-inferno_esl-pro-league-season-20
+3a5393933c54fb1d,mibr-vs-g2-m1-anubis,2024-09-08,esl,de_anubis,129,39,130,ESL Pro League Season 20,91083,mibr-vs-g2-m1-anubis_esl-pro-league-season-20
+e73a836e448e459e,mibr-vs-g2-m2-inferno,2024-09-08,esl,de_inferno,124,48,126,ESL Pro League Season 20,91083,mibr-vs-g2-m2-inferno_esl-pro-league-season-20
+9453d05bbd738d35,mibr-vs-heroic-m1-mirage-p1,2024-09-18,esl,de_mirage,73,23,74,ESL Pro League Season 20,91083,mibr-vs-heroic-m1-mirage-p1_esl-pro-league-season-20
+a187bc608913eefd,mibr-vs-heroic-m1-mirage-p2,2024-09-18,esl,de_mirage,64,21,65,ESL Pro League Season 20,91083,mibr-vs-heroic-m1-mirage-p2_esl-pro-league-season-20
+8401e12c6c6ef2d5,mibr-vs-heroic-m2-anubis,2024-09-18,esl,de_anubis,157,51,158,ESL Pro League Season 20,91083,mibr-vs-heroic-m2-anubis_esl-pro-league-season-20
+adf119c147d480b1,mibr-vs-heroic-m3-nuke,2024-09-18,esl,de_nuke,113,39,117,ESL Pro League Season 20,91083,mibr-vs-heroic-m3-nuke_esl-pro-league-season-20
+287575bb338df46a,mibr-vs-spirit-m1-ancient-p1,2024-09-05,esl,de_ancient,78,30,78,ESL Pro League Season 20,91083,mibr-vs-spirit-m1-ancient-p1_esl-pro-league-season-20
+9946fcf0e4a39930,mibr-vs-spirit-m1-ancient-p2,2024-09-05,esl,de_ancient,18,5,18,ESL Pro League Season 20,91083,mibr-vs-spirit-m1-ancient-p2_esl-pro-league-season-20
+15d793736e44827b,mibr-vs-spirit-m2-nuke,2024-09-05,esl,de_nuke,142,47,144,ESL Pro League Season 20,91083,mibr-vs-spirit-m2-nuke_esl-pro-league-season-20
+9c0e4f70bdb8ed39,mibr-vs-spirit-m3-anubis,2024-09-05,esl,de_anubis,191,64,192,ESL Pro League Season 20,91083,mibr-vs-spirit-m3-anubis_esl-pro-league-season-20
+2396682bd23cab7,mouz-vs-complexity-m1-vertigo,2024-09-15,esl,de_vertigo,131,45,132,ESL Pro League Season 20,91083,mouz-vs-complexity-m1-vertigo_esl-pro-league-season-20
+f630af0208350ae8,mouz-vs-complexity-m2-ancient,2024-09-15,esl,de_ancient,153,63,153,ESL Pro League Season 20,91083,mouz-vs-complexity-m2-ancient_esl-pro-league-season-20
+6ecda34c2bb4d923,mouz-vs-imperial-m1-dust2,2024-09-11,esl,de_dust2,201,65,202,ESL Pro League Season 20,91083,mouz-vs-imperial-m1-dust2_esl-pro-league-season-20
+884171ab4e14777f,mouz-vs-imperial-m2-inferno,2024-09-11,esl,de_inferno,191,73,191,ESL Pro League Season 20,91083,mouz-vs-imperial-m2-inferno_esl-pro-league-season-20
+fa5810e4e2da4710,mouz-vs-rooster-m1-mirage,2024-09-10,esl,de_mirage,133,50,134,ESL Pro League Season 20,91083,mouz-vs-rooster-m1-mirage_esl-pro-league-season-20
+1b5a6e46d27447a2,mouz-vs-rooster-m2-vertigo,2024-09-10,esl,de_vertigo,233,86,233,ESL Pro League Season 20,91083,mouz-vs-rooster-m2-vertigo_esl-pro-league-season-20
+69dd14547e727020,mouz-vs-rooster-m3-inferno,2024-09-10,esl,de_inferno,120,48,120,ESL Pro League Season 20,91083,mouz-vs-rooster-m3-inferno_esl-pro-league-season-20
+4f6571e80585f999,natus-vincere-vs-g2-m1-inferno,2024-09-21,esl,de_inferno,126,43,126,ESL Pro League Season 20,91083,natus-vincere-vs-g2-m1-inferno_esl-pro-league-season-20
+906e0c247140b6e0,natus-vincere-vs-g2-m2-nuke,2024-09-21,esl,de_nuke,159,35,160,ESL Pro League Season 20,91083,natus-vincere-vs-g2-m2-nuke_esl-pro-league-season-20
+842c256e8365a04b,natus-vincere-vs-g2-m3-ancient,2024-09-21,esl,de_ancient,120,55,121,ESL Pro League Season 20,91083,natus-vincere-vs-g2-m3-ancient_esl-pro-league-season-20
+99816cbd96169d26,natus-vincere-vs-ninjas-in-pyjamas-m1-ancient,2024-09-04,esl,de_ancient,122,47,123,ESL Pro League Season 20,91083,natus-vincere-vs-ninjas-in-pyjamas-m1-ancient_esl-pro-league-season-20
+14e08292fc0f9c18,natus-vincere-vs-ninjas-in-pyjamas-m2-dust2,2024-09-04,esl,de_dust2,149,40,149,ESL Pro League Season 20,91083,natus-vincere-vs-ninjas-in-pyjamas-m2-dust2_esl-pro-league-season-20
+4ed9caa6d863869,natus-vincere-vs-spirit-m1-dust2,2024-09-20,esl,de_dust2,110,39,110,ESL Pro League Season 20,91083,natus-vincere-vs-spirit-m1-dust2_esl-pro-league-season-20
+21570bae9b39e14,natus-vincere-vs-spirit-m2-mirage,2024-09-20,esl,de_mirage,143,43,143,ESL Pro League Season 20,91083,natus-vincere-vs-spirit-m2-mirage_esl-pro-league-season-20
+7d5436882111b167,red-canids-vs-furia-m1-anubis,2024-09-15,esl,de_anubis,124,45,124,ESL Pro League Season 20,91083,red-canids-vs-furia-m1-anubis_esl-pro-league-season-20
+7c413e54316f13e7,red-canids-vs-furia-m2-nuke,2024-09-15,esl,de_nuke,147,44,147,ESL Pro League Season 20,91083,red-canids-vs-furia-m2-nuke_esl-pro-league-season-20
+1c4ef03eb6e7a947,red-canids-vs-virtus-pro-m1-vertigo,2024-09-10,esl,de_vertigo,102,34,103,ESL Pro League Season 20,91083,red-canids-vs-virtus-pro-m1-vertigo_esl-pro-league-season-20
+c8b6d48324c8dc66,red-canids-vs-virtus-pro-m2-dust2,2024-09-10,esl,de_dust2,95,31,95,ESL Pro League Season 20,91083,red-canids-vs-virtus-pro-m2-dust2_esl-pro-league-season-20
+cba2ade9ea571635,rooster-vs-astralis-m1-mirage,2024-09-13,esl,de_mirage,103,24,103,ESL Pro League Season 20,91083,rooster-vs-astralis-m1-mirage_esl-pro-league-season-20
+e6117e1a71208054,rooster-vs-astralis-m2-inferno,2024-09-13,esl,de_inferno,107,37,107,ESL Pro League Season 20,91083,rooster-vs-astralis-m2-inferno_esl-pro-league-season-20
+cb8b5f223e2968ee,rooster-vs-big-m1-mirage,2024-09-11,esl,de_mirage,104,35,104,ESL Pro League Season 20,91083,rooster-vs-big-m1-mirage_esl-pro-league-season-20
+12360dd73afec39b,rooster-vs-big-m2-nuke,2024-09-11,esl,de_nuke,135,39,135,ESL Pro League Season 20,91083,rooster-vs-big-m2-nuke_esl-pro-league-season-20
+ce71c41995a86a84,sangal-vs-faze-m1-anubis,2024-09-06,esl,de_anubis,160,48,160,ESL Pro League Season 20,91083,sangal-vs-faze-m1-anubis_esl-pro-league-season-20
+6bed815bf65debf0,sangal-vs-faze-m2-dust2,2024-09-06,esl,de_dust2,121,40,121,ESL Pro League Season 20,91083,sangal-vs-faze-m2-dust2_esl-pro-league-season-20
+6e0efab4ad73b570,sangal-vs-flyquest-m1-anubis,2024-09-07,esl,de_anubis,159,47,159,ESL Pro League Season 20,91083,sangal-vs-flyquest-m1-anubis_esl-pro-league-season-20
+38969620df0e1a68,sangal-vs-flyquest-m2-vertigo,2024-09-07,esl,de_vertigo,204,81,204,ESL Pro League Season 20,91083,sangal-vs-flyquest-m2-vertigo_esl-pro-league-season-20
+d6f9d51b5bcfab53,sangal-vs-heroic-m1-mirage,2024-09-08,esl,de_mirage,161,62,162,ESL Pro League Season 20,91083,sangal-vs-heroic-m1-mirage_esl-pro-league-season-20
+30fc588743edcaf9,sangal-vs-heroic-m2-ancient,2024-09-05,esl,de_ancient,152,44,153,ESL Pro League Season 20,91083,sangal-vs-heroic-m2-ancient_esl-pro-league-season-20
+a4d89c5b7236ff21,sangal-vs-heroic-m2-nuke,2024-09-08,esl,de_nuke,153,50,153,ESL Pro League Season 20,91083,sangal-vs-heroic-m2-nuke_esl-pro-league-season-20
+7dee3b21d236ea90,sangal-vs-heroic-m3-nuke,2024-09-05,esl,de_nuke,162,43,166,ESL Pro League Season 20,91083,sangal-vs-heroic-m3-nuke_esl-pro-league-season-20
+2300b63db230c67a,spirit-vs-furia-m1-nuke,2024-09-17,esl,de_nuke,139,39,139,ESL Pro League Season 20,91083,spirit-vs-furia-m1-nuke_esl-pro-league-season-20
+10061bddda3a308,spirit-vs-furia-m2-anubis,2024-09-17,esl,de_anubis,133,38,134,ESL Pro League Season 20,91083,spirit-vs-furia-m2-anubis_esl-pro-league-season-20
+fe15fda14703dd6e,spirit-vs-wildcard-m1-ancient-p1,2024-09-04,esl,de_ancient,23,9,23,ESL Pro League Season 20,91083,spirit-vs-wildcard-m1-ancient-p1_esl-pro-league-season-20
+c26228e25ef1403c,spirit-vs-wildcard-m1-ancient-p2,2024-09-04,esl,de_ancient,142,37,142,ESL Pro League Season 20,91083,spirit-vs-wildcard-m1-ancient-p2_esl-pro-league-season-20
+48d0bb228e4820a9,spirit-vs-wildcard-m2-nuke,2024-09-04,esl,de_nuke,198,62,201,ESL Pro League Season 20,91083,spirit-vs-wildcard-m2-nuke_esl-pro-league-season-20
+67f19440bd0c673d,the-mongolz-vs-3dmax-m1-anubis,2024-09-08,esl,de_anubis,141,45,141,ESL Pro League Season 20,91083,the-mongolz-vs-3dmax-m1-anubis_esl-pro-league-season-20
+60bb27b99a2cbb45,the-mongolz-vs-3dmax-m2-ancient,2024-09-08,esl,de_ancient,140,56,140,ESL Pro League Season 20,91083,the-mongolz-vs-3dmax-m2-ancient_esl-pro-league-season-20
+6176fab48612edc4,the-mongolz-vs-spirit-m1-ancient,2024-09-06,esl,de_ancient,142,47,142,ESL Pro League Season 20,91083,the-mongolz-vs-spirit-m1-ancient_esl-pro-league-season-20
+fcfbf09afc340bd2,the-mongolz-vs-spirit-m2-anubis,2024-09-06,esl,de_anubis,110,36,110,ESL Pro League Season 20,91083,the-mongolz-vs-spirit-m2-anubis_esl-pro-league-season-20
+89babdd79a14aa75,the-mongolz-vs-spirit-m3-nuke,2024-09-06,esl,de_nuke,159,52,161,ESL Pro League Season 20,91083,the-mongolz-vs-spirit-m3-nuke_esl-pro-league-season-20
+f2a176e5ac1dd9c7,virtus-pro-vs-heroic-m1-ancient,2024-09-17,esl,de_ancient,147,54,148,ESL Pro League Season 20,91083,virtus-pro-vs-heroic-m1-ancient_esl-pro-league-season-20
+1158ec09aafb71b7,virtus-pro-vs-heroic-m2-dust2,2024-09-17,esl,de_dust2,121,32,123,ESL Pro League Season 20,91083,virtus-pro-vs-heroic-m2-dust2_esl-pro-league-season-20
+efea308d9bd6a0f,vitality-vs-atox-m1-inferno,2024-09-11,esl,de_inferno,162,58,163,ESL Pro League Season 20,91083,vitality-vs-atox-m1-inferno_esl-pro-league-season-20
+69c8a41423d8ad18,vitality-vs-atox-m2-nuke-p1,2024-09-11,esl,de_nuke,15,1,15,ESL Pro League Season 20,91083,vitality-vs-atox-m2-nuke-p1_esl-pro-league-season-20
+20b33ebf60c2fa54,vitality-vs-atox-m2-nuke-p2,2024-09-11,esl,de_nuke,129,37,129,ESL Pro League Season 20,91083,vitality-vs-atox-m2-nuke-p2_esl-pro-league-season-20
+23b0bae1c089ec1d,vitality-vs-eternal-fire-m1-anubis,2024-09-19,esl,de_anubis,207,72,207,ESL Pro League Season 20,91083,vitality-vs-eternal-fire-m1-anubis_esl-pro-league-season-20
+8ad750c57378de84,vitality-vs-eternal-fire-m2-nuke,2024-09-19,esl,de_nuke,116,41,118,ESL Pro League Season 20,91083,vitality-vs-eternal-fire-m2-nuke_esl-pro-league-season-20
+210d8ac33aa74ef,vitality-vs-eternal-fire-m3-inferno,2024-09-19,esl,de_inferno,277,104,282,ESL Pro League Season 20,91083,vitality-vs-eternal-fire-m3-inferno_esl-pro-league-season-20
+b05f7038f55442a7,vitality-vs-furia-m1-vertigo,2024-09-12,esl,de_vertigo,137,53,137,ESL Pro League Season 20,91083,vitality-vs-furia-m1-vertigo_esl-pro-league-season-20
+91ea08f1a8736ce5,vitality-vs-furia-m2-dust2,2024-09-12,esl,de_dust2,102,44,103,ESL Pro League Season 20,91083,vitality-vs-furia-m2-dust2_esl-pro-league-season-20
+7c3984e01594cf75,wildcard-vs-3dmax-m1-ancient,2024-09-07,esl,de_ancient,155,54,156,ESL Pro League Season 20,91083,wildcard-vs-3dmax-m1-ancient_esl-pro-league-season-20
+177b95d0e611bb6f,wildcard-vs-3dmax-m2-inferno,2024-09-07,esl,de_inferno,124,50,125,ESL Pro League Season 20,91083,wildcard-vs-3dmax-m2-inferno_esl-pro-league-season-20
+40fffdc565bcdace,faze-vs-flyquest-m1-anubis,2024-07-17,esl,de_anubis,163,59,163,Esports World Cup 2024,89002,faze-vs-flyquest-m1-anubis_esports-world-cup-2024
+4768733a1f621672,faze-vs-flyquest-m2-nuke,2024-07-17,esl,de_nuke,164,54,169,Esports World Cup 2024,89002,faze-vs-flyquest-m2-nuke_esports-world-cup-2024
+de1b3cfcb26c6cc2,flyquest-vs-furia-nuke,2024-07-18,esl,de_nuke,122,35,123,Esports World Cup 2024,89002,flyquest-vs-furia-nuke_esports-world-cup-2024
+de4ddedea7b39a33,furia-vs-the-mongolz-nuke,2024-07-18,esl,de_nuke,141,41,143,Esports World Cup 2024,89002,furia-vs-the-mongolz-nuke_esports-world-cup-2024
+703450b925498b1d,g2-vs-natus-vincere-m1-ancient,2024-07-21,esl,de_ancient,204,69,208,Esports World Cup 2024,89002,g2-vs-natus-vincere-m1-ancient_esports-world-cup-2024
+f6d8fe449edb2c34,g2-vs-natus-vincere-m2-nuke,2024-07-21,esl,de_nuke,121,42,121,Esports World Cup 2024,89002,g2-vs-natus-vincere-m2-nuke_esports-world-cup-2024
+cdab328c265d4f3c,g2-vs-natus-vincere-m3-inferno,2024-07-21,esl,de_inferno,122,48,122,Esports World Cup 2024,89002,g2-vs-natus-vincere-m3-inferno_esports-world-cup-2024
+e1bc90b1b5f4f2f7,g2-vs-the-mongolz-m1-ancient,2024-07-17,esl,de_ancient,159,52,159,Esports World Cup 2024,89002,g2-vs-the-mongolz-m1-ancient_esports-world-cup-2024
+d8e9f65797c7fcb7,g2-vs-the-mongolz-m2-inferno,2024-07-17,esl,de_inferno,196,70,196,Esports World Cup 2024,89002,g2-vs-the-mongolz-m2-inferno_esports-world-cup-2024
+2cd431ff7eec7149,g2-vs-virtuspro-m1-dust2,2024-07-20,esl,de_dust2,119,38,119,Esports World Cup 2024,89002,g2-vs-virtuspro-m1-dust2_esports-world-cup-2024
+70831c9234aef017,g2-vs-virtuspro-m2-ancient,2024-07-20,esl,de_ancient,130,37,132,Esports World Cup 2024,89002,g2-vs-virtuspro-m2-ancient_esports-world-cup-2024
+4f6de83a162bb9c2,jijiehao-vs-sashi-ancient,2024-07-18,esl,de_ancient,146,62,148,Esports World Cup 2024,89002,jijiehao-vs-sashi-ancient_esports-world-cup-2024
+b22379908538049f,m80-vs-complexity-anubis,2024-07-18,esl,de_anubis,198,67,198,Esports World Cup 2024,89002,m80-vs-complexity-anubis_esports-world-cup-2024
+a1e0d73f3421acc5,mouz-vs-furia-m1-nuke-p1,2024-07-19,esl,de_nuke,9,1,9,Esports World Cup 2024,89002,mouz-vs-furia-m1-nuke-p1_esports-world-cup-2024
+f82348a0623201d3,mouz-vs-furia-m1-nuke-p2,2024-07-19,esl,de_nuke,131,39,134,Esports World Cup 2024,89002,mouz-vs-furia-m1-nuke-p2_esports-world-cup-2024
+f175dba798b52a74,mouz-vs-furia-m2-mirage,2024-07-19,esl,de_mirage,146,46,146,Esports World Cup 2024,89002,mouz-vs-furia-m2-mirage_esports-world-cup-2024
+444c1dbd4880f6e6,mouz-vs-furia-m3-inferno,2024-07-19,esl,de_inferno,132,58,133,Esports World Cup 2024,89002,mouz-vs-furia-m3-inferno_esports-world-cup-2024
+2f4499c38c54cae,mouz-vs-natus-vincere-m1-dust2,2024-07-20,esl,de_dust2,96,31,96,Esports World Cup 2024,89002,mouz-vs-natus-vincere-m1-dust2_esports-world-cup-2024
+77f1f531a4fb54ee,mouz-vs-natus-vincere-m2-nuke,2024-07-20,esl,de_nuke,140,31,141,Esports World Cup 2024,89002,mouz-vs-natus-vincere-m2-nuke_esports-world-cup-2024
+eb5d7839e0771657,mouz-vs-natus-vincere-m3-mirage,2024-07-20,esl,de_mirage,124,41,125,Esports World Cup 2024,89002,mouz-vs-natus-vincere-m3-mirage_esports-world-cup-2024
+7847f25ea0614946,mouz-vs-sashi-m1-nuke-p1,2024-07-17,esl,de_nuke,20,5,20,Esports World Cup 2024,89002,mouz-vs-sashi-m1-nuke-p1_esports-world-cup-2024
+2c4635c7332b4609,mouz-vs-sashi-m1-nuke-p2,2024-07-17,esl,de_nuke,102,25,112,Esports World Cup 2024,89002,mouz-vs-sashi-m1-nuke-p2_esports-world-cup-2024
+8c673d49f3ec2689,mouz-vs-sashi-m1-nuke-p3,2024-07-17,esl,de_nuke,42,9,52,Esports World Cup 2024,89002,mouz-vs-sashi-m1-nuke-p3_esports-world-cup-2024
+85cc441ca26168f1,mouz-vs-sashi-m2-ancient,2024-07-17,esl,de_ancient,142,56,142,Esports World Cup 2024,89002,mouz-vs-sashi-m2-ancient_esports-world-cup-2024
+dc03f4c8fd5c719a,mouz-vs-sashi-m3-mirage,2024-07-17,esl,de_mirage,128,42,131,Esports World Cup 2024,89002,mouz-vs-sashi-m3-mirage_esports-world-cup-2024
+fe57cf95b0f704ae,natus-vincere-vs-faze-m1-mirage,2024-07-19,esl,de_mirage,159,47,159,Esports World Cup 2024,89002,natus-vincere-vs-faze-m1-mirage_esports-world-cup-2024
+91ce6b54d8713038,natus-vincere-vs-faze-m2-nuke,2024-07-19,esl,de_nuke,183,49,188,Esports World Cup 2024,89002,natus-vincere-vs-faze-m2-nuke_esports-world-cup-2024
+c15a14399ffae95b,natus-vincere-vs-furia-m1-nuke,2024-07-17,esl,de_nuke,164,54,166,Esports World Cup 2024,89002,natus-vincere-vs-furia-m1-nuke_esports-world-cup-2024
+f6a7401dc2a49aa3,natus-vincere-vs-furia-m2-mirage,2024-07-17,esl,de_mirage,129,35,129,Esports World Cup 2024,89002,natus-vincere-vs-furia-m2-mirage_esports-world-cup-2024
+d6bf031668e91ca3,sashi-vs-furia-nuke,2024-07-18,esl,de_nuke,206,61,212,Esports World Cup 2024,89002,sashi-vs-furia-nuke_esports-world-cup-2024
+357083855ee34b68,spirit-vs-g2-m1-mirage,2024-07-18,esl,de_mirage,140,39,141,Esports World Cup 2024,89002,spirit-vs-g2-m1-mirage_esports-world-cup-2024
+d61352b9df719cd3,spirit-vs-g2-m2-nuke,2024-07-18,esl,de_nuke,203,58,206,Esports World Cup 2024,89002,spirit-vs-g2-m2-nuke_esports-world-cup-2024
+6c1a8c94329ef37c,spirit-vs-g2-m3-ancient,2024-07-18,esl,de_ancient,111,41,112,Esports World Cup 2024,89002,spirit-vs-g2-m3-ancient_esports-world-cup-2024
+33eaebb0370bc90e,spirit-vs-mibr-m1-nuke,2024-07-17,esl,de_nuke,117,28,119,Esports World Cup 2024,89002,spirit-vs-mibr-m1-nuke_esports-world-cup-2024
+7c8c67e3ea11915f,spirit-vs-mibr-m2-vertigo,2024-07-17,esl,de_vertigo,116,40,116,Esports World Cup 2024,89002,spirit-vs-mibr-m2-vertigo_esports-world-cup-2024
+6c47552779a70a7d,the-mongolz-vs-m80-ancient,2024-07-18,esl,de_ancient,137,50,146,Esports World Cup 2024,89002,the-mongolz-vs-m80-ancient_esports-world-cup-2024
+e6e8c801b898b79c,the-mongolz-vs-mibr-inferno,2024-07-18,esl,de_inferno,98,34,99,Esports World Cup 2024,89002,the-mongolz-vs-mibr-inferno_esports-world-cup-2024
+5e9fb450fab4f38a,virtus-pro-vs-complexity-m1-anubis-p1,2024-07-17,esl,de_anubis,39,9,39,Esports World Cup 2024,89002,virtus-pro-vs-complexity-m1-anubis-p1_esports-world-cup-2024
+406a46c13183a518,virtus-pro-vs-complexity-m1-anubis-p2,2024-07-17,esl,de_anubis,105,38,115,Esports World Cup 2024,89002,virtus-pro-vs-complexity-m1-anubis-p2_esports-world-cup-2024
+3f13d511e0d07f6a,virtus-pro-vs-complexity-m2-dust2,2024-07-17,esl,de_dust2,102,32,103,Esports World Cup 2024,89002,virtus-pro-vs-complexity-m2-dust2_esports-world-cup-2024
+ffc18dbc7b70d697,vitality-vs-m80-m1-vertigo,2024-07-17,esl,de_vertigo,154,54,155,Esports World Cup 2024,89002,vitality-vs-m80-m1-vertigo_esports-world-cup-2024
+e17b2b53148fbab1,vitality-vs-m80-m2-dust2,2024-07-17,esl,de_dust2,126,46,126,Esports World Cup 2024,89002,vitality-vs-m80-m2-dust2_esports-world-cup-2024
+cc7962c15541b0c1,vitality-vs-virtus-pro-m1-mirage,2024-07-19,esl,de_mirage,293,81,301,Esports World Cup 2024,89002,vitality-vs-virtus-pro-m1-mirage_esports-world-cup-2024
+272d956b6248ca0d,vitality-vs-virtus-pro-m2-inferno,2024-07-19,esl,de_inferno,118,40,119,Esports World Cup 2024,89002,vitality-vs-virtus-pro-m2-inferno_esports-world-cup-2024
+cbcd2464dc044d8,vitality-vs-virtus-pro-m3-dust2,2024-07-19,esl,de_dust2,114,51,114,Esports World Cup 2024,89002,vitality-vs-virtus-pro-m3-dust2_esports-world-cup-2024
+3a8a44d1a9ff8bdf,9z-vs-pain-m1-anubis,2024-08-11,esl,de_anubis,173,62,173,IEM Cologne 2024,89919,9z-vs-pain-m1-anubis_iem-cologne-2024
+1ceba032377f6c09,9z-vs-pain-m2-dust2,2024-08-11,esl,de_dust2,126,41,126,IEM Cologne 2024,89919,9z-vs-pain-m2-dust2_iem-cologne-2024
+4842eb03e4543e5d,9z-vs-pain-m3-nuke,2024-08-11,esl,de_nuke,151,45,154,IEM Cologne 2024,89919,9z-vs-pain-m3-nuke_iem-cologne-2024
+1eecd9521a6a1a52,astralis-vs-9z-m1-dust2,2024-08-10,esl,de_dust2,156,57,156,IEM Cologne 2024,89919,astralis-vs-9z-m1-dust2_iem-cologne-2024
+a754dc09678fb027,astralis-vs-9z-m2-inferno,2024-08-10,esl,de_inferno,116,37,116,IEM Cologne 2024,89919,astralis-vs-9z-m2-inferno_iem-cologne-2024
+83449ac0fa71968b,astralis-vs-g2-m1-dust2,2024-08-12,esl,de_dust2,95,41,95,IEM Cologne 2024,89919,astralis-vs-g2-m1-dust2_iem-cologne-2024
+45189de0c5f3adbb,astralis-vs-g2-m2-mirage,2024-08-12,esl,de_mirage,158,54,158,IEM Cologne 2024,89919,astralis-vs-g2-m2-mirage_iem-cologne-2024
+20421cb8a683e535,astralis-vs-g2-m3-ancient,2024-08-12,esl,de_ancient,106,36,106,IEM Cologne 2024,89919,astralis-vs-g2-m3-ancient_iem-cologne-2024
+9cbd296160fb1ef1,astralis-vs-natus-vincere-m1-ancient,2024-08-11,esl,de_ancient,104,37,108,IEM Cologne 2024,89919,astralis-vs-natus-vincere-m1-ancient_iem-cologne-2024
+838d5d4fa22364ea,astralis-vs-natus-vincere-m2-mirage,2024-08-11,esl,de_mirage,133,37,134,IEM Cologne 2024,89919,astralis-vs-natus-vincere-m2-mirage_iem-cologne-2024
+da0aa254eb65ea0,complexity-vs-mouz-m1-vertigo,2024-08-12,esl,de_vertigo,147,58,148,IEM Cologne 2024,89919,complexity-vs-mouz-m1-vertigo_iem-cologne-2024
+6bdb198376593660,complexity-vs-mouz-m2-nuke,2024-08-12,esl,de_nuke,155,47,155,IEM Cologne 2024,89919,complexity-vs-mouz-m2-nuke_iem-cologne-2024
+8d09adacfe1a5d88,falcons-vs-faze-m1-dust2,2024-08-13,esl,de_dust2,189,62,189,IEM Cologne 2024,89919,falcons-vs-faze-m1-dust2_iem-cologne-2024
+f91de938881d663d,falcons-vs-faze-m2-ancient-p1,2024-08-13,esl,de_ancient,44,23,44,IEM Cologne 2024,89919,falcons-vs-faze-m2-ancient-p1_iem-cologne-2024
+f232e53bc27b4ec2,falcons-vs-faze-m2-ancient-p2,2024-08-13,esl,de_ancient,89,26,89,IEM Cologne 2024,89919,falcons-vs-faze-m2-ancient-p2_iem-cologne-2024
+a28f922288ac0003,faze-vs-liquid-m1-mirage,2024-08-10,esl,de_mirage,146,48,146,IEM Cologne 2024,89919,faze-vs-liquid-m1-mirage_iem-cologne-2024
+b87f6f112da5933e,faze-vs-liquid-m2-nuke,2024-08-10,esl,de_nuke,156,53,159,IEM Cologne 2024,89919,faze-vs-liquid-m2-nuke_iem-cologne-2024
+7aed44df0cdf5bc,faze-vs-vitality-m1-inferno,2024-08-12,esl,de_inferno,140,53,141,IEM Cologne 2024,89919,faze-vs-vitality-m1-inferno_iem-cologne-2024
+d6634b8e3d04c75b,faze-vs-vitality-m2-dust2,2024-08-12,esl,de_dust2,174,57,174,IEM Cologne 2024,89919,faze-vs-vitality-m2-dust2_iem-cologne-2024
+456d680ad620004e,faze-vs-vitality-m3-anubis,2024-08-12,esl,de_anubis,141,63,142,IEM Cologne 2024,89919,faze-vs-vitality-m3-anubis_iem-cologne-2024
+585b267c9f6c06d0,g2-vs-pain-m1-nuke,2024-08-13,esl,de_nuke,120,31,122,IEM Cologne 2024,89919,g2-vs-pain-m1-nuke_iem-cologne-2024
+a890345d52ed6ece,g2-vs-pain-m2-mirage,2024-08-13,esl,de_mirage,91,31,92,IEM Cologne 2024,89919,g2-vs-pain-m2-mirage_iem-cologne-2024
+44ea916cfc8d83e3,g2-vs-saw-m1-nuke,2024-08-10,esl,de_nuke,99,24,100,IEM Cologne 2024,89919,g2-vs-saw-m1-nuke_iem-cologne-2024
+e7bee0cabb2e61e8,g2-vs-saw-m2-inferno,2024-08-10,esl,de_inferno,146,41,146,IEM Cologne 2024,89919,g2-vs-saw-m2-inferno_iem-cologne-2024
+e61f22496f069930,g2-vs-spirit-m1-nuke,2024-08-11,esl,de_nuke,103,32,105,IEM Cologne 2024,89919,g2-vs-spirit-m1-nuke_iem-cologne-2024
+155ff2c0852b17d3,g2-vs-spirit-m2-mirage,2024-08-11,esl,de_mirage,95,30,96,IEM Cologne 2024,89919,g2-vs-spirit-m2-mirage_iem-cologne-2024
+ca135f849d8168b3,liquid-vs-complexity-m1-ancient,2024-08-13,esl,de_ancient,152,56,153,IEM Cologne 2024,89919,liquid-vs-complexity-m1-ancient_iem-cologne-2024
+2cfe92e133f489cb,liquid-vs-complexity-m2-anubis,2024-08-13,esl,de_anubis,121,50,121,IEM Cologne 2024,89919,liquid-vs-complexity-m2-anubis_iem-cologne-2024
+cd9055d8db7d8e06,liquid-vs-faze-m1-inferno,2024-08-13,esl,de_inferno,134,50,134,IEM Cologne 2024,89919,liquid-vs-faze-m1-inferno_iem-cologne-2024
+908f7db0781acc9c,liquid-vs-faze-m2-nuke,2024-08-13,esl,de_nuke,193,60,195,IEM Cologne 2024,89919,liquid-vs-faze-m2-nuke_iem-cologne-2024
+ec96ac7b5e6eac3b,liquid-vs-faze-m3-mirage,2024-08-13,esl,de_mirage,190,63,190,IEM Cologne 2024,89919,liquid-vs-faze-m3-mirage_iem-cologne-2024
+a1cfe52de3cfabce,liquid-vs-furia-m1-dust2,2024-08-12,esl,de_dust2,179,69,180,IEM Cologne 2024,89919,liquid-vs-furia-m1-dust2_iem-cologne-2024
+122dae6d6dcccf9d,liquid-vs-furia-m2-nuke,2024-08-12,esl,de_nuke,103,40,104,IEM Cologne 2024,89919,liquid-vs-furia-m2-nuke_iem-cologne-2024
+63af8363ac33087e,mouz-vs-falcons-m1-nuke,2024-08-11,esl,de_nuke,134,37,134,IEM Cologne 2024,89919,mouz-vs-falcons-m1-nuke_iem-cologne-2024
+fee5b839e9b0261a,mouz-vs-falcons-m2-vertigo,2024-08-11,esl,de_vertigo,152,51,153,IEM Cologne 2024,89919,mouz-vs-falcons-m2-vertigo_iem-cologne-2024
+bf48a7c2b64a7d4d,mouz-vs-falcons-m3-ancient,2024-08-11,esl,de_ancient,145,56,147,IEM Cologne 2024,89919,mouz-vs-falcons-m3-ancient_iem-cologne-2024
+3aa93081726a8d4,mouz-vs-g2-m1-dust2,2024-08-16,esl,de_dust2,148,56,148,IEM Cologne 2024,89919,mouz-vs-g2-m1-dust2_iem-cologne-2024
+ced32bf6ad4c1f1f,mouz-vs-g2-m2-mirage,2024-08-16,esl,de_mirage,138,38,138,IEM Cologne 2024,89919,mouz-vs-g2-m2-mirage_iem-cologne-2024
+116acd0056a35cdc,mouz-vs-vitality-m1-dust2,2024-08-13,esl,de_dust2,126,45,126,IEM Cologne 2024,89919,mouz-vs-vitality-m1-dust2_iem-cologne-2024
+130b886587f8e16d,mouz-vs-vitality-m2-vertigo,2024-08-13,esl,de_vertigo,191,58,192,IEM Cologne 2024,89919,mouz-vs-vitality-m2-vertigo_iem-cologne-2024
+7ba49162ea30b2,natus-vincere-vs-mouz-m1-inferno,2024-08-17,esl,de_inferno,201,69,201,IEM Cologne 2024,89919,natus-vincere-vs-mouz-m1-inferno_iem-cologne-2024
+822c7e33b8ee6eb7,natus-vincere-vs-mouz-m2-mirage,2024-08-17,esl,de_mirage,168,47,169,IEM Cologne 2024,89919,natus-vincere-vs-mouz-m2-mirage_iem-cologne-2024
+442a40197221b0e8,natus-vincere-vs-pain-m1-anubis,2024-08-10,esl,de_anubis,96,22,96,IEM Cologne 2024,89919,natus-vincere-vs-pain-m1-anubis_iem-cologne-2024
+d2f7a03b1674d778,natus-vincere-vs-pain-m2-mirage,2024-08-10,esl,de_mirage,111,31,112,IEM Cologne 2024,89919,natus-vincere-vs-pain-m2-mirage_iem-cologne-2024
+dd92241b9d5c092d,natus-vincere-vs-saw-m1-nuke,2024-08-13,esl,de_nuke,142,38,144,IEM Cologne 2024,89919,natus-vincere-vs-saw-m1-nuke_iem-cologne-2024
+b136643b89df1bc7,natus-vincere-vs-saw-m2-ancient,2024-08-13,esl,de_ancient,94,31,94,IEM Cologne 2024,89919,natus-vincere-vs-saw-m2-ancient_iem-cologne-2024
+a8b29955aff2e924,natus-vincere-vs-saw-m3-inferno,2024-08-13,esl,de_inferno,120,46,120,IEM Cologne 2024,89919,natus-vincere-vs-saw-m3-inferno_iem-cologne-2024
+3a0954febc9545e4,saw-vs-faze-m1-inferno,2024-08-16,esl,de_inferno,129,38,129,IEM Cologne 2024,89919,saw-vs-faze-m1-inferno_iem-cologne-2024
+2e08b48b28bb0d50,saw-vs-faze-m2-anubis,2024-08-16,esl,de_anubis,150,41,150,IEM Cologne 2024,89919,saw-vs-faze-m2-anubis_iem-cologne-2024
+3e2d9dd98c882241,saw-vs-faze-m3-nuke,2024-08-16,esl,de_nuke,191,54,192,IEM Cologne 2024,89919,saw-vs-faze-m3-nuke_iem-cologne-2024
+2a281b2205247b9b,saw-vs-the-mongolz-m1-ancient,2024-08-11,esl,de_ancient,188,63,189,IEM Cologne 2024,89919,saw-vs-the-mongolz-m1-ancient_iem-cologne-2024
+7ff30d10e47c178d,saw-vs-the-mongolz-m2-nuke,2024-08-11,esl,de_nuke,143,36,146,IEM Cologne 2024,89919,saw-vs-the-mongolz-m2-nuke_iem-cologne-2024
+19043ca2644ec64c,saw-vs-the-mongolz-m3-anubis,2024-08-11,esl,de_anubis,151,54,151,IEM Cologne 2024,89919,saw-vs-the-mongolz-m3-anubis_iem-cologne-2024
+1e9fbfac35f4b122,spirit-vs-the-mongolz-m1-ancient,2024-08-10,esl,de_ancient,197,57,201,IEM Cologne 2024,89919,spirit-vs-the-mongolz-m1-ancient_iem-cologne-2024
+1bce9cdce4f2fd48,spirit-vs-the-mongolz-m2-anubis,2024-08-10,esl,de_anubis,97,24,97,IEM Cologne 2024,89919,spirit-vs-the-mongolz-m2-anubis_iem-cologne-2024
+334d14486324acb7,the-mongolz-vs-pain-m1-anubis-p1,2024-08-12,esl,de_anubis,97,29,97,IEM Cologne 2024,89919,the-mongolz-vs-pain-m1-anubis-p1_iem-cologne-2024
+c058a89eec0bfd70,the-mongolz-vs-pain-m1-anubis-p2,2024-08-12,esl,de_anubis,96,33,96,IEM Cologne 2024,89919,the-mongolz-vs-pain-m1-anubis-p2_iem-cologne-2024
+29ecef1f9e079f99,the-mongolz-vs-pain-m2-mirage,2024-08-12,esl,de_mirage,164,56,164,IEM Cologne 2024,89919,the-mongolz-vs-pain-m2-mirage_iem-cologne-2024
+5c65313e815587c5,the-mongolz-vs-pain-m3-nuke,2024-08-12,esl,de_nuke,144,44,147,IEM Cologne 2024,89919,the-mongolz-vs-pain-m3-nuke_iem-cologne-2024
+ea4335a6c3b0edb5,virtuspro-vs-complexity-m1-vertigo-p1,2024-08-10,esl,de_vertigo,64,23,65,IEM Cologne 2024,89919,virtuspro-vs-complexity-m1-vertigo-p1_iem-cologne-2024
+b7eabed73a5dc0e9,virtuspro-vs-complexity-m1-vertigo-p2,2024-08-10,esl,de_vertigo,54,21,54,IEM Cologne 2024,89919,virtuspro-vs-complexity-m1-vertigo-p2_iem-cologne-2024
+fcfa83e4b26a11c7,virtuspro-vs-complexity-m2-dust2-p1,2024-08-10,esl,de_dust2,68,24,68,IEM Cologne 2024,89919,virtuspro-vs-complexity-m2-dust2-p1_iem-cologne-2024
+972fae36a6b8ed47,virtuspro-vs-complexity-m2-dust2-p2,2024-08-10,esl,de_dust2,124,30,124,IEM Cologne 2024,89919,virtuspro-vs-complexity-m2-dust2-p2_iem-cologne-2024
+7ef3521b43bd8aa7,virtuspro-vs-complexity-m3-anubis,2024-08-10,esl,de_anubis,119,32,121,IEM Cologne 2024,89919,virtuspro-vs-complexity-m3-anubis_iem-cologne-2024
+9eea70b626ad8e8c,virtuspro-vs-falcons-m1-vertigo,2024-08-12,esl,de_vertigo,167,60,167,IEM Cologne 2024,89919,virtuspro-vs-falcons-m1-vertigo_iem-cologne-2024
+7b68c25777f5f98e,virtuspro-vs-falcons-m2-mirage,2024-08-12,esl,de_mirage,143,43,143,IEM Cologne 2024,89919,virtuspro-vs-falcons-m2-mirage_iem-cologne-2024
+e7f6ad96a1e1776a,virtuspro-vs-falcons-m3-dust2,2024-08-12,esl,de_dust2,132,38,132,IEM Cologne 2024,89919,virtuspro-vs-falcons-m3-dust2_iem-cologne-2024
+9fc0d680cb41e309,vitality-vs-furia-m1-inferno-p1,2024-08-11,esl,de_inferno,45,18,46,IEM Cologne 2024,89919,vitality-vs-furia-m1-inferno-p1_iem-cologne-2024
+d5e56284be0936bf,vitality-vs-furia-m1-inferno-p2,2024-08-11,esl,de_inferno,46,17,56,IEM Cologne 2024,89919,vitality-vs-furia-m1-inferno-p2_iem-cologne-2024
+fa062846a9c1dbbc,vitality-vs-furia-m2-mirage,2024-08-11,esl,de_mirage,96,36,96,IEM Cologne 2024,89919,vitality-vs-furia-m2-mirage_iem-cologne-2024
+f4f00466f4ada16,vitality-vs-natus-vincere-m1-nuke,2024-08-18,esl,de_nuke,205,66,206,IEM Cologne 2024,89919,vitality-vs-natus-vincere-m1-nuke_iem-cologne-2024
+bb0b9050007c02b4,vitality-vs-natus-vincere-m2-dust2,2024-08-18,esl,de_dust2,147,48,147,IEM Cologne 2024,89919,vitality-vs-natus-vincere-m2-dust2_iem-cologne-2024
+4a14d61f0a0e8711,vitality-vs-natus-vincere-m3-mirage,2024-08-18,esl,de_mirage,289,88,290,IEM Cologne 2024,89919,vitality-vs-natus-vincere-m3-mirage_iem-cologne-2024
+a95c2cbda9eb69bd,vitality-vs-natus-vincere-m4-inferno,2024-08-18,esl,de_inferno,138,45,138,IEM Cologne 2024,89919,vitality-vs-natus-vincere-m4-inferno_iem-cologne-2024
+4fbf6d778c87142b,vitality-vs-saw-m1-nuke,2024-08-17,esl,de_nuke,123,36,123,IEM Cologne 2024,89919,vitality-vs-saw-m1-nuke_iem-cologne-2024
+ffc43eba23641897,vitality-vs-saw-m2-dust2,2024-08-17,esl,de_dust2,119,43,119,IEM Cologne 2024,89919,vitality-vs-saw-m2-dust2_iem-cologne-2024
+3a5be6e4d45a306e,3dmax-vs-big-m1-ancient,2025-02-02,esl,de_ancient,164,52,164,IEM Katowice 2025,94114,3dmax-vs-big-m1-ancient_iem-katowice-2025
+bf5f494d030fe791,3dmax-vs-big-m2-inferno,2025-02-02,esl,de_inferno,126,36,127,IEM Katowice 2025,94114,3dmax-vs-big-m2-inferno_iem-katowice-2025
+7a873ef2dfe2748b,eternal-fire-vs-3dmax-m1-inferno,2025-02-03,esl,de_inferno,114,42,114,IEM Katowice 2025,94114,eternal-fire-vs-3dmax-m1-inferno_iem-katowice-2025
+6c679391a6dbcf2f,eternal-fire-vs-3dmax-m2-anubis,2025-02-03,esl,de_anubis,184,65,184,IEM Katowice 2025,94114,eternal-fire-vs-3dmax-m2-anubis_iem-katowice-2025
+59915953161c3f2c,eternal-fire-vs-3dmax-m3-dust2,2025-02-03,esl,de_dust2,151,47,151,IEM Katowice 2025,94114,eternal-fire-vs-3dmax-m3-dust2_iem-katowice-2025
+2560f7943b930418,eternal-fire-vs-faze-m1-anubis,2025-02-04,esl,de_anubis,112,40,112,IEM Katowice 2025,94114,eternal-fire-vs-faze-m1-anubis_iem-katowice-2025
+60fb075c6ceb579d,eternal-fire-vs-faze-m2-nuke,2025-02-04,esl,de_nuke,327,94,333,IEM Katowice 2025,94114,eternal-fire-vs-faze-m2-nuke_iem-katowice-2025
+24caf48b107978c8,eternal-fire-vs-virtus-pro-m1-anubis,2025-02-02,esl,de_anubis,137,47,137,IEM Katowice 2025,94114,eternal-fire-vs-virtus-pro-m1-anubis_iem-katowice-2025
+f724d4d6b20a12bb,eternal-fire-vs-virtus-pro-m2-dust2-p1,2025-02-02,esl,de_dust2,27,13,28,IEM Katowice 2025,94114,eternal-fire-vs-virtus-pro-m2-dust2-p1_iem-katowice-2025
+81aee11eb055c1ff,eternal-fire-vs-virtus-pro-m2-dust2-p2,2025-02-02,esl,de_dust2,125,52,125,IEM Katowice 2025,94114,eternal-fire-vs-virtus-pro-m2-dust2-p2_iem-katowice-2025
+d3c2cd2f022a60c2,eternal-fire-vs-virtus-pro-m3-train-p3,2025-02-02,esl,de_train,186,64,188,IEM Katowice 2025,94114,eternal-fire-vs-virtus-pro-m3-train-p3_iem-katowice-2025
+cbf08c5a4ea5b688,falcons-vs-eternal-fire-m1-inferno,2025-02-01,esl,de_inferno,134,47,135,IEM Katowice 2025,94114,falcons-vs-eternal-fire-m1-inferno_iem-katowice-2025
+fbcad246a8dde6be,falcons-vs-eternal-fire-m2-train,2025-02-01,esl,de_train,123,37,123,IEM Katowice 2025,94114,falcons-vs-eternal-fire-m2-train_iem-katowice-2025
+e537f0fbeee87b04,falcons-vs-g2-m1-ancient,2025-02-02,esl,de_ancient,144,49,144,IEM Katowice 2025,94114,falcons-vs-g2-m1-ancient_iem-katowice-2025
+689e7c4b453a1b22,falcons-vs-g2-m2-dust2,2025-02-02,esl,de_dust2,120,39,120,IEM Katowice 2025,94114,falcons-vs-g2-m2-dust2_iem-katowice-2025
+559ac651f961dcd4,falcons-vs-g2-m3-mirage,2025-02-02,esl,de_mirage,175,64,177,IEM Katowice 2025,94114,falcons-vs-g2-m3-mirage_iem-katowice-2025
+28433542262f6ce8,faze-vs-big-m1-ancient-p1,2025-02-01,esl,de_ancient,81,30,82,IEM Katowice 2025,94114,faze-vs-big-m1-ancient-p1_iem-katowice-2025
+19d23a463472ab70,faze-vs-big-m1-ancient-p2,2025-02-01,esl,de_ancient,72,18,82,IEM Katowice 2025,94114,faze-vs-big-m1-ancient-p2_iem-katowice-2025
+d9bcb36f06fcf029,faze-vs-big-m2-mirage,2025-02-01,esl,de_mirage,154,44,154,IEM Katowice 2025,94114,faze-vs-big-m2-mirage_iem-katowice-2025
+d6d0f7100c7b886a,faze-vs-big-m3-nuke,2025-02-01,esl,de_nuke,127,37,134,IEM Katowice 2025,94114,faze-vs-big-m3-nuke_iem-katowice-2025
+37b4c80e049802e4,furia-vs-astralis-m1-inferno-p1,2025-02-03,esl,de_inferno,20,12,20,IEM Katowice 2025,94114,furia-vs-astralis-m1-inferno-p1_iem-katowice-2025
+693fb6f5fe54ada3,furia-vs-astralis-m1-inferno-p2,2025-02-03,esl,de_inferno,120,49,122,IEM Katowice 2025,94114,furia-vs-astralis-m1-inferno-p2_iem-katowice-2025
+a841aa475f35b827,furia-vs-astralis-m2-dust2,2025-02-03,esl,de_dust2,135,50,136,IEM Katowice 2025,94114,furia-vs-astralis-m2-dust2_iem-katowice-2025
+b1546cb16ce4f919,furia-vs-astralis-m3-nuke-p1,2025-02-03,esl,de_nuke,42,14,42,IEM Katowice 2025,94114,furia-vs-astralis-m3-nuke-p1_iem-katowice-2025
+7e2a3723b325ac32,furia-vs-astralis-m3-nuke-p2,2025-02-03,esl,de_nuke,106,34,117,IEM Katowice 2025,94114,furia-vs-astralis-m3-nuke-p2_iem-katowice-2025
+1d90a7887b738639,g2-vs-faze-m1-ancient-p1,2025-02-03,esl,de_ancient,56,19,56,IEM Katowice 2025,94114,g2-vs-faze-m1-ancient-p1_iem-katowice-2025
+45e1ab827f1078e8,g2-vs-faze-m1-ancient-p2,2025-02-03,esl,de_ancient,151,52,151,IEM Katowice 2025,94114,g2-vs-faze-m1-ancient-p2_iem-katowice-2025
+2a9902e81ae40834,g2-vs-faze-m2-inferno-p1,2025-02-03,esl,de_inferno,64,17,64,IEM Katowice 2025,94114,g2-vs-faze-m2-inferno-p1_iem-katowice-2025
+751f3a46428921f2,g2-vs-faze-m2-inferno-p2,2025-02-03,esl,de_inferno,84,31,84,IEM Katowice 2025,94114,g2-vs-faze-m2-inferno-p2_iem-katowice-2025
+55f900d795622dae,g2-vs-faze-m3-nuke,2025-02-03,esl,de_nuke,137,43,137,IEM Katowice 2025,94114,g2-vs-faze-m3-nuke_iem-katowice-2025
+3374c692d0b7534,g2-vs-virtus-pro-m1-inferno,2025-02-01,esl,de_inferno,136,54,137,IEM Katowice 2025,94114,g2-vs-virtus-pro-m1-inferno_iem-katowice-2025
+c56449524c6b814a,g2-vs-virtus-pro-m2-mirage,2025-02-01,esl,de_mirage,192,50,192,IEM Katowice 2025,94114,g2-vs-virtus-pro-m2-mirage_iem-katowice-2025
+1cd7c5206b017384,gamerlegion-vs-astralis-m1-nuke-p1,2025-02-04,esl,de_nuke,56,19,57,IEM Katowice 2025,94114,gamerlegion-vs-astralis-m1-nuke-p1_iem-katowice-2025
+1cb455e4100595e,gamerlegion-vs-astralis-m1-nuke-p2,2025-02-04,esl,de_nuke,87,22,97,IEM Katowice 2025,94114,gamerlegion-vs-astralis-m1-nuke-p2_iem-katowice-2025
+24aae0a026f21989,gamerlegion-vs-astralis-m2-mirage,2025-02-04,esl,de_mirage,128,43,128,IEM Katowice 2025,94114,gamerlegion-vs-astralis-m2-mirage_iem-katowice-2025
+f0512b9774f1d4e0,gamerlegion-vs-spirit-m1-anubis-p1,2025-02-04,esl,de_anubis,45,14,45,IEM Katowice 2025,94114,gamerlegion-vs-spirit-m1-anubis-p1_iem-katowice-2025
+466fcbf188bb4eeb,gamerlegion-vs-spirit-m1-anubis-p2,2025-02-04,esl,de_anubis,105,32,105,IEM Katowice 2025,94114,gamerlegion-vs-spirit-m1-anubis-p2_iem-katowice-2025
+6db171ff15dfdd09,gamerlegion-vs-spirit-m2-ancient-p1,2025-02-04,esl,de_ancient,45,15,46,IEM Katowice 2025,94114,gamerlegion-vs-spirit-m2-ancient-p1_iem-katowice-2025
+d474cdcdbcd4e391,gamerlegion-vs-spirit-m2-ancient-p2,2025-02-04,esl,de_ancient,89,44,102,IEM Katowice 2025,94114,gamerlegion-vs-spirit-m2-ancient-p2_iem-katowice-2025
+c051cd28c3fef2fb,gamerlegion-vs-spirit-m3-nuke-p3,2025-02-04,esl,de_nuke,112,42,113,IEM Katowice 2025,94114,gamerlegion-vs-spirit-m3-nuke-p3_iem-katowice-2025
+52f410db2e464ddf,gamerlegion-vs-the-mongolz-m1-nuke,2025-02-03,esl,de_nuke,151,34,151,IEM Katowice 2025,94114,gamerlegion-vs-the-mongolz-m1-nuke_iem-katowice-2025
+68f960e49f620eb6,gamerlegion-vs-the-mongolz-m2-mirage,2025-02-03,esl,de_mirage,132,42,133,IEM Katowice 2025,94114,gamerlegion-vs-the-mongolz-m2-mirage_iem-katowice-2025
+460cdd1cb28a18de,liquid-vs-spirit-m1-nuke-p1,2025-02-04,esl,de_nuke,46,12,47,IEM Katowice 2025,94114,liquid-vs-spirit-m1-nuke-p1_iem-katowice-2025
+ba4d5563629a1e42,liquid-vs-spirit-m1-nuke-p2,2025-02-04,esl,de_nuke,86,38,87,IEM Katowice 2025,94114,liquid-vs-spirit-m1-nuke-p2_iem-katowice-2025
+61cd6440284a9038,liquid-vs-spirit-m2-dust2,2025-02-04,esl,de_dust2,132,37,133,IEM Katowice 2025,94114,liquid-vs-spirit-m2-dust2_iem-katowice-2025
+a0154a45e1d020a3,mouz-vs-gamerlegion-m1-inferno,2025-02-01,esl,de_inferno,147,51,148,IEM Katowice 2025,94114,mouz-vs-gamerlegion-m1-inferno_iem-katowice-2025
+ac1380546b71e382,mouz-vs-gamerlegion-m2-mirage,2025-02-01,esl,de_mirage,164,53,167,IEM Katowice 2025,94114,mouz-vs-gamerlegion-m2-mirage_iem-katowice-2025
+fd5f8a6034103d74,mouz-vs-liquid-m1-nuke,2025-02-03,esl,de_nuke,126,35,129,IEM Katowice 2025,94114,mouz-vs-liquid-m1-nuke_iem-katowice-2025
+923d4f47b764dce7,mouz-vs-liquid-m2-ancient,2025-02-03,esl,de_ancient,134,53,134,IEM Katowice 2025,94114,mouz-vs-liquid-m2-ancient_iem-katowice-2025
+ebcee65afcd51cc1,natus-vincere-vs-furia-m1-dust2,2025-02-01,esl,de_dust2,116,43,117,IEM Katowice 2025,94114,natus-vincere-vs-furia-m1-dust2_iem-katowice-2025
+72cbe2c6ce383400,natus-vincere-vs-furia-m2-mirage,2025-02-01,esl,de_mirage,95,32,97,IEM Katowice 2025,94114,natus-vincere-vs-furia-m2-mirage_iem-katowice-2025
+4a7f07789d54e3b7,natus-vincere-vs-spirit-m1-mirage,2025-02-03,esl,de_mirage,142,44,142,IEM Katowice 2025,94114,natus-vincere-vs-spirit-m1-mirage_iem-katowice-2025
+9db7975699fd0241,natus-vincere-vs-spirit-m2-dust2-p1,2025-02-03,esl,de_dust2,23,8,24,IEM Katowice 2025,94114,natus-vincere-vs-spirit-m2-dust2-p1_iem-katowice-2025
+8c8bbaa2641a47f5,natus-vincere-vs-spirit-m2-dust2-p2,2025-02-03,esl,de_dust2,5,3,7,IEM Katowice 2025,94114,natus-vincere-vs-spirit-m2-dust2-p2_iem-katowice-2025
+e732cdb2060c513d,natus-vincere-vs-spirit-m2-dust2-p3,2025-02-03,esl,de_dust2,117,36,117,IEM Katowice 2025,94114,natus-vincere-vs-spirit-m2-dust2-p3_iem-katowice-2025
+d283b059cd044a37,natus-vincere-vs-spirit-m2-dust2,2025-02-08,esl,de_dust2,191,73,191,IEM Katowice 2025,94114,natus-vincere-vs-spirit-m2-dust2_iem-katowice-2025
+e5487aec09987be7,natus-vincere-vs-spirit-m3-nuke,2025-02-03,esl,de_nuke,207,60,207,IEM Katowice 2025,94114,natus-vincere-vs-spirit-m3-nuke_iem-katowice-2025
+15ecd8037c10dd79,spirit-vs-astralis-m1-nuke,2025-02-02,esl,de_nuke,118,32,120,IEM Katowice 2025,94114,spirit-vs-astralis-m1-nuke_iem-katowice-2025
+c4954bead7b0cea3,spirit-vs-astralis-m2-dust2-p1,2025-02-02,esl,de_dust2,15,5,16,IEM Katowice 2025,94114,spirit-vs-astralis-m2-dust2-p1_iem-katowice-2025
+2582d0e2275df235,spirit-vs-astralis-m2-dust2-p2,2025-02-02,esl,de_dust2,99,36,100,IEM Katowice 2025,94114,spirit-vs-astralis-m2-dust2-p2_iem-katowice-2025
+7c8d471088efabbd,the-mongolz-vs-eternal-fire-m1-anubis,2025-02-07,esl,de_anubis,128,49,129,IEM Katowice 2025,94114,the-mongolz-vs-eternal-fire-m1-anubis_iem-katowice-2025
+4314a9bfc52002d9,the-mongolz-vs-eternal-fire-m2-mirage-p1,2025-02-07,esl,de_mirage,8,3,9,IEM Katowice 2025,94114,the-mongolz-vs-eternal-fire-m2-mirage-p1_iem-katowice-2025
+cde638435845fd7f,the-mongolz-vs-eternal-fire-m2-mirage-p2,2025-02-07,esl,de_mirage,220,60,232,IEM Katowice 2025,94114,the-mongolz-vs-eternal-fire-m2-mirage-p2_iem-katowice-2025
+12edef407a73615c,the-mongolz-vs-eternal-fire-m2-mirage-p3,2025-02-07,esl,de_mirage,39,12,39,IEM Katowice 2025,94114,the-mongolz-vs-eternal-fire-m2-mirage-p3_iem-katowice-2025
+b4ed316595c9e3ee,the-mongolz-vs-liquid-m1-nuke-p1,2025-02-02,esl,de_nuke,54,14,55,IEM Katowice 2025,94114,the-mongolz-vs-liquid-m1-nuke-p1_iem-katowice-2025
+9169550a6483bf72,the-mongolz-vs-liquid-m1-nuke-p2,2025-02-02,esl,de_nuke,41,12,42,IEM Katowice 2025,94114,the-mongolz-vs-liquid-m1-nuke-p2_iem-katowice-2025
+551f82d6a90513c,the-mongolz-vs-liquid-m1-nuke-p3,2025-02-02,esl,de_nuke,59,15,59,IEM Katowice 2025,94114,the-mongolz-vs-liquid-m1-nuke-p3_iem-katowice-2025
+9d28525a9109fae5,the-mongolz-vs-liquid-m2-mirage,2025-02-02,esl,de_mirage,141,51,141,IEM Katowice 2025,94114,the-mongolz-vs-liquid-m2-mirage_iem-katowice-2025
+b3e630844838d64a,the-mongolz-vs-liquid-m3-ancient,2025-02-02,esl,de_ancient,153,67,156,IEM Katowice 2025,94114,the-mongolz-vs-liquid-m3-ancient_iem-katowice-2025
+d1a36e7ffefcc2b,the-mongolz-vs-natus-vincere-m1-mirage,2025-02-04,esl,de_mirage,99,25,100,IEM Katowice 2025,94114,the-mongolz-vs-natus-vincere-m1-mirage_iem-katowice-2025
+ff97bf15fec913cc,the-mongolz-vs-natus-vincere-m2-ancient,2025-02-04,esl,de_ancient,153,61,153,IEM Katowice 2025,94114,the-mongolz-vs-natus-vincere-m2-ancient_iem-katowice-2025
+389c398779c40eb7,virtus-pro-vs-spirit-m1-train,2025-02-07,esl,de_train,106,30,106,IEM Katowice 2025,94114,virtus-pro-vs-spirit-m1-train_iem-katowice-2025
+2d40aa7843420a75,virtus-pro-vs-spirit-m2-ancient,2025-02-07,esl,de_ancient,143,55,148,IEM Katowice 2025,94114,virtus-pro-vs-spirit-m2-ancient_iem-katowice-2025
+fe4b8e62bc76e328,virtus-pro-vs-vitality-m1-anubis,2025-02-04,esl,de_anubis,130,41,130,IEM Katowice 2025,94114,virtus-pro-vs-vitality-m1-anubis_iem-katowice-2025
+9762731cfede72e3,virtus-pro-vs-vitality-m2-inferno,2025-02-04,esl,de_inferno,119,51,121,IEM Katowice 2025,94114,virtus-pro-vs-vitality-m2-inferno_iem-katowice-2025
+570f8248223e79f2,vitality-vs-3dmax-m1-inferno,2025-02-01,esl,de_inferno,235,72,235,IEM Katowice 2025,94114,vitality-vs-3dmax-m1-inferno_iem-katowice-2025
+21962835eb0afc65,vitality-vs-3dmax-m2-nuke-p1,2025-02-01,esl,de_nuke,61,20,62,IEM Katowice 2025,94114,vitality-vs-3dmax-m2-nuke-p1_iem-katowice-2025
+338bf45269a7603e,vitality-vs-3dmax-m2-nuke-p2,2025-02-01,esl,de_nuke,23,6,34,IEM Katowice 2025,94114,vitality-vs-3dmax-m2-nuke-p2_iem-katowice-2025
+210aa16e681afeb,vitality-vs-3dmax-m2-nuke-p3,2025-02-01,esl,de_nuke,66,18,66,IEM Katowice 2025,94114,vitality-vs-3dmax-m2-nuke-p3_iem-katowice-2025
+35700478db137ecd,vitality-vs-faze-m1-nuke,2025-02-02,esl,de_nuke,104,32,106,IEM Katowice 2025,94114,vitality-vs-faze-m1-nuke_iem-katowice-2025
+383f3f966a667aac,vitality-vs-faze-m2-anubis,2025-02-02,esl,de_anubis,157,72,157,IEM Katowice 2025,94114,vitality-vs-faze-m2-anubis_iem-katowice-2025
+da770bde2ceb32d,vitality-vs-faze-m3-dust2,2025-02-02,esl,de_dust2,250,82,250,IEM Katowice 2025,94114,vitality-vs-faze-m3-dust2_iem-katowice-2025
+195047b6d1906fc4,vitality-vs-spirit-m1-dust2,2025-02-09,esl,de_dust2,128,45,128,IEM Katowice 2025,94114,vitality-vs-spirit-m1-dust2_iem-katowice-2025
+da94e61682a859f4,vitality-vs-spirit-m2-nuke,2025-02-09,esl,de_nuke,111,25,111,IEM Katowice 2025,94114,vitality-vs-spirit-m2-nuke_iem-katowice-2025
+9f4bfbc3b264416b,vitality-vs-spirit-m3-mirage,2025-02-09,esl,de_mirage,168,61,169,IEM Katowice 2025,94114,vitality-vs-spirit-m3-mirage_iem-katowice-2025
+c7e4db4643f03b80,vitality-vs-the-mongolz-m1-mirage,2025-02-08,esl,de_mirage,141,47,141,IEM Katowice 2025,94114,vitality-vs-the-mongolz-m1-mirage_iem-katowice-2025
+f500563a00bf8c99,vitality-vs-the-mongolz-m2-nuke,2025-02-08,esl,de_nuke,154,57,155,IEM Katowice 2025,94114,vitality-vs-the-mongolz-m2-nuke_iem-katowice-2025
+28c465f3ee6bd47f,3dmax-vs-mibr-vertigo,2024-12-05,esl,de_vertigo,158,53,158,Perfect World Shanghai Major 2024,93102,3dmax-vs-mibr-vertigo_perfect-world-shanghai-major-2024
+acf6b139f56e98ab,3dmax-vs-pain-dust2,2024-12-05,esl,de_dust2,166,56,166,Perfect World Shanghai Major 2024,93102,3dmax-vs-pain-dust2_perfect-world-shanghai-major-2024
+ec6d6c73b46d11c0,big-vs-faze-m1-inferno,2024-12-06,esl,de_inferno,115,40,116,Perfect World Shanghai Major 2024,93102,big-vs-faze-m1-inferno_perfect-world-shanghai-major-2024
+f4214f7df48008c1,big-vs-faze-m2-mirage,2024-12-06,esl,de_mirage,114,31,117,Perfect World Shanghai Major 2024,93102,big-vs-faze-m2-mirage_perfect-world-shanghai-major-2024
+dbbf762636f7a70d,big-vs-pain-m1-vertigo,2024-12-06,esl,de_vertigo,154,55,154,Perfect World Shanghai Major 2024,93102,big-vs-pain-m1-vertigo_perfect-world-shanghai-major-2024
+8863fb1ebba84df1,big-vs-pain-m2-vertigo,2024-12-06,esl,de_dust2,158,52,160,Perfect World Shanghai Major 2024,93102,big-vs-pain-m2-vertigo_perfect-world-shanghai-major-2024
+4d8ded1a139bbd27,big-vs-pain-m3-mirage,2024-12-06,esl,de_mirage,120,39,120,Perfect World Shanghai Major 2024,93102,big-vs-pain-m3-mirage_perfect-world-shanghai-major-2024
+681745a2b9b36b8b,faze-vs-furia-m1-inferno,2024-12-08,esl,de_inferno,116,44,117,Perfect World Shanghai Major 2024,93102,faze-vs-furia-m1-inferno_perfect-world-shanghai-major-2024
+6a0a0abd5ac9d66e,faze-vs-furia-m2-dust2,2024-12-08,esl,de_dust2,132,43,132,Perfect World Shanghai Major 2024,93102,faze-vs-furia-m2-dust2_perfect-world-shanghai-major-2024
+9d7f5d821f100013,faze-vs-furia-m3-mirage,2024-12-08,esl,de_mirage,149,41,152,Perfect World Shanghai Major 2024,93102,faze-vs-furia-m3-mirage_perfect-world-shanghai-major-2024
+83e4fbd18cd20dca,faze-vs-heroic-ancient,2024-12-05,esl,de_ancient,142,40,147,Perfect World Shanghai Major 2024,93102,faze-vs-heroic-ancient_perfect-world-shanghai-major-2024
+a9a03854402ccebc,faze-vs-wildcard-ancient,2024-12-05,esl,de_ancient,147,49,150,Perfect World Shanghai Major 2024,93102,faze-vs-wildcard-ancient_perfect-world-shanghai-major-2024
+f10e0880161eacf8,furia-vs-liquid-inferno,2024-12-06,esl,de_inferno,142,65,143,Perfect World Shanghai Major 2024,93102,furia-vs-liquid-inferno_perfect-world-shanghai-major-2024
+3fe31655cc583b78,furia-vs-pain-m1-vertigo,2024-12-07,esl,de_vertigo,164,53,164,Perfect World Shanghai Major 2024,93102,furia-vs-pain-m1-vertigo_perfect-world-shanghai-major-2024
+668f0048bae3a840,furia-vs-pain-m2-mirage,2024-12-07,esl,de_mirage,145,47,146,Perfect World Shanghai Major 2024,93102,furia-vs-pain-m2-mirage_perfect-world-shanghai-major-2024
+cac181c5b74593da,furia-vs-pain-m3-inferno,2024-12-07,esl,de_inferno,151,57,153,Perfect World Shanghai Major 2024,93102,furia-vs-pain-m3-inferno_perfect-world-shanghai-major-2024
+5d82c197f1fb3742,g2-vs-3dmax-ancient,2024-12-06,esl,de_ancient,134,49,138,Perfect World Shanghai Major 2024,93102,g2-vs-3dmax-ancient_perfect-world-shanghai-major-2024
+664f6d1460b54fe0,g2-vs-big-mirage,2024-12-05,esl,de_mirage,121,46,131,Perfect World Shanghai Major 2024,93102,g2-vs-big-mirage_perfect-world-shanghai-major-2024
+e1cc574fa1fb85cf,g2-vs-faze-m1-ancient,2024-12-14,esl,de_ancient,132,43,134,Perfect World Shanghai Major 2024,93102,g2-vs-faze-m1-ancient_perfect-world-shanghai-major-2024
+1c4087b5b67b4893,g2-vs-faze-m2-nuke,2024-12-14,esl,de_nuke,208,65,212,Perfect World Shanghai Major 2024,93102,g2-vs-faze-m2-nuke_perfect-world-shanghai-major-2024
+a1b3c609bf8137ee,g2-vs-heroic-m1-ancient,2024-12-13,esl,de_ancient,132,46,137,Perfect World Shanghai Major 2024,93102,g2-vs-heroic-m1-ancient_perfect-world-shanghai-major-2024
+78951c54d5b89f43,g2-vs-heroic-m2-nuke,2024-12-13,esl,de_nuke,147,42,150,Perfect World Shanghai Major 2024,93102,g2-vs-heroic-m2-nuke_perfect-world-shanghai-major-2024
+741ea759430310d5,g2-vs-heroic-m3-mirage,2024-12-13,esl,de_mirage,191,53,194,Perfect World Shanghai Major 2024,93102,g2-vs-heroic-m3-mirage_perfect-world-shanghai-major-2024
+be7592a0ed336b74,g2-vs-the-mongolz-inferno,2024-12-05,esl,de_inferno,148,43,148,Perfect World Shanghai Major 2024,93102,g2-vs-the-mongolz-inferno_perfect-world-shanghai-major-2024
+ac8e5c6252db1914,gamerlegion-vs-wildcard-m1-dust2,2024-12-06,esl,de_dust2,163,47,163,Perfect World Shanghai Major 2024,93102,gamerlegion-vs-wildcard-m1-dust2_perfect-world-shanghai-major-2024
+972dbb55aad22b11,gamerlegion-vs-wildcard-m2-ancient,2024-12-06,esl,de_ancient,151,59,171,Perfect World Shanghai Major 2024,93102,gamerlegion-vs-wildcard-m2-ancient_perfect-world-shanghai-major-2024
+8f9b843b6ca827f0,gamerlegion-vs-wildcard-m3-anubis,2024-12-06,esl,de_anubis,127,42,127,Perfect World Shanghai Major 2024,93102,gamerlegion-vs-wildcard-m3-anubis_perfect-world-shanghai-major-2024
+1eaf60db2b3ea175,heroic-vs-big-mirage,2024-12-05,esl,de_mirage,128,37,128,Perfect World Shanghai Major 2024,93102,heroic-vs-big-mirage_perfect-world-shanghai-major-2024
+a607bf54206a996f,heroic-vs-natus-vincere-m1-mirage,2024-12-08,esl,de_mirage,105,28,109,Perfect World Shanghai Major 2024,93102,heroic-vs-natus-vincere-m1-mirage_perfect-world-shanghai-major-2024
+d04c778ce7c7c19d,heroic-vs-natus-vincere-m2-nuke,2024-12-08,esl,de_nuke,113,32,118,Perfect World Shanghai Major 2024,93102,heroic-vs-natus-vincere-m2-nuke_perfect-world-shanghai-major-2024
+de81313f67acf632,heroic-vs-natus-vincere-m3-ancient,2024-12-08,esl,de_ancient,157,54,163,Perfect World Shanghai Major 2024,93102,heroic-vs-natus-vincere-m3-ancient_perfect-world-shanghai-major-2024
+35caae1cd19b2165,liquid-vs-gamerlegion-inferno,2024-12-05,esl,de_inferno,142,53,163,Perfect World Shanghai Major 2024,93102,liquid-vs-gamerlegion-inferno_perfect-world-shanghai-major-2024
+a9726820737c06ab,mibr-vs-liquid-m1-mirage,2024-12-07,esl,de_mirage,95,38,96,Perfect World Shanghai Major 2024,93102,mibr-vs-liquid-m1-mirage_perfect-world-shanghai-major-2024
+550b985a66c74143,mibr-vs-liquid-m2-nuke,2024-12-07,esl,de_nuke,144,45,145,Perfect World Shanghai Major 2024,93102,mibr-vs-liquid-m2-nuke_perfect-world-shanghai-major-2024
+e2c504ef47a8744b,mibr-vs-liquid-m3-anubis,2024-12-07,esl,de_anubis,111,40,111,Perfect World Shanghai Major 2024,93102,mibr-vs-liquid-m3-anubis_perfect-world-shanghai-major-2024
+784c2b49e66c4b7d,mibr-vs-mouz-m1-mirage,2024-12-08,esl,de_mirage,112,33,114,Perfect World Shanghai Major 2024,93102,mibr-vs-mouz-m1-mirage_perfect-world-shanghai-major-2024
+d6eb00837fac017d,mibr-vs-mouz-m2-nuke,2024-12-08,esl,de_nuke,128,45,128,Perfect World Shanghai Major 2024,93102,mibr-vs-mouz-m2-nuke_perfect-world-shanghai-major-2024
+9ce52500e7bd6ed8,mouz-vs-3dmax-m1-dust2,2024-12-06,esl,de_dust2,147,44,147,Perfect World Shanghai Major 2024,93102,mouz-vs-3dmax-m1-dust2_perfect-world-shanghai-major-2024
+fb582ab0d92b58af,mouz-vs-3dmax-m2-nuke,2024-12-07,esl,de_nuke,164,44,177,Perfect World Shanghai Major 2024,93102,mouz-vs-3dmax-m2-nuke_perfect-world-shanghai-major-2024
+c41bd8610a8ab9b6,mouz-vs-faze-inferno,2024-12-06,esl,de_inferno,137,59,137,Perfect World Shanghai Major 2024,93102,mouz-vs-faze-inferno_perfect-world-shanghai-major-2024
+ee67dce02c26b312,mouz-vs-pain-nuke,2024-12-05,esl,de_nuke,121,37,126,Perfect World Shanghai Major 2024,93102,mouz-vs-pain-nuke_perfect-world-shanghai-major-2024
+1ec3d3f6cf6f10be,mouz-vs-spirit-m1-nuke,2024-12-14,esl,de_nuke,130,43,142,Perfect World Shanghai Major 2024,93102,mouz-vs-spirit-m1-nuke_perfect-world-shanghai-major-2024
+ab30e6c6bb29f880,mouz-vs-spirit-m2-ancient,2024-12-14,esl,de_ancient,116,48,131,Perfect World Shanghai Major 2024,93102,mouz-vs-spirit-m2-ancient_perfect-world-shanghai-major-2024
+d538f36cb94c95e3,mouz-vs-spirit-m3-mirage,2024-12-14,esl,de_mirage,132,46,135,Perfect World Shanghai Major 2024,93102,mouz-vs-spirit-m3-mirage_perfect-world-shanghai-major-2024
+d6edbce1ba18ad0a,mouz-vs-the-mongolz-mirage,2024-12-05,esl,de_mirage,187,50,187,Perfect World Shanghai Major 2024,93102,mouz-vs-the-mongolz-mirage_perfect-world-shanghai-major-2024
+b2e2a4d89e1c7d63,natus-vincere-vs-gamerlegion-m1-nuke,2024-12-07,esl,de_nuke,121,34,122,Perfect World Shanghai Major 2024,93102,natus-vincere-vs-gamerlegion-m1-nuke_perfect-world-shanghai-major-2024
+4f38eb5b1d370d88,natus-vincere-vs-gamerlegion-m2-mirage,2024-12-07,esl,de_mirage,142,40,143,Perfect World Shanghai Major 2024,93102,natus-vincere-vs-gamerlegion-m2-mirage_perfect-world-shanghai-major-2024
+c15cf089fc3e505a,natus-vincere-vs-liquid-nuke,2024-12-05,esl,de_nuke,147,41,149,Perfect World Shanghai Major 2024,93102,natus-vincere-vs-liquid-nuke_perfect-world-shanghai-major-2024
+993a3866aec86821,natus-vincere-vs-mibr-inferno,2024-12-05,esl,de_inferno,150,62,151,Perfect World Shanghai Major 2024,93102,natus-vincere-vs-mibr-inferno_perfect-world-shanghai-major-2024
+614394a2c0c3e48,natus-vincere-vs-spirit-mirage,2024-12-06,esl,de_mirage,102,33,105,Perfect World Shanghai Major 2024,93102,natus-vincere-vs-spirit-mirage_perfect-world-shanghai-major-2024
+25f8330ee031d4c5,spirit-vs-faze-m1-nuke,2024-12-15,esl,de_nuke,142,38,145,Perfect World Shanghai Major 2024,93102,spirit-vs-faze-m1-nuke_perfect-world-shanghai-major-2024
+ae8acf53d96c9a40,spirit-vs-faze-m2-ancient,2024-12-15,esl,de_ancient,136,58,138,Perfect World Shanghai Major 2024,93102,spirit-vs-faze-m2-ancient_perfect-world-shanghai-major-2024
+7ae9740a4a1599be,spirit-vs-faze-m3-dust2,2024-12-15,esl,de_dust2,161,50,165,Perfect World Shanghai Major 2024,93102,spirit-vs-faze-m3-dust2_perfect-world-shanghai-major-2024
+95cf3723443424db,spirit-vs-furia-dust2,2024-12-05,esl,de_dust2,125,39,127,Perfect World Shanghai Major 2024,93102,spirit-vs-furia-dust2_perfect-world-shanghai-major-2024
+823e1b1ec1f8acde,spirit-vs-heroic-m1-ancient,2024-12-07,esl,de_ancient,211,76,216,Perfect World Shanghai Major 2024,93102,spirit-vs-heroic-m1-ancient_perfect-world-shanghai-major-2024
+7251ef81f4d63579,spirit-vs-heroic-m2-mirage,2024-12-07,esl,de_mirage,160,51,160,Perfect World Shanghai Major 2024,93102,spirit-vs-heroic-m2-mirage_perfect-world-shanghai-major-2024
+cc72eab6abebddfb,spirit-vs-heroic-m3-dust2,2024-12-07,esl,de_dust2,121,46,135,Perfect World Shanghai Major 2024,93102,spirit-vs-heroic-m3-dust2_perfect-world-shanghai-major-2024
+d62ae962a7eb3c3b,spirit-vs-liquid-m1-anubis,2024-12-12,esl,de_anubis,134,55,134,Perfect World Shanghai Major 2024,93102,spirit-vs-liquid-m1-anubis_perfect-world-shanghai-major-2024
+8855159dbc2f9b32,spirit-vs-liquid-m2-dust2,2024-12-12,esl,de_dust2,153,53,154,Perfect World Shanghai Major 2024,93102,spirit-vs-liquid-m2-dust2_perfect-world-shanghai-major-2024
+f807a7ad93891ce5,spirit-vs-wildcard-ancient,2024-12-05,esl,de_ancient,131,56,143,Perfect World Shanghai Major 2024,93102,spirit-vs-wildcard-ancient_perfect-world-shanghai-major-2024
+9b81f93091aaeaf9,the-mongolz-vs-heroic-m1-mirage,2024-12-06,esl,de_mirage,130,37,132,Perfect World Shanghai Major 2024,93102,the-mongolz-vs-heroic-m1-mirage_perfect-world-shanghai-major-2024
+6ae6208fb5c39fb0,the-mongolz-vs-heroic-m2-anubis,2024-12-06,esl,de_anubis,225,75,231,Perfect World Shanghai Major 2024,93102,the-mongolz-vs-heroic-m2-anubis_perfect-world-shanghai-major-2024
+43c6e2fb9051e355,the-mongolz-vs-heroic-m3-ancient,2024-12-06,esl,de_ancient,125,45,128,Perfect World Shanghai Major 2024,93102,the-mongolz-vs-heroic-m3-ancient_perfect-world-shanghai-major-2024
+540b5836270265df,the-mongolz-vs-mouz-m1-ancient,2024-12-12,esl,de_ancient,199,72,206,Perfect World Shanghai Major 2024,93102,the-mongolz-vs-mouz-m1-ancient_perfect-world-shanghai-major-2024
+4267d9c850749520,the-mongolz-vs-mouz-m2-nuke,2024-12-12,esl,de_nuke,151,38,155,Perfect World Shanghai Major 2024,93102,the-mongolz-vs-mouz-m2-nuke_perfect-world-shanghai-major-2024
+c243fc28328815c,vitality-vs-faze-m1-nuke,2024-12-13,esl,de_nuke,127,38,130,Perfect World Shanghai Major 2024,93102,vitality-vs-faze-m1-nuke_perfect-world-shanghai-major-2024
+bc1d6ce5a6d3a4b7,vitality-vs-faze-m2-mirage,2024-12-13,esl,de_mirage,131,37,132,Perfect World Shanghai Major 2024,93102,vitality-vs-faze-m2-mirage_perfect-world-shanghai-major-2024
+ef5428fc5dae1544,vitality-vs-faze-m3-anubis,2024-12-13,esl,de_anubis,142,54,142,Perfect World Shanghai Major 2024,93102,vitality-vs-faze-m3-anubis_perfect-world-shanghai-major-2024
+78b35a05e1f27c73,vitality-vs-furia-mirage,2024-12-05,esl,de_mirage,186,57,194,Perfect World Shanghai Major 2024,93102,vitality-vs-furia-mirage_perfect-world-shanghai-major-2024
+2740f54047c83411,vitality-vs-gamerlegion-mirage,2024-12-05,esl,de_mirage,133,34,136,Perfect World Shanghai Major 2024,93102,vitality-vs-gamerlegion-mirage_perfect-world-shanghai-major-2024
+b3f709fcb800bb07,vitality-vs-mibr-m1-mirage,2024-12-06,esl,de_mirage,93,35,93,Perfect World Shanghai Major 2024,93102,vitality-vs-mibr-m1-mirage_perfect-world-shanghai-major-2024
+294467d4121747c,vitality-vs-mibr-m2-anubis,2024-12-06,esl,de_anubis,104,43,105,Perfect World Shanghai Major 2024,93102,vitality-vs-mibr-m2-anubis_perfect-world-shanghai-major-2024

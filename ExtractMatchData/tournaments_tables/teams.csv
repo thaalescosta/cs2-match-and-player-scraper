@@ -1,507 +1,1421 @@
 name,team,match_checksum,tournament
-Team Spirit,Team A,59e5b2c76e05bce0,BLAST Bounty 2025 Season 1 Finals
-Eternal Fire,Team B,59e5b2c76e05bce0,BLAST Bounty 2025 Season 1 Finals
-Eternal Fire,Team A,2a4c3f36d8d46afa,BLAST Bounty 2025 Season 1 Finals
-Team Spirit,Team B,2a4c3f36d8d46afa,BLAST Bounty 2025 Season 1 Finals
-Team Spirit,Team A,d8b7e0bddd1b3eb3,BLAST Bounty 2025 Season 1 Finals
-Eternal Fire,Team B,d8b7e0bddd1b3eb3,BLAST Bounty 2025 Season 1 Finals
-Eternal Fire,Team A,9cb48de6a17ebe1,BLAST Bounty 2025 Season 1 Finals
-Team Spirit,Team B,9cb48de6a17ebe1,BLAST Bounty 2025 Season 1 Finals
-Team A,Team A,f101e58241ef725a,BLAST Bounty 2025 Season 1 Finals
-Team B,Team B,f101e58241ef725a,BLAST Bounty 2025 Season 1 Finals
-BetBoom,Team A,d8db8a4b337c6ecd,BLAST Bounty 2025 Season 1 Finals
-G2,Team B,d8db8a4b337c6ecd,BLAST Bounty 2025 Season 1 Finals
-Eternal Fire,Team A,bde29716c3d4329a,BLAST Bounty 2025 Season 1 Finals
-G2,Team B,bde29716c3d4329a,BLAST Bounty 2025 Season 1 Finals
-G2,Team A,3e8f1122a4f9f6e8,BLAST Bounty 2025 Season 1 Finals
-Eternal Fire,Team B,3e8f1122a4f9f6e8,BLAST Bounty 2025 Season 1 Finals
-Eternal Fire,Team A,40d4c1527dc406f0,BLAST Bounty 2025 Season 1 Finals
-G2,Team B,40d4c1527dc406f0,BLAST Bounty 2025 Season 1 Finals
-Natus Vincere,Team A,e1b5625501404064,BLAST Bounty 2025 Season 1 Finals
-paiN,Team B,e1b5625501404064,BLAST Bounty 2025 Season 1 Finals
-paiN,Team A,4ccce73468468deb,BLAST Bounty 2025 Season 1 Finals
-Natus Vincere,Team B,4ccce73468468deb,BLAST Bounty 2025 Season 1 Finals
-Natus Vincere,Team A,341d802e05c4673,BLAST Bounty 2025 Season 1 Finals
-paiN,Team B,341d802e05c4673,BLAST Bounty 2025 Season 1 Finals
-Natus Vincere,Team A,79792497772f19cb,BLAST Bounty 2025 Season 1 Finals
-Team Spirit,Team B,79792497772f19cb,BLAST Bounty 2025 Season 1 Finals
-Team Spirit,Team A,cf562d2195118fe,BLAST Bounty 2025 Season 1 Finals
-Natus Vincere,Team B,cf562d2195118fe,BLAST Bounty 2025 Season 1 Finals
-Team Spirit,Team A,6ff36ec1a9149902,BLAST Bounty 2025 Season 1 Finals
-HEROIC,Team B,6ff36ec1a9149902,BLAST Bounty 2025 Season 1 Finals
-Team A,Team A,74f1eea03072e6b4,BLAST Bounty 2025 Season 1 Finals
-Team B,Team B,74f1eea03072e6b4,BLAST Bounty 2025 Season 1 Finals
-Vitality,Team A,299d651349cc6962,BLAST Bounty 2025 Season 1 Finals
-Eternal Fire,Team B,299d651349cc6962,BLAST Bounty 2025 Season 1 Finals
-Team A,Team A,ad2b34ad0667c962,BLAST Bounty 2025 Season 1 Finals
-Team B,Team B,ad2b34ad0667c962,BLAST Bounty 2025 Season 1 Finals
-Team A,Team A,3a5be6e4d45a306e,IEM Katowice 2025
-Team B,Team B,3a5be6e4d45a306e,IEM Katowice 2025
-Team A,Team A,bf5f494d030fe791,IEM Katowice 2025
-Team B,Team B,bf5f494d030fe791,IEM Katowice 2025
-Team A,Team A,7a873ef2dfe2748b,IEM Katowice 2025
-Team B,Team B,7a873ef2dfe2748b,IEM Katowice 2025
-Team A,Team A,6c679391a6dbcf2f,IEM Katowice 2025
-Team B,Team B,6c679391a6dbcf2f,IEM Katowice 2025
-Team A,Team A,59915953161c3f2c,IEM Katowice 2025
-Team B,Team B,59915953161c3f2c,IEM Katowice 2025
-Team A,Team A,2560f7943b930418,IEM Katowice 2025
-Team B,Team B,2560f7943b930418,IEM Katowice 2025
-Team A,Team A,60fb075c6ceb579d,IEM Katowice 2025
-Team B,Team B,60fb075c6ceb579d,IEM Katowice 2025
-Team A,Team A,24caf48b107978c8,IEM Katowice 2025
-Team B,Team B,24caf48b107978c8,IEM Katowice 2025
-Team A,Team A,f724d4d6b20a12bb,IEM Katowice 2025
-Team B,Team B,f724d4d6b20a12bb,IEM Katowice 2025
-Eternal Fire,Team A,81aee11eb055c1ff,IEM Katowice 2025
-Virtus.pro,Team B,81aee11eb055c1ff,IEM Katowice 2025
-Team A,Team A,d3c2cd2f022a60c2,IEM Katowice 2025
-Team B,Team B,d3c2cd2f022a60c2,IEM Katowice 2025
-Team Falcons,Team A,cbf08c5a4ea5b688,IEM Katowice 2025
-Eternal Fire,Team B,cbf08c5a4ea5b688,IEM Katowice 2025
-Team A,Team A,fbcad246a8dde6be,IEM Katowice 2025
-Team B,Team B,fbcad246a8dde6be,IEM Katowice 2025
-Team A,Team A,e537f0fbeee87b04,IEM Katowice 2025
-Team B,Team B,e537f0fbeee87b04,IEM Katowice 2025
-Team A,Team A,689e7c4b453a1b22,IEM Katowice 2025
-Team B,Team B,689e7c4b453a1b22,IEM Katowice 2025
-Team A,Team A,559ac651f961dcd4,IEM Katowice 2025
-Team B,Team B,559ac651f961dcd4,IEM Katowice 2025
-FaZe Clan,Team A,28433542262f6ce8,IEM Katowice 2025
-BIG,Team B,28433542262f6ce8,IEM Katowice 2025
-Team A,Team A,19d23a463472ab70,IEM Katowice 2025
-Team B,Team B,19d23a463472ab70,IEM Katowice 2025
-Team A,Team A,d9bcb36f06fcf029,IEM Katowice 2025
-Team B,Team B,d9bcb36f06fcf029,IEM Katowice 2025
-Team A,Team A,d6d0f7100c7b886a,IEM Katowice 2025
-Team B,Team B,d6d0f7100c7b886a,IEM Katowice 2025
-Team A,Team A,37b4c80e049802e4,IEM Katowice 2025
-Team B,Team B,37b4c80e049802e4,IEM Katowice 2025
-Astralis,Team A,693fb6f5fe54ada3,IEM Katowice 2025
-FURIA,Team B,693fb6f5fe54ada3,IEM Katowice 2025
-Team A,Team A,a841aa475f35b827,IEM Katowice 2025
-Team B,Team B,a841aa475f35b827,IEM Katowice 2025
-Team A,Team A,b1546cb16ce4f919,IEM Katowice 2025
-Team B,Team B,b1546cb16ce4f919,IEM Katowice 2025
-Astralis,Team A,7e2a3723b325ac32,IEM Katowice 2025
-FURIA,Team B,7e2a3723b325ac32,IEM Katowice 2025
-Team A,Team A,1d90a7887b738639,IEM Katowice 2025
-Team B,Team B,1d90a7887b738639,IEM Katowice 2025
-G2 Esports,Team A,45e1ab827f1078e8,IEM Katowice 2025
-FaZe Clan,Team B,45e1ab827f1078e8,IEM Katowice 2025
-Team A,Team A,2a9902e81ae40834,IEM Katowice 2025
-Team B,Team B,2a9902e81ae40834,IEM Katowice 2025
-FaZe Clan,Team A,751f3a46428921f2,IEM Katowice 2025
-G2 Esports,Team B,751f3a46428921f2,IEM Katowice 2025
-Team A,Team A,55f900d795622dae,IEM Katowice 2025
-Team B,Team B,55f900d795622dae,IEM Katowice 2025
-Team A,Team A,3374c692d0b7534,IEM Katowice 2025
-Team B,Team B,3374c692d0b7534,IEM Katowice 2025
-Team A,Team A,c56449524c6b814a,IEM Katowice 2025
-Team B,Team B,c56449524c6b814a,IEM Katowice 2025
-Team A,Team A,1cd7c5206b017384,IEM Katowice 2025
-Team B,Team B,1cd7c5206b017384,IEM Katowice 2025
-Team A,Team A,1cb455e4100595e,IEM Katowice 2025
-Team B,Team B,1cb455e4100595e,IEM Katowice 2025
-Team A,Team A,24aae0a026f21989,IEM Katowice 2025
-Team B,Team B,24aae0a026f21989,IEM Katowice 2025
-Team A,Team A,f0512b9774f1d4e0,IEM Katowice 2025
-Team B,Team B,f0512b9774f1d4e0,IEM Katowice 2025
-Team Spirit,Team A,466fcbf188bb4eeb,IEM Katowice 2025
-GamerLegion,Team B,466fcbf188bb4eeb,IEM Katowice 2025
-Team Spirit,Team A,6db171ff15dfdd09,IEM Katowice 2025
-GamerLegion,Team B,6db171ff15dfdd09,IEM Katowice 2025
-Team Spirit,Team A,d474cdcdbcd4e391,IEM Katowice 2025
-GamerLegion,Team B,d474cdcdbcd4e391,IEM Katowice 2025
-Team A,Team A,c051cd28c3fef2fb,IEM Katowice 2025
-Team B,Team B,c051cd28c3fef2fb,IEM Katowice 2025
-Team A,Team A,52f410db2e464ddf,IEM Katowice 2025
-Team B,Team B,52f410db2e464ddf,IEM Katowice 2025
-Team A,Team A,68f960e49f620eb6,IEM Katowice 2025
-Team B,Team B,68f960e49f620eb6,IEM Katowice 2025
-Team A,Team A,460cdd1cb28a18de,IEM Katowice 2025
-Team B,Team B,460cdd1cb28a18de,IEM Katowice 2025
-Team Spirit,Team A,ba4d5563629a1e42,IEM Katowice 2025
-Team Liquid,Team B,ba4d5563629a1e42,IEM Katowice 2025
-Team A,Team A,61cd6440284a9038,IEM Katowice 2025
-Team B,Team B,61cd6440284a9038,IEM Katowice 2025
-Team A,Team A,a0154a45e1d020a3,IEM Katowice 2025
-Team B,Team B,a0154a45e1d020a3,IEM Katowice 2025
-Team A,Team A,ac1380546b71e382,IEM Katowice 2025
-Team B,Team B,ac1380546b71e382,IEM Katowice 2025
-Team A,Team A,fd5f8a6034103d74,IEM Katowice 2025
-Team B,Team B,fd5f8a6034103d74,IEM Katowice 2025
-Team A,Team A,923d4f47b764dce7,IEM Katowice 2025
-Team B,Team B,923d4f47b764dce7,IEM Katowice 2025
-Team A,Team A,ebcee65afcd51cc1,IEM Katowice 2025
-Team B,Team B,ebcee65afcd51cc1,IEM Katowice 2025
-Team A,Team A,72cbe2c6ce383400,IEM Katowice 2025
-Team B,Team B,72cbe2c6ce383400,IEM Katowice 2025
-Team A,Team A,4a7f07789d54e3b7,IEM Katowice 2025
-Team B,Team B,4a7f07789d54e3b7,IEM Katowice 2025
-Team A,Team A,9db7975699fd0241,IEM Katowice 2025
-Team B,Team B,9db7975699fd0241,IEM Katowice 2025
-Natus Vincere,Team A,8c8bbaa2641a47f5,IEM Katowice 2025
-Team Spirit,Team B,8c8bbaa2641a47f5,IEM Katowice 2025
-Natus Vincere,Team A,e732cdb2060c513d,IEM Katowice 2025
-Team Spirit,Team B,e732cdb2060c513d,IEM Katowice 2025
-Team A,Team A,d283b059cd044a37,IEM Katowice 2025
-Team B,Team B,d283b059cd044a37,IEM Katowice 2025
-Team A,Team A,e5487aec09987be7,IEM Katowice 2025
-Team B,Team B,e5487aec09987be7,IEM Katowice 2025
-Team A,Team A,15ecd8037c10dd79,IEM Katowice 2025
-Team B,Team B,15ecd8037c10dd79,IEM Katowice 2025
-Team A,Team A,c4954bead7b0cea3,IEM Katowice 2025
-Team B,Team B,c4954bead7b0cea3,IEM Katowice 2025
-Astralis,Team A,2582d0e2275df235,IEM Katowice 2025
-Team Spirit,Team B,2582d0e2275df235,IEM Katowice 2025
-Team A,Team A,7c8d471088efabbd,IEM Katowice 2025
-Team B,Team B,7c8d471088efabbd,IEM Katowice 2025
-Team A,Team A,4314a9bfc52002d9,IEM Katowice 2025
-Team B,Team B,4314a9bfc52002d9,IEM Katowice 2025
-Team A,Team A,cde638435845fd7f,IEM Katowice 2025
-Team B,Team B,cde638435845fd7f,IEM Katowice 2025
-The MongolZ,Team A,12edef407a73615c,IEM Katowice 2025
-Eternal Fire,Team B,12edef407a73615c,IEM Katowice 2025
-Team A,Team A,b4ed316595c9e3ee,IEM Katowice 2025
-Team B,Team B,b4ed316595c9e3ee,IEM Katowice 2025
-The MongolZ,Team A,9169550a6483bf72,IEM Katowice 2025
-Team Liquid,Team B,9169550a6483bf72,IEM Katowice 2025
-Team Liquid,Team A,551f82d6a90513c,IEM Katowice 2025
-The MongolZ,Team B,551f82d6a90513c,IEM Katowice 2025
-Team A,Team A,9d28525a9109fae5,IEM Katowice 2025
-Team B,Team B,9d28525a9109fae5,IEM Katowice 2025
-Team A,Team A,b3e630844838d64a,IEM Katowice 2025
-Team B,Team B,b3e630844838d64a,IEM Katowice 2025
-Team A,Team A,d1a36e7ffefcc2b,IEM Katowice 2025
-Team B,Team B,d1a36e7ffefcc2b,IEM Katowice 2025
-Team A,Team A,ff97bf15fec913cc,IEM Katowice 2025
-Team B,Team B,ff97bf15fec913cc,IEM Katowice 2025
-Team A,Team A,389c398779c40eb7,IEM Katowice 2025
-Team B,Team B,389c398779c40eb7,IEM Katowice 2025
-Team A,Team A,2d40aa7843420a75,IEM Katowice 2025
-Team B,Team B,2d40aa7843420a75,IEM Katowice 2025
-Team A,Team A,fe4b8e62bc76e328,IEM Katowice 2025
-Team B,Team B,fe4b8e62bc76e328,IEM Katowice 2025
-Team A,Team A,9762731cfede72e3,IEM Katowice 2025
-Team B,Team B,9762731cfede72e3,IEM Katowice 2025
-Team A,Team A,570f8248223e79f2,IEM Katowice 2025
-Team B,Team B,570f8248223e79f2,IEM Katowice 2025
-Team A,Team A,21962835eb0afc65,IEM Katowice 2025
-Team B,Team B,21962835eb0afc65,IEM Katowice 2025
-3DMAX,Team A,338bf45269a7603e,IEM Katowice 2025
-Team Vitality,Team B,338bf45269a7603e,IEM Katowice 2025
-Team Vitality,Team A,210aa16e681afeb,IEM Katowice 2025
-3DMAX,Team B,210aa16e681afeb,IEM Katowice 2025
-Team A,Team A,35700478db137ecd,IEM Katowice 2025
-Team B,Team B,35700478db137ecd,IEM Katowice 2025
-Team A,Team A,383f3f966a667aac,IEM Katowice 2025
-Team B,Team B,383f3f966a667aac,IEM Katowice 2025
-Team A,Team A,da770bde2ceb32d,IEM Katowice 2025
-Team B,Team B,da770bde2ceb32d,IEM Katowice 2025
-Team A,Team A,195047b6d1906fc4,IEM Katowice 2025
-Team B,Team B,195047b6d1906fc4,IEM Katowice 2025
-Team A,Team A,da94e61682a859f4,IEM Katowice 2025
-Team B,Team B,da94e61682a859f4,IEM Katowice 2025
-Team A,Team A,9f4bfbc3b264416b,IEM Katowice 2025
-Team B,Team B,9f4bfbc3b264416b,IEM Katowice 2025
-Team A,Team A,c7e4db4643f03b80,IEM Katowice 2025
-Team B,Team B,c7e4db4643f03b80,IEM Katowice 2025
-Team A,Team A,f500563a00bf8c99,IEM Katowice 2025
-Team B,Team B,f500563a00bf8c99,IEM Katowice 2025
-Team A,Team A,bfc6f2825a0867f9,IEM Katowice 2025 Play-in
-Team B,Team B,bfc6f2825a0867f9,IEM Katowice 2025 Play-in
-Team A,Team A,b4c6188c4486cbd4,IEM Katowice 2025 Play-in
-Team B,Team B,b4c6188c4486cbd4,IEM Katowice 2025 Play-in
-Team A,Team A,8ba8780c2294ec78,IEM Katowice 2025 Play-in
-Team B,Team B,8ba8780c2294ec78,IEM Katowice 2025 Play-in
-Team A,Team A,69fe15c294772f47,IEM Katowice 2025 Play-in
-Team B,Team B,69fe15c294772f47,IEM Katowice 2025 Play-in
-Team A,Team A,27ff2724d14966de,IEM Katowice 2025 Play-in
-Team B,Team B,27ff2724d14966de,IEM Katowice 2025 Play-in
-MIBR,Team A,c63cce56b8892279,IEM Katowice 2025 Play-in
-Astralis,Team B,c63cce56b8892279,IEM Katowice 2025 Play-in
-Astralis,Team A,dd7f4fbf9530e544,IEM Katowice 2025 Play-in
-MIBR,Team B,dd7f4fbf9530e544,IEM Katowice 2025 Play-in
-Team A,Team A,99a415d433476e78,IEM Katowice 2025 Play-in
-Team B,Team B,99a415d433476e78,IEM Katowice 2025 Play-in
-Team A,Team A,a6bf6fa832a47317,IEM Katowice 2025 Play-in
-Team B,Team B,a6bf6fa832a47317,IEM Katowice 2025 Play-in
-Team A,Team A,b2c49860d94e5292,IEM Katowice 2025 Play-in
-Team B,Team B,b2c49860d94e5292,IEM Katowice 2025 Play-in
-Team A,Team A,118dfcc021267f70,IEM Katowice 2025 Play-in
-Team B,Team B,118dfcc021267f70,IEM Katowice 2025 Play-in
-Team A,Team A,adb0c2aafaa3fb20,IEM Katowice 2025 Play-in
-Team B,Team B,adb0c2aafaa3fb20,IEM Katowice 2025 Play-in
-Team A,Team A,282f92f9b99085d8,IEM Katowice 2025 Play-in
-Team B,Team B,282f92f9b99085d8,IEM Katowice 2025 Play-in
-Eternal Fire,Team A,96e3bfd883fd165b,IEM Katowice 2025 Play-in
-Complexity,Team B,96e3bfd883fd165b,IEM Katowice 2025 Play-in
-Team A,Team A,69c385174318c430,IEM Katowice 2025 Play-in
-Team B,Team B,69c385174318c430,IEM Katowice 2025 Play-in
-Team A,Team A,570bcf1cea3a6b34,IEM Katowice 2025 Play-in
-Team B,Team B,570bcf1cea3a6b34,IEM Katowice 2025 Play-in
-Team A,Team A,391305308d8bb198,IEM Katowice 2025 Play-in
-Team B,Team B,391305308d8bb198,IEM Katowice 2025 Play-in
-Team A,Team A,376b2624d4ca6f5b,IEM Katowice 2025 Play-in
-Team B,Team B,376b2624d4ca6f5b,IEM Katowice 2025 Play-in
-Team A,Team A,9266ec02c32bf917,IEM Katowice 2025 Play-in
-Team B,Team B,9266ec02c32bf917,IEM Katowice 2025 Play-in
-Team A,Team A,42946d021e655086,IEM Katowice 2025 Play-in
-Team B,Team B,42946d021e655086,IEM Katowice 2025 Play-in
-Astralis,Team A,7b1ba9b6e721b66e,IEM Katowice 2025 Play-in
-FlyQuest,Team B,7b1ba9b6e721b66e,IEM Katowice 2025 Play-in
-Team A,Team A,51bc12af9ae45411,IEM Katowice 2025 Play-in
-Team B,Team B,51bc12af9ae45411,IEM Katowice 2025 Play-in
-Team A,Team A,d185d613a8ea4fc9,IEM Katowice 2025 Play-in
-Team B,Team B,d185d613a8ea4fc9,IEM Katowice 2025 Play-in
-FlyQuest,Team A,c39d8c39a8021aa0,IEM Katowice 2025 Play-in
-Astralis,Team B,c39d8c39a8021aa0,IEM Katowice 2025 Play-in
-Team A,Team A,6a3336f2505564e3,IEM Katowice 2025 Play-in
-Team B,Team B,6a3336f2505564e3,IEM Katowice 2025 Play-in
-Team A,Team A,b5500bd51a9f996b,IEM Katowice 2025 Play-in
-Team B,Team B,b5500bd51a9f996b,IEM Katowice 2025 Play-in
-Team A,Team A,27006799e54e274f,IEM Katowice 2025 Play-in
-Team B,Team B,27006799e54e274f,IEM Katowice 2025 Play-in
-Team A,Team A,6ef292ed1ac32c41,IEM Katowice 2025 Play-in
-Team B,Team B,6ef292ed1ac32c41,IEM Katowice 2025 Play-in
-Team A,Team A,2e87cbcb4590cc62,IEM Katowice 2025 Play-in
-Team B,Team B,2e87cbcb4590cc62,IEM Katowice 2025 Play-in
-Team A,Team A,2cdde6ece4c31865,IEM Katowice 2025 Play-in
-Team B,Team B,2cdde6ece4c31865,IEM Katowice 2025 Play-in
-Team A,Team A,739a6277108d6f14,IEM Katowice 2025 Play-in
-Team B,Team B,739a6277108d6f14,IEM Katowice 2025 Play-in
-Team A,Team A,b94a4b5a4eff365a,IEM Katowice 2025 Play-in
-Team B,Team B,b94a4b5a4eff365a,IEM Katowice 2025 Play-in
-Team A,Team A,2e4c30c44c381f4a,IEM Katowice 2025 Play-in
-Team B,Team B,2e4c30c44c381f4a,IEM Katowice 2025 Play-in
-paiN Gaming,Team A,56156d57e4f26bd4,IEM Katowice 2025 Play-in
-GamerLegion,Team B,56156d57e4f26bd4,IEM Katowice 2025 Play-in
-Team A,Team A,793d2f5ca174881a,IEM Katowice 2025 Play-in
-Team B,Team B,793d2f5ca174881a,IEM Katowice 2025 Play-in
-Team A,Team A,a9fedde9b99c606b,IEM Katowice 2025 Play-in
-Team B,Team B,a9fedde9b99c606b,IEM Katowice 2025 Play-in
-Team A,Team A,795130c6663b9062,IEM Katowice 2025 Play-in
-Team B,Team B,795130c6663b9062,IEM Katowice 2025 Play-in
-GamerLegion,Team A,974f707b47a12411,IEM Katowice 2025 Play-in
-SAW,Team B,974f707b47a12411,IEM Katowice 2025 Play-in
-GamerLegion,Team A,dbddb4f7c8f66c15,IEM Katowice 2025 Play-in
-SAW,Team B,dbddb4f7c8f66c15,IEM Katowice 2025 Play-in
-GamerLegion,Team A,524c22e996af05d8,IEM Katowice 2025 Play-in
-SAW,Team B,524c22e996af05d8,IEM Katowice 2025 Play-in
-Team A,Team A,21e8fb23cd6fbd3c,IEM Katowice 2025 Play-in
-Team B,Team B,21e8fb23cd6fbd3c,IEM Katowice 2025 Play-in
-Team A,Team A,5bf3360f6d134a54,IEM Katowice 2025 Play-in
-Team B,Team B,5bf3360f6d134a54,IEM Katowice 2025 Play-in
-Team A,Team A,7daded92331b1937,IEM Katowice 2025 Play-in
-Team B,Team B,7daded92331b1937,IEM Katowice 2025 Play-in
-Team A,Team A,ef753259c87d4591,IEM Katowice 2025 Play-in
-Team B,Team B,ef753259c87d4591,IEM Katowice 2025 Play-in
-Team A,Team A,2d16c1abd0c120e1,IEM Katowice 2025 Play-in
-Team B,Team B,2d16c1abd0c120e1,IEM Katowice 2025 Play-in
-Team A,Team A,4190a28a28d8d8a7,IEM Katowice 2025 Play-in
-Team B,Team B,4190a28a28d8d8a7,IEM Katowice 2025 Play-in
-Team A,Team A,615da7d45a1425e8,IEM Katowice 2025 Play-in
-Team B,Team B,615da7d45a1425e8,IEM Katowice 2025 Play-in
-Team A,Team A,eadba096300e07f7,IEM Katowice 2025 Play-in
-Team B,Team B,eadba096300e07f7,IEM Katowice 2025 Play-in
-Team A,Team A,b0a70b5c0e07178d,IEM Katowice 2025 Play-in
-Team B,Team B,b0a70b5c0e07178d,IEM Katowice 2025 Play-in
-Team A,Team A,967336fe72e43148,IEM Katowice 2025 Play-in
-Team B,Team B,967336fe72e43148,IEM Katowice 2025 Play-in
-Team A,Team A,4df19d8300502981,IEM Katowice 2025 Play-in
-Team B,Team B,4df19d8300502981,IEM Katowice 2025 Play-in
-Team A,Team A,2691cc418a36940e,IEM Katowice 2025 Play-in
-Team B,Team B,2691cc418a36940e,IEM Katowice 2025 Play-in
-Eternal Fire,Team A,3f251748b8393476,PGL Cluj-Napoca 2025
-3DMAX,Team B,3f251748b8393476,PGL Cluj-Napoca 2025
-Eternal Fire,Team A,9ad7d29167f2ca51,PGL Cluj-Napoca 2025
-3DMAX,Team B,9ad7d29167f2ca51,PGL Cluj-Napoca 2025
-3DMAX,Team A,e4b9d1335d21094a,PGL Cluj-Napoca 2025
-Eternal Fire,Team B,e4b9d1335d21094a,PGL Cluj-Napoca 2025
-3DMAX,Team A,77ef2f7df122bb35,PGL Cluj-Napoca 2025
-MIBR,Team B,77ef2f7df122bb35,PGL Cluj-Napoca 2025
-MIBR,Team A,6082aa79743c5f85,PGL Cluj-Napoca 2025
-3DMAX,Team B,6082aa79743c5f85,PGL Cluj-Napoca 2025
-3DMAX,Team A,719f6c104d82bb53,PGL Cluj-Napoca 2025
-SAW,Team B,719f6c104d82bb53,PGL Cluj-Napoca 2025
-SAW,Team A,ab0b2e3a07f7f86c,PGL Cluj-Napoca 2025
-3DMAX,Team B,ab0b2e3a07f7f86c,PGL Cluj-Napoca 2025
-3DMAX,Team A,f343b2f4f55745de,PGL Cluj-Napoca 2025
-Virtus.pro,Team B,f343b2f4f55745de,PGL Cluj-Napoca 2025
-Virtus.pro,Team A,3ab9f0b20ae61cf9,PGL Cluj-Napoca 2025
-3DMAX,Team B,3ab9f0b20ae61cf9,PGL Cluj-Napoca 2025
-3DMAX,Team A,1d1a15f1e2e1d224,PGL Cluj-Napoca 2025
-Virtus.pro,Team B,1d1a15f1e2e1d224,PGL Cluj-Napoca 2025
-Astralis,Team A,d080f564cea8cd05,PGL Cluj-Napoca 2025
-BIG,Team B,d080f564cea8cd05,PGL Cluj-Napoca 2025
-BIG,Team A,ab367709b942fccf,PGL Cluj-Napoca 2025
-Astralis,Team B,ab367709b942fccf,PGL Cluj-Napoca 2025
-Astralis,Team A,a17c5a4faabaae87,PGL Cluj-Napoca 2025
-FaZe Clan,Team B,a17c5a4faabaae87,PGL Cluj-Napoca 2025
-FaZe Clan,Team A,e243d6cfc497543c,PGL Cluj-Napoca 2025
-Astralis,Team B,e243d6cfc497543c,PGL Cluj-Napoca 2025
-Astralis,Team A,14236f05f10ac21,PGL Cluj-Napoca 2025
-FaZe Clan,Team B,14236f05f10ac21,PGL Cluj-Napoca 2025
-Astralis,Team A,d107231647529557,PGL Cluj-Napoca 2025
-MIBR,Team B,d107231647529557,PGL Cluj-Napoca 2025
-MIBR,Team A,9c4102ad6f978324,PGL Cluj-Napoca 2025
-Astralis,Team B,9c4102ad6f978324,PGL Cluj-Napoca 2025
-Astralis,Team A,4e34865dbbcec7f6,PGL Cluj-Napoca 2025
-MIBR,Team B,4e34865dbbcec7f6,PGL Cluj-Napoca 2025
-paiN Gaming,Team A,9bcfdf63d264d337,PGL Cluj-Napoca 2025
-Astralis,Team B,9bcfdf63d264d337,PGL Cluj-Napoca 2025
-Astralis,Team A,c978da8497f30304,PGL Cluj-Napoca 2025
-paiN Gaming,Team B,c978da8497f30304,PGL Cluj-Napoca 2025
-paiN Gaming,Team A,4546a2f80c74e673,PGL Cluj-Napoca 2025
-Astralis,Team B,4546a2f80c74e673,PGL Cluj-Napoca 2025
-FlyQuest,Team A,42af4dc3ef922c1d,PGL Cluj-Napoca 2025
-BIG,Team B,42af4dc3ef922c1d,PGL Cluj-Napoca 2025
-FlyQuest,Team A,6ec9bc3d57ce6825,PGL Cluj-Napoca 2025
-BIG,Team B,6ec9bc3d57ce6825,PGL Cluj-Napoca 2025
-BIG,Team A,f333c614957f1bf4,PGL Cluj-Napoca 2025
-FlyQuest,Team B,f333c614957f1bf4,PGL Cluj-Napoca 2025
-Complexity,Team A,5c3aa31e1ac51db0,PGL Cluj-Napoca 2025
-Imperial Valkyries,Team B,5c3aa31e1ac51db0,PGL Cluj-Napoca 2025
-Imperial Valkyries,Team A,f4fd1b113360ef79,PGL Cluj-Napoca 2025
-Complexity,Team B,f4fd1b113360ef79,PGL Cluj-Napoca 2025
-Complexity,Team A,c7aca95633e343dc,PGL Cluj-Napoca 2025
-SAW,Team B,c7aca95633e343dc,PGL Cluj-Napoca 2025
-Complexity,Team A,c8971c4bedb46283,PGL Cluj-Napoca 2025
-SAW,Team B,c8971c4bedb46283,PGL Cluj-Napoca 2025
-Complexity,Team A,12ab6838e9add535,PGL Cluj-Napoca 2025
-Virtus.pro,Team B,12ab6838e9add535,PGL Cluj-Napoca 2025
-Virtus.pro,Team A,c96c0556d9723606,PGL Cluj-Napoca 2025
-Complexity,Team B,c96c0556d9723606,PGL Cluj-Napoca 2025
-Eternal Fire,Team A,7405ba24ed9de634,PGL Cluj-Napoca 2025
-BIG,Team B,7405ba24ed9de634,PGL Cluj-Napoca 2025
-Eternal Fire,Team A,575ae0f0cf4e2a32,PGL Cluj-Napoca 2025
-BIG,Team B,575ae0f0cf4e2a32,PGL Cluj-Napoca 2025
-Eternal Fire,Team A,a40b1947c7a8669b,PGL Cluj-Napoca 2025
-Imperial Valkyries,Team B,a40b1947c7a8669b,PGL Cluj-Napoca 2025
-Imperial Valkyries,Team A,cccf50030a136fba,PGL Cluj-Napoca 2025
-Eternal Fire,Team B,cccf50030a136fba,PGL Cluj-Napoca 2025
-Team Falcons,Team A,67d933e15e185158,PGL Cluj-Napoca 2025
-Astralis,Team B,67d933e15e185158,PGL Cluj-Napoca 2025
-Astralis,Team A,c27c28e2beffd379,PGL Cluj-Napoca 2025
-Team Falcons,Team B,c27c28e2beffd379,PGL Cluj-Napoca 2025
-Team Falcons,Team A,e80f71396bc5e838,PGL Cluj-Napoca 2025
-Astralis,Team B,e80f71396bc5e838,PGL Cluj-Napoca 2025
-Team Falcons,Team A,2795a6022f93c28b,PGL Cluj-Napoca 2025
-Eternal Fire,Team B,2795a6022f93c28b,PGL Cluj-Napoca 2025
-Eternal Fire,Team A,ef8ed2699ef2ca00,PGL Cluj-Napoca 2025
-Team Falcons,Team B,ef8ed2699ef2ca00,PGL Cluj-Napoca 2025
-Team Falcons,Team A,356dd5e42e94e35,PGL Cluj-Napoca 2025
-Eternal Fire,Team B,356dd5e42e94e35,PGL Cluj-Napoca 2025
-FaZe Clan,Team A,95572d934852097,PGL Cluj-Napoca 2025
-Team Falcons,Team B,95572d934852097,PGL Cluj-Napoca 2025
-Team Falcons,Team A,342ddd641d2e1e6c,PGL Cluj-Napoca 2025
-FaZe Clan,Team B,342ddd641d2e1e6c,PGL Cluj-Napoca 2025
-FlyQuest,Team A,dd3b864695e348e8,PGL Cluj-Napoca 2025
-Team Falcons,Team B,dd3b864695e348e8,PGL Cluj-Napoca 2025
-FlyQuest,Team A,bb19401ecba45e75,PGL Cluj-Napoca 2025
-Team Falcons,Team B,bb19401ecba45e75,PGL Cluj-Napoca 2025
-Team Falcons,Team A,2e0e57d68463a46c,PGL Cluj-Napoca 2025
-paiN Gaming,Team B,2e0e57d68463a46c,PGL Cluj-Napoca 2025
-paiN Gaming,Team A,53832f4285a8fd3a,PGL Cluj-Napoca 2025
-Team Falcons,Team B,53832f4285a8fd3a,PGL Cluj-Napoca 2025
-Team Falcons,Team A,6ce4ab96cfa5f42c,PGL Cluj-Napoca 2025
-paiN Gaming,Team B,6ce4ab96cfa5f42c,PGL Cluj-Napoca 2025
-Eternal Fire,Team A,3c03dd935ba1b2c2,PGL Cluj-Napoca 2025
-FaZe Clan,Team B,3c03dd935ba1b2c2,PGL Cluj-Napoca 2025
-Eternal Fire,Team A,d2f837b331e7cf81,PGL Cluj-Napoca 2025
-FaZe Clan,Team B,d2f837b331e7cf81,PGL Cluj-Napoca 2025
-Eternal Fire,Team A,d177cc76401c534b,PGL Cluj-Napoca 2025
-FaZe Clan,Team B,d177cc76401c534b,PGL Cluj-Napoca 2025
-FaZe Clan,Team A,e30a9f245e81b107,PGL Cluj-Napoca 2025
-SAW,Team B,e30a9f245e81b107,PGL Cluj-Napoca 2025
-FaZe Clan,Team A,7910e3c8323009bf,PGL Cluj-Napoca 2025
-SAW,Team B,7910e3c8323009bf,PGL Cluj-Napoca 2025
-MIBR,Team A,e20f2530ced2ce1c,PGL Cluj-Napoca 2025
-Imperial Valkyries,Team B,e20f2530ced2ce1c,PGL Cluj-Napoca 2025
-Imperial Valkyries,Team A,29bee8fa8681c489,PGL Cluj-Napoca 2025
-MIBR,Team B,29bee8fa8681c489,PGL Cluj-Napoca 2025
-MIBR,Team A,5c78a2a95d36163,PGL Cluj-Napoca 2025
-Wildcard,Team B,5c78a2a95d36163,PGL Cluj-Napoca 2025
-Wildcard,Team A,6a0d38c44c8c3e84,PGL Cluj-Napoca 2025
-MIBR,Team B,6a0d38c44c8c3e84,PGL Cluj-Napoca 2025
-MOUZ,Team A,c0e5bcf59e3a93ee,PGL Cluj-Napoca 2025
-3DMAX,Team B,c0e5bcf59e3a93ee,PGL Cluj-Napoca 2025
-3DMAX,Team A,22073118e045bf5d,PGL Cluj-Napoca 2025
-MOUZ,Team B,22073118e045bf5d,PGL Cluj-Napoca 2025
-MOUZ,Team A,8dbdea7760952eed,PGL Cluj-Napoca 2025
-Astralis,Team B,8dbdea7760952eed,PGL Cluj-Napoca 2025
-Astralis,Team A,650587e30d460b16,PGL Cluj-Napoca 2025
-MOUZ,Team B,650587e30d460b16,PGL Cluj-Napoca 2025
-MOUZ,Team A,7b17dfb6cd426728,PGL Cluj-Napoca 2025
-Astralis,Team B,7b17dfb6cd426728,PGL Cluj-Napoca 2025
-MOUZ,Team A,f992936756d1d510,PGL Cluj-Napoca 2025
-BIG,Team B,f992936756d1d510,PGL Cluj-Napoca 2025
-BIG,Team A,bafea191e011b8e,PGL Cluj-Napoca 2025
-MOUZ,Team B,bafea191e011b8e,PGL Cluj-Napoca 2025
-MOUZ,Team A,de3c819acbd300e2,PGL Cluj-Napoca 2025
-Team Falcons,Team B,de3c819acbd300e2,PGL Cluj-Napoca 2025
-Team Falcons,Team A,fcca81be959aa765,PGL Cluj-Napoca 2025
-MOUZ,Team B,fcca81be959aa765,PGL Cluj-Napoca 2025
-MOUZ,Team A,16220bf977ffc531,PGL Cluj-Napoca 2025
-Team Falcons,Team B,16220bf977ffc531,PGL Cluj-Napoca 2025
-MOUZ,Team A,708608327557ed51,PGL Cluj-Napoca 2025
-Team Falcons,Team B,708608327557ed51,PGL Cluj-Napoca 2025
-Team Falcons,Team A,e1b7b47f799525cd,PGL Cluj-Napoca 2025
-MOUZ,Team B,e1b7b47f799525cd,PGL Cluj-Napoca 2025
-MOUZ,Team A,2d6c9ba5235d59cb,PGL Cluj-Napoca 2025
-FaZe Clan,Team B,2d6c9ba5235d59cb,PGL Cluj-Napoca 2025
-FaZe Clan,Team A,5b50c6a3dce2e917,PGL Cluj-Napoca 2025
-MOUZ,Team B,5b50c6a3dce2e917,PGL Cluj-Napoca 2025
-MOUZ,Team A,b330e0c8331629e0,PGL Cluj-Napoca 2025
-Virtus.pro,Team B,b330e0c8331629e0,PGL Cluj-Napoca 2025
-Virtus.pro,Team A,48fba0be597c5fc0,PGL Cluj-Napoca 2025
-MOUZ,Team B,48fba0be597c5fc0,PGL Cluj-Napoca 2025
-MOUZ,Team A,8ffac8a4b5f9bcc4,PGL Cluj-Napoca 2025
-Virtus.pro,Team B,8ffac8a4b5f9bcc4,PGL Cluj-Napoca 2025
-paiN Gaming,Team A,a5139af982160cf4,PGL Cluj-Napoca 2025
-MOUZ,Team B,a5139af982160cf4,PGL Cluj-Napoca 2025
-MOUZ,Team A,a1acf7f433f81e5d,PGL Cluj-Napoca 2025
-paiN Gaming,Team B,a1acf7f433f81e5d,PGL Cluj-Napoca 2025
-paiN Gaming,Team A,3a6d4409c273c792,PGL Cluj-Napoca 2025
-The MongolZ,Team B,3a6d4409c273c792,PGL Cluj-Napoca 2025
-The MongolZ,Team A,454452b86e344106,PGL Cluj-Napoca 2025
-paiN Gaming,Team B,454452b86e344106,PGL Cluj-Napoca 2025
-paiN Gaming,Team A,220772e29f8c7932,PGL Cluj-Napoca 2025
-The MongolZ,Team B,220772e29f8c7932,PGL Cluj-Napoca 2025
-Virtus.pro,Team A,f355f498fcf0ede4,PGL Cluj-Napoca 2025
-paiN Gaming,Team B,f355f498fcf0ede4,PGL Cluj-Napoca 2025
-Virtus.pro,Team A,167895a96a09289b,PGL Cluj-Napoca 2025
-paiN Gaming,Team B,167895a96a09289b,PGL Cluj-Napoca 2025
-Astralis,Team A,146727a43eaf95d5,PGL Cluj-Napoca 2025
-SAW,Team B,146727a43eaf95d5,PGL Cluj-Napoca 2025
-SAW,Team A,4cd06917c15ea653,PGL Cluj-Napoca 2025
-Astralis,Team B,4cd06917c15ea653,PGL Cluj-Napoca 2025
-FlyQuest,Team A,e230c52de4ac0a8e,PGL Cluj-Napoca 2025
-SAW,Team B,e230c52de4ac0a8e,PGL Cluj-Napoca 2025
-FlyQuest,Team A,3f72a68a3a388b7a,PGL Cluj-Napoca 2025
-SAW,Team B,3f72a68a3a388b7a,PGL Cluj-Napoca 2025
-FlyQuest,Team A,6b69d0a38da64321,PGL Cluj-Napoca 2025
-SAW,Team B,6b69d0a38da64321,PGL Cluj-Napoca 2025
-Astralis,Team A,d0daa93a6adbe074,PGL Cluj-Napoca 2025
-The MongolZ,Team B,d0daa93a6adbe074,PGL Cluj-Napoca 2025
-The MongolZ,Team A,4376720fa6459e5a,PGL Cluj-Napoca 2025
-Astralis,Team B,4376720fa6459e5a,PGL Cluj-Napoca 2025
-The MongolZ,Team A,a39714f34ad87249,PGL Cluj-Napoca 2025
-Complexity,Team B,a39714f34ad87249,PGL Cluj-Napoca 2025
-Complexity,Team A,c4ab21fa55e3845c,PGL Cluj-Napoca 2025
-The MongolZ,Team B,c4ab21fa55e3845c,PGL Cluj-Napoca 2025
-The MongolZ,Team A,bfa9de6924fad7f5,PGL Cluj-Napoca 2025
-Wildcard,Team B,bfa9de6924fad7f5,PGL Cluj-Napoca 2025
-Wildcard,Team A,a0cff6b6c0c2d3c5,PGL Cluj-Napoca 2025
-The MongolZ,Team B,a0cff6b6c0c2d3c5,PGL Cluj-Napoca 2025
-Wildcard,Team A,f2dda70b9eb0dd3f,PGL Cluj-Napoca 2025
-BIG,Team B,f2dda70b9eb0dd3f,PGL Cluj-Napoca 2025
-BIG,Team A,28db440cd4639f41,PGL Cluj-Napoca 2025
-Wildcard,Team B,28db440cd4639f41,PGL Cluj-Napoca 2025
-Wildcard,Team A,7d968d39b00c7a3f,PGL Cluj-Napoca 2025
-BIG,Team B,7d968d39b00c7a3f,PGL Cluj-Napoca 2025
-Wildcard,Team A,97f352fe94d9a208,PGL Cluj-Napoca 2025
-Virtus.pro,Team B,97f352fe94d9a208,PGL Cluj-Napoca 2025
-Virtus.pro,Team A,db89fa22bad25c3b,PGL Cluj-Napoca 2025
-Wildcard,Team B,db89fa22bad25c3b,PGL Cluj-Napoca 2025
+3DMAX,A,1229e6b33a7c388f,BLAST Bounty 2025 Season 1
+HEROIC,B,1229e6b33a7c388f,BLAST Bounty 2025 Season 1
+Team A,A,409bde782d701247,BLAST Bounty 2025 Season 1
+Team B,B,409bde782d701247,BLAST Bounty 2025 Season 1
+HEROIC,A,c92c0fe937a29b0e,BLAST Bounty 2025 Season 1
+3DMAX,B,c92c0fe937a29b0e,BLAST Bounty 2025 Season 1
+Natus Vincere NAVI,A,e404f30b9dc3e185,BLAST Bounty 2025 Season 1
+Astralis,B,e404f30b9dc3e185,BLAST Bounty 2025 Season 1
+Astralis,A,339f817fc0609ea4,BLAST Bounty 2025 Season 1
+Natus Vincere NAVI,B,339f817fc0609ea4,BLAST Bounty 2025 Season 1
+Astralis,A,fce806f201778c31,BLAST Bounty 2025 Season 1
+Wildcard,B,fce806f201778c31,BLAST Bounty 2025 Season 1
+Team A,A,433e792f292e65d9,BLAST Bounty 2025 Season 1
+Team B,B,433e792f292e65d9,BLAST Bounty 2025 Season 1
+G2 Esports CS2,A,c32b2a8cd3336bee,BLAST Bounty 2025 Season 1
+BIG CS2,B,c32b2a8cd3336bee,BLAST Bounty 2025 Season 1
+BIG CS2,A,54bbdcd43f4bf674,BLAST Bounty 2025 Season 1
+G2 Esports CS2,B,54bbdcd43f4bf674,BLAST Bounty 2025 Season 1
+G2 Esports CS2,A,4a9b2a2d938bff82,BLAST Bounty 2025 Season 1
+BIG CS2,B,4a9b2a2d938bff82,BLAST Bounty 2025 Season 1
+V.P.,A,4b803bde16fb75b,BLAST Bounty 2025 Season 1
+ComplexityCS,B,4b803bde16fb75b,BLAST Bounty 2025 Season 1
+V.P.,A,cca2a16ad0db047a,BLAST Bounty 2025 Season 1
+ComplexityCS,B,cca2a16ad0db047a,BLAST Bounty 2025 Season 1
+Team-Falcons,A,14efc1a4233d5731,BLAST Bounty 2025 Season 1
+Eternal-Fire,B,14efc1a4233d5731,BLAST Bounty 2025 Season 1
+Eternal-Fire,A,158d0ae0dba34fd9,BLAST Bounty 2025 Season 1
+Team-Falcons,B,158d0ae0dba34fd9,BLAST Bounty 2025 Season 1
+Eternal-Fire,A,88348cc9229176,BLAST Bounty 2025 Season 1
+Fluxo CS2,B,88348cc9229176,BLAST Bounty 2025 Season 1
+Fluxo CS2,A,8a11859cf290b188,BLAST Bounty 2025 Season 1
+Eternal-Fire,B,8a11859cf290b188,BLAST Bounty 2025 Season 1
+Team-Falcons,A,fcf3f309a1a26770,BLAST Bounty 2025 Season 1
+ENCE CS2,B,fcf3f309a1a26770,BLAST Bounty 2025 Season 1
+ENCE CS2,A,14549e5012277fa9,BLAST Bounty 2025 Season 1
+Team-Falcons,B,14549e5012277fa9,BLAST Bounty 2025 Season 1
+FaZe.clan,A,cb64a544c75067cf,BLAST Bounty 2025 Season 1
+M80 CS2,B,cb64a544c75067cf,BLAST Bounty 2025 Season 1
+M80 CS2,A,981db6a7a27771c7,BLAST Bounty 2025 Season 1
+FaZe.clan,B,981db6a7a27771c7,BLAST Bounty 2025 Season 1
+FaZe.clan,A,d389f5446d5026f8,BLAST Bounty 2025 Season 1
+M80 CS2,B,d389f5446d5026f8,BLAST Bounty 2025 Season 1
+FlyQuest,A,16e083366aa1469d,BLAST Bounty 2025 Season 1
+MIBR,B,16e083366aa1469d,BLAST Bounty 2025 Season 1
+MIBR,A,5ef6282b4869c572,BLAST Bounty 2025 Season 1
+FlyQuest,B,5ef6282b4869c572,BLAST Bounty 2025 Season 1
+Team A,A,60e3db804b37fdf9,BLAST Bounty 2025 Season 1
+Team B,B,60e3db804b37fdf9,BLAST Bounty 2025 Season 1
+FlyQuest,A,6defc9f121e256a4,BLAST Bounty 2025 Season 1
+Team Spirit,B,6defc9f121e256a4,BLAST Bounty 2025 Season 1
+BetBoom Team,A,87783cacb1099e3b,BLAST Bounty 2025 Season 1
+FURIA Esports_1,B,87783cacb1099e3b,BLAST Bounty 2025 Season 1
+Team A,A,545e5b6c20f66b54,BLAST Bounty 2025 Season 1
+Team B,B,545e5b6c20f66b54,BLAST Bounty 2025 Season 1
+FURIA Esports_1,A,569a1128a75ef5ff,BLAST Bounty 2025 Season 1
+BetBoom Team,B,569a1128a75ef5ff,BLAST Bounty 2025 Season 1
+Nemiga,A,c7e2ef7f33c52a10,BLAST Bounty 2025 Season 1
+FURIA Esports_1,B,c7e2ef7f33c52a10,BLAST Bounty 2025 Season 1
+Nemiga,A,a3db0ced7f3d1f07,BLAST Bounty 2025 Season 1
+FURIA Esports_1,B,a3db0ced7f3d1f07,BLAST Bounty 2025 Season 1
+FURIA Esports_1,A,c05ee6f2c03c0b26,BLAST Bounty 2025 Season 1
+Nemiga,B,c05ee6f2c03c0b26,BLAST Bounty 2025 Season 1
+G2 Esports CS2,A,789873d5480b2d86,BLAST Bounty 2025 Season 1
+[B8],B,789873d5480b2d86,BLAST Bounty 2025 Season 1
+[B8],A,759d1628c3ad98f7,BLAST Bounty 2025 Season 1
+G2 Esports CS2,B,759d1628c3ad98f7,BLAST Bounty 2025 Season 1
+[B8],A,1aa317037186f7a3,BLAST Bounty 2025 Season 1
+G2 Esports CS2,B,1aa317037186f7a3,BLAST Bounty 2025 Season 1
+Liquid,A,f7c65a6ab75a3a25,BLAST Bounty 2025 Season 1
+HEROIC,B,f7c65a6ab75a3a25,BLAST Bounty 2025 Season 1
+Liquid,A,f92d463756d8334e,BLAST Bounty 2025 Season 1
+HEROIC,B,f92d463756d8334e,BLAST Bounty 2025 Season 1
+HEROIC,A,39ee7741554cb1d4,BLAST Bounty 2025 Season 1
+Liquid,B,39ee7741554cb1d4,BLAST Bounty 2025 Season 1
+Liquid,A,278e073a204c8dd0,BLAST Bounty 2025 Season 1
+9Pandas,B,278e073a204c8dd0,BLAST Bounty 2025 Season 1
+9Pandas,A,eb4903815cd684fd,BLAST Bounty 2025 Season 1
+Liquid,B,eb4903815cd684fd,BLAST Bounty 2025 Season 1
+MOUZ,A,8099f5bd95004f24,BLAST Bounty 2025 Season 1
+BetBoom Team,B,8099f5bd95004f24,BLAST Bounty 2025 Season 1
+Team A,A,d53f2850c300c053,BLAST Bounty 2025 Season 1
+Team B,B,d53f2850c300c053,BLAST Bounty 2025 Season 1
+MOUZ,A,fbf78c246823fe98,BLAST Bounty 2025 Season 1
+BetBoom Team,B,fbf78c246823fe98,BLAST Bounty 2025 Season 1
+Natus Vincere NAVI,A,4f4c3d9d0403aa1d,BLAST Bounty 2025 Season 1
+Imperial Fe,B,4f4c3d9d0403aa1d,BLAST Bounty 2025 Season 1
+Imperial Fe,A,ae43c12d258f7377,BLAST Bounty 2025 Season 1
+Natus Vincere NAVI,B,ae43c12d258f7377,BLAST Bounty 2025 Season 1
+FaZe.clan,A,1d595f30e2271da8,BLAST Bounty 2025 Season 1
+paiN Gaming,B,1d595f30e2271da8,BLAST Bounty 2025 Season 1
+paiN Gaming,A,b24037a3e9942c2a,BLAST Bounty 2025 Season 1
+FaZe.clan,B,b24037a3e9942c2a,BLAST Bounty 2025 Season 1
+Team A,A,1c84ce40cd34a0c4,BLAST Bounty 2025 Season 1
+Team B,B,1c84ce40cd34a0c4,BLAST Bounty 2025 Season 1
+GamerLegion,A,b8bd9df442017102,BLAST Bounty 2025 Season 1
+paiN Gaming,B,b8bd9df442017102,BLAST Bounty 2025 Season 1
+paiN Gaming,A,2632360dbef620f0,BLAST Bounty 2025 Season 1
+GamerLegion,B,2632360dbef620f0,BLAST Bounty 2025 Season 1
+Team A,A,73bb2a47403d34e5,BLAST Bounty 2025 Season 1
+Team B,B,73bb2a47403d34e5,BLAST Bounty 2025 Season 1
+BIG CS2,A,fa9fcdfe9c4fc7d1,BLAST Bounty 2025 Season 1
+SAW,B,fa9fcdfe9c4fc7d1,BLAST Bounty 2025 Season 1
+Team A,A,8738e4d8bcbc3539,BLAST Bounty 2025 Season 1
+Team B,B,8738e4d8bcbc3539,BLAST Bounty 2025 Season 1
+Team A,A,fe15b9d327fb1796,BLAST Bounty 2025 Season 1
+Team B,B,fe15b9d327fb1796,BLAST Bounty 2025 Season 1
+Team Vitality CS2,A,203387ea74a7261b,BLAST Bounty 2025 Season 1
+V.P.,B,203387ea74a7261b,BLAST Bounty 2025 Season 1
+Team Vitality CS2,A,e206729fcd4e0025,BLAST Bounty 2025 Season 1
+V.P.,B,e206729fcd4e0025,BLAST Bounty 2025 Season 1
+Team A,A,f5be5e4a4b5dfebe,BLAST Bounty 2025 Season 1
+Team B,B,f5be5e4a4b5dfebe,BLAST Bounty 2025 Season 1
+Metizport,A,11a3c7f1f45e0fee,BLAST Bounty 2025 Season 1
+Team Vitality CS2,B,11a3c7f1f45e0fee,BLAST Bounty 2025 Season 1
+Team Spirit,A,59e5b2c76e05bce0,BLAST Bounty 2025 Season 1 Finals
+Eternal Fire,B,59e5b2c76e05bce0,BLAST Bounty 2025 Season 1 Finals
+Eternal Fire,A,2a4c3f36d8d46afa,BLAST Bounty 2025 Season 1 Finals
+Team Spirit,B,2a4c3f36d8d46afa,BLAST Bounty 2025 Season 1 Finals
+Team Spirit,A,d8b7e0bddd1b3eb3,BLAST Bounty 2025 Season 1 Finals
+Eternal Fire,B,d8b7e0bddd1b3eb3,BLAST Bounty 2025 Season 1 Finals
+Eternal Fire,A,9cb48de6a17ebe1,BLAST Bounty 2025 Season 1 Finals
+Team Spirit,B,9cb48de6a17ebe1,BLAST Bounty 2025 Season 1 Finals
+Team A,A,f101e58241ef725a,BLAST Bounty 2025 Season 1 Finals
+Team B,B,f101e58241ef725a,BLAST Bounty 2025 Season 1 Finals
+BetBoom,A,d8db8a4b337c6ecd,BLAST Bounty 2025 Season 1 Finals
+G2,B,d8db8a4b337c6ecd,BLAST Bounty 2025 Season 1 Finals
+Eternal Fire,A,bde29716c3d4329a,BLAST Bounty 2025 Season 1 Finals
+G2,B,bde29716c3d4329a,BLAST Bounty 2025 Season 1 Finals
+G2,A,3e8f1122a4f9f6e8,BLAST Bounty 2025 Season 1 Finals
+Eternal Fire,B,3e8f1122a4f9f6e8,BLAST Bounty 2025 Season 1 Finals
+Eternal Fire,A,40d4c1527dc406f0,BLAST Bounty 2025 Season 1 Finals
+G2,B,40d4c1527dc406f0,BLAST Bounty 2025 Season 1 Finals
+Natus Vincere,A,e1b5625501404064,BLAST Bounty 2025 Season 1 Finals
+paiN,B,e1b5625501404064,BLAST Bounty 2025 Season 1 Finals
+paiN,A,4ccce73468468deb,BLAST Bounty 2025 Season 1 Finals
+Natus Vincere,B,4ccce73468468deb,BLAST Bounty 2025 Season 1 Finals
+Natus Vincere,A,341d802e05c4673,BLAST Bounty 2025 Season 1 Finals
+paiN,B,341d802e05c4673,BLAST Bounty 2025 Season 1 Finals
+Natus Vincere,A,79792497772f19cb,BLAST Bounty 2025 Season 1 Finals
+Team Spirit,B,79792497772f19cb,BLAST Bounty 2025 Season 1 Finals
+Team Spirit,A,cf562d2195118fe,BLAST Bounty 2025 Season 1 Finals
+Natus Vincere,B,cf562d2195118fe,BLAST Bounty 2025 Season 1 Finals
+Team Spirit,A,6ff36ec1a9149902,BLAST Bounty 2025 Season 1 Finals
+HEROIC,B,6ff36ec1a9149902,BLAST Bounty 2025 Season 1 Finals
+Team A,A,74f1eea03072e6b4,BLAST Bounty 2025 Season 1 Finals
+Team B,B,74f1eea03072e6b4,BLAST Bounty 2025 Season 1 Finals
+Vitality,A,299d651349cc6962,BLAST Bounty 2025 Season 1 Finals
+Eternal Fire,B,299d651349cc6962,BLAST Bounty 2025 Season 1 Finals
+Team A,A,ad2b34ad0667c962,BLAST Bounty 2025 Season 1 Finals
+Team B,B,ad2b34ad0667c962,BLAST Bounty 2025 Season 1 Finals
+Spirit,A,3fe1165857db9858,BLAST Premier Fall Final 2024
+Astralis,B,3fe1165857db9858,BLAST Premier Fall Final 2024
+Astralis,A,94af9d204ecc562f,BLAST Premier Fall Final 2024
+Spirit,B,94af9d204ecc562f,BLAST Premier Fall Final 2024
+Astralis,A,22c9f761b92e8538,BLAST Premier Fall Final 2024
+Spirit,B,22c9f761b92e8538,BLAST Premier Fall Final 2024
+FaZe Clan,A,688884209ed23cc9,BLAST Premier Fall Final 2024
+Falcons,B,688884209ed23cc9,BLAST Premier Fall Final 2024
+Falcons,A,facfc909fd2aa7e1,BLAST Premier Fall Final 2024
+FaZe Clan,B,facfc909fd2aa7e1,BLAST Premier Fall Final 2024
+Falcons,A,9db22803781656ae,BLAST Premier Fall Final 2024
+FaZe Clan,B,9db22803781656ae,BLAST Premier Fall Final 2024
+Liquid,A,842eb3e942d6f9d9,BLAST Premier Fall Final 2024
+FaZe Clan,B,842eb3e942d6f9d9,BLAST Premier Fall Final 2024
+FaZe Clan,A,fcd5530a24901b5c,BLAST Premier Fall Final 2024
+Liquid,B,fcd5530a24901b5c,BLAST Premier Fall Final 2024
+G2 Esports,A,244a2ce7b3198b26,BLAST Premier Fall Final 2024
+FaZe Clan,B,244a2ce7b3198b26,BLAST Premier Fall Final 2024
+FaZe Clan,A,843198248b74467f,BLAST Premier Fall Final 2024
+G2 Esports,B,843198248b74467f,BLAST Premier Fall Final 2024
+G2 Esports,A,7e19066ac7d50ce7,BLAST Premier Fall Final 2024
+FaZe Clan,B,7e19066ac7d50ce7,BLAST Premier Fall Final 2024
+G2 Esports,A,19230fae532ea8dc,BLAST Premier Fall Final 2024
+Natus Vincere,B,19230fae532ea8dc,BLAST Premier Fall Final 2024
+Natus Vincere,A,389695be0ff7fea8,BLAST Premier Fall Final 2024
+G2 Esports,B,389695be0ff7fea8,BLAST Premier Fall Final 2024
+G2 Esports,A,abf693514172a68b,BLAST Premier Fall Final 2024
+Natus Vincere,B,abf693514172a68b,BLAST Premier Fall Final 2024
+Natus Vincere,A,cfe1b764a70adcf1,BLAST Premier Fall Final 2024
+G2 Esports,B,cfe1b764a70adcf1,BLAST Premier Fall Final 2024
+G2 Esports,A,ceb22f514351b022,BLAST Premier Fall Final 2024
+Spirit,B,ceb22f514351b022,BLAST Premier Fall Final 2024
+Spirit,A,3d0285f6c0764b,BLAST Premier Fall Final 2024
+G2 Esports,B,3d0285f6c0764b,BLAST Premier Fall Final 2024
+Falcons,A,35f2d5519a0a732b,BLAST Premier Fall Final 2024
+Natus Vincere,B,35f2d5519a0a732b,BLAST Premier Fall Final 2024
+Falcons,A,d4b6afeb66413d48,BLAST Premier Fall Final 2024
+Natus Vincere,B,d4b6afeb66413d48,BLAST Premier Fall Final 2024
+Natus Vincere,A,8d56c665f77ef90c,BLAST Premier Fall Final 2024
+FaZe Clan,B,8d56c665f77ef90c,BLAST Premier Fall Final 2024
+FaZe Clan,A,2080b12749091507,BLAST Premier Fall Final 2024
+Natus Vincere,B,2080b12749091507,BLAST Premier Fall Final 2024
+FaZe Clan,A,9158bb8c156799fa,BLAST Premier Fall Final 2024
+Natus Vincere,B,9158bb8c156799fa,BLAST Premier Fall Final 2024
+FaZe Clan,A,6347f8b47f2a59f,BLAST Premier Fall Final 2024
+Natus Vincere,B,6347f8b47f2a59f,BLAST Premier Fall Final 2024
+Natus Vincere,A,2e62bce896ec68eb,BLAST Premier Fall Final 2024
+G2 Esports,B,2e62bce896ec68eb,BLAST Premier Fall Final 2024
+G2 Esports,A,fc87fd78399ac64c,BLAST Premier Fall Final 2024
+Natus Vincere,B,fc87fd78399ac64c,BLAST Premier Fall Final 2024
+Spirit,A,393da96677ba9003,BLAST Premier Fall Final 2024
+Liquid,B,393da96677ba9003,BLAST Premier Fall Final 2024
+Liquid,A,1b5739652fe40b68,BLAST Premier Fall Final 2024
+Spirit,B,1b5739652fe40b68,BLAST Premier Fall Final 2024
+Liquid,A,8e12a08490f17ff4,BLAST Premier Fall Final 2024
+Spirit,B,8e12a08490f17ff4,BLAST Premier Fall Final 2024
+Vitality,A,1fde84c9a8835f01,BLAST Premier Fall Final 2024
+Astralis,B,1fde84c9a8835f01,BLAST Premier Fall Final 2024
+Astralis,A,a2564e17a79aa1a5,BLAST Premier Fall Final 2024
+Vitality,B,a2564e17a79aa1a5,BLAST Premier Fall Final 2024
+Vitality,A,2c930c088bdc94c,BLAST Premier Fall Final 2024
+G2 Esports,B,2c930c088bdc94c,BLAST Premier Fall Final 2024
+G2 Esports,A,a138c1f347c2efb6,BLAST Premier Fall Final 2024
+Vitality,B,a138c1f347c2efb6,BLAST Premier Fall Final 2024
+G2 Esports,A,6c3b5aea6cee79c2,BLAST Premier Fall Final 2024
+Vitality,B,6c3b5aea6cee79c2,BLAST Premier Fall Final 2024
+Vitality,A,451ecb4df33b047c,BLAST Premier Fall Final 2024
+Liquid,B,451ecb4df33b047c,BLAST Premier Fall Final 2024
+Liquid,A,aa8eea79435b5c9b,BLAST Premier Fall Final 2024
+Vitality,B,aa8eea79435b5c9b,BLAST Premier Fall Final 2024
+Astralis,A,eeaa4f5e047f493d,BLAST Premier Fall Groups 2024
+Falcons,B,eeaa4f5e047f493d,BLAST Premier Fall Groups 2024
+Falcons,A,56ad21f4f61cbf81,BLAST Premier Fall Groups 2024
+Astralis,B,56ad21f4f61cbf81,BLAST Premier Fall Groups 2024
+Astralis,A,3899c71cf6eea89d,BLAST Premier Fall Groups 2024
+Falcons,B,3899c71cf6eea89d,BLAST Premier Fall Groups 2024
+Astralis,A,f85e88fc29b96a22,BLAST Premier Fall Groups 2024
+NIP,B,f85e88fc29b96a22,BLAST Premier Fall Groups 2024
+NIP,A,2e15b4608b3dcede,BLAST Premier Fall Groups 2024
+Astralis,B,2e15b4608b3dcede,BLAST Premier Fall Groups 2024
+VirtusPro,A,ea71c8ded3dd9e5,BLAST Premier Fall Groups 2024
+BIG,B,ea71c8ded3dd9e5,BLAST Premier Fall Groups 2024
+BIG,A,7722ec113a866f14,BLAST Premier Fall Groups 2024
+VirtusPro,B,7722ec113a866f14,BLAST Premier Fall Groups 2024
+BIG,A,fafafd15893bfc0b,BLAST Premier Fall Groups 2024
+VirtusPro,B,fafafd15893bfc0b,BLAST Premier Fall Groups 2024
+NIP,A,ef3c1e7f6d22bdf6,BLAST Premier Fall Groups 2024
+Cloud9,B,ef3c1e7f6d22bdf6,BLAST Premier Fall Groups 2024
+Cloud9,A,8bc7d8f7330dff5a,BLAST Premier Fall Groups 2024
+NIP,B,8bc7d8f7330dff5a,BLAST Premier Fall Groups 2024
+NIP,A,36478e352c459f4f,BLAST Premier Fall Groups 2024
+Cloud9,B,36478e352c459f4f,BLAST Premier Fall Groups 2024
+Complexity,A,215d8fe58bf6c7de,BLAST Premier Fall Groups 2024
+Heroic,B,215d8fe58bf6c7de,BLAST Premier Fall Groups 2024
+Heroic,A,b56a78e9d74bbd21,BLAST Premier Fall Groups 2024
+Complexity,B,b56a78e9d74bbd21,BLAST Premier Fall Groups 2024
+Complexity,A,d6468fa4a0c2b5d8,BLAST Premier Fall Groups 2024
+Natus Vincere,B,d6468fa4a0c2b5d8,BLAST Premier Fall Groups 2024
+Complexity,A,8ccd5c475a7740a4,BLAST Premier Fall Groups 2024
+Natus Vincere,B,8ccd5c475a7740a4,BLAST Premier Fall Groups 2024
+FaZe Clan,A,b5b499bf1d9b4bb7,BLAST Premier Fall Groups 2024
+Cloud9,B,b5b499bf1d9b4bb7,BLAST Premier Fall Groups 2024
+Cloud9,A,edfa9b6aee6c422e,BLAST Premier Fall Groups 2024
+FaZe Clan,B,edfa9b6aee6c422e,BLAST Premier Fall Groups 2024
+FaZe Clan,A,4b9905f0f3ac548,BLAST Premier Fall Groups 2024
+Cloud9,B,4b9905f0f3ac548,BLAST Premier Fall Groups 2024
+FaZe Clan,A,40f4319225a23515,BLAST Premier Fall Groups 2024
+G2 Esports,B,40f4319225a23515,BLAST Premier Fall Groups 2024
+G2 Esports,A,14c9bcd6c1b92ada,BLAST Premier Fall Groups 2024
+FaZe Clan,B,14c9bcd6c1b92ada,BLAST Premier Fall Groups 2024
+G2 Esports,A,c19401af10a9af44,BLAST Premier Fall Groups 2024
+FaZe Clan,B,c19401af10a9af44,BLAST Premier Fall Groups 2024
+FaZe Clan,A,708336b11a438da3,BLAST Premier Fall Groups 2024
+NIP,B,708336b11a438da3,BLAST Premier Fall Groups 2024
+NIP,A,eafceb6d0841043f,BLAST Premier Fall Groups 2024
+FaZe Clan,B,eafceb6d0841043f,BLAST Premier Fall Groups 2024
+G2 Esports,A,595d1698bfe97cc8,BLAST Premier Fall Groups 2024
+NIP,B,595d1698bfe97cc8,BLAST Premier Fall Groups 2024
+NIP,A,c71bf0fa5d75bf4e,BLAST Premier Fall Groups 2024
+G2 Esports,B,c71bf0fa5d75bf4e,BLAST Premier Fall Groups 2024
+NIP,A,a2a50bca148cc03,BLAST Premier Fall Groups 2024
+G2 Esports,B,a2a50bca148cc03,BLAST Premier Fall Groups 2024
+Falcons,A,f42fb294667700ec,BLAST Premier Fall Groups 2024
+GamerLegion,B,f42fb294667700ec,BLAST Premier Fall Groups 2024
+GamerLegion,A,8b0cb1572698f9b7,BLAST Premier Fall Groups 2024
+Falcons,B,8b0cb1572698f9b7,BLAST Premier Fall Groups 2024
+Complexity,A,d6ee86eba76228be,BLAST Premier Fall Groups 2024
+Heroic,B,d6ee86eba76228be,BLAST Premier Fall Groups 2024
+Complexity,A,1ceeb2c95d22dc4f,BLAST Premier Fall Groups 2024
+Heroic,B,1ceeb2c95d22dc4f,BLAST Premier Fall Groups 2024
+Natus Vincere,A,1730f1b4e199b6a9,BLAST Premier Fall Groups 2024
+Liquid,B,1730f1b4e199b6a9,BLAST Premier Fall Groups 2024
+Liquid,A,6ea4dc864f96c25f,BLAST Premier Fall Groups 2024
+Natus Vincere,B,6ea4dc864f96c25f,BLAST Premier Fall Groups 2024
+Natus Vincere,A,58ede9da53ef6c14,BLAST Premier Fall Groups 2024
+Liquid,B,58ede9da53ef6c14,BLAST Premier Fall Groups 2024
+Natus Vincere,A,b1c728eb69f287b2,BLAST Premier Fall Groups 2024
+BIG,B,b1c728eb69f287b2,BLAST Premier Fall Groups 2024
+Natus Vincere,A,db0bbe5c6d55218f,BLAST Premier Fall Groups 2024
+BIG,B,db0bbe5c6d55218f,BLAST Premier Fall Groups 2024
+Liquid,A,ad33204c37b8eec6,BLAST Premier Fall Groups 2024
+Natus Vincere,B,ad33204c37b8eec6,BLAST Premier Fall Groups 2024
+Liquid,A,ddcbcf043b38cc10,BLAST Premier Fall Groups 2024
+Natus Vincere,B,ddcbcf043b38cc10,BLAST Premier Fall Groups 2024
+Liquid,A,6274cde9e9f8ea,BLAST Premier Fall Groups 2024
+Natus Vincere,B,6274cde9e9f8ea,BLAST Premier Fall Groups 2024
+Complexity,A,73aa5b5682a00e68,BLAST Premier Fall Groups 2024
+OG,B,73aa5b5682a00e68,BLAST Premier Fall Groups 2024
+OG,A,7652675195c8336a,BLAST Premier Fall Groups 2024
+Complexity,B,7652675195c8336a,BLAST Premier Fall Groups 2024
+Complexity,A,4a2e6eeee6811883,BLAST Premier Fall Groups 2024
+OG,B,4a2e6eeee6811883,BLAST Premier Fall Groups 2024
+Complexity,A,b86801935af5f282,BLAST Premier Fall Groups 2024
+Spirit,B,b86801935af5f282,BLAST Premier Fall Groups 2024
+Spirit,A,b2b02bde8611add2,BLAST Premier Fall Groups 2024
+Complexity,B,b2b02bde8611add2,BLAST Premier Fall Groups 2024
+Complexity,A,e86893540c8a9fc6,BLAST Premier Fall Groups 2024
+Spirit,B,e86893540c8a9fc6,BLAST Premier Fall Groups 2024
+Spirit,A,18cce698c83429e1,BLAST Premier Fall Groups 2024
+Heroic,B,18cce698c83429e1,BLAST Premier Fall Groups 2024
+Spirit,A,d171f345ef3abef4,BLAST Premier Fall Groups 2024
+Heroic,B,d171f345ef3abef4,BLAST Premier Fall Groups 2024
+Spirit,A,fe562c6d95285ead,BLAST Premier Fall Groups 2024
+OG,B,fe562c6d95285ead,BLAST Premier Fall Groups 2024
+OG,A,d840bb0116745b38,BLAST Premier Fall Groups 2024
+Spirit,B,d840bb0116745b38,BLAST Premier Fall Groups 2024
+VirtusPro,A,6ebb3fa0da57b4dc,BLAST Premier Fall Groups 2024
+Liquid,B,6ebb3fa0da57b4dc,BLAST Premier Fall Groups 2024
+Liquid,A,6de1626c373c7648,BLAST Premier Fall Groups 2024
+VirtusPro,B,6de1626c373c7648,BLAST Premier Fall Groups 2024
+Vitality,A,edf81c3472840fcb,BLAST Premier Fall Groups 2024
+Astralis,B,edf81c3472840fcb,BLAST Premier Fall Groups 2024
+Vitality,A,6381c2af36014359,BLAST Premier Fall Groups 2024
+Astralis,B,6381c2af36014359,BLAST Premier Fall Groups 2024
+Astralis,A,ecb4da1b97bf3a2c,BLAST Premier Fall Groups 2024
+Vitality,B,ecb4da1b97bf3a2c,BLAST Premier Fall Groups 2024
+Astralis,A,726dc4e0dc729524,BLAST Premier Fall Groups 2024
+Vitality,B,726dc4e0dc729524,BLAST Premier Fall Groups 2024
+Astralis,A,575d735266f2f734,BLAST Premier Fall Groups 2024
+Vitality,B,575d735266f2f734,BLAST Premier Fall Groups 2024
+GamerLegion,A,b1288a8273f91565,BLAST Premier Fall Groups 2024
+Vitality,B,b1288a8273f91565,BLAST Premier Fall Groups 2024
+GamerLegion,A,98d4dd39c5132162,BLAST Premier Fall Groups 2024
+Vitality,B,98d4dd39c5132162,BLAST Premier Fall Groups 2024
+Vitality,A,58797097c3d8aebf,BLAST Premier Fall Groups 2024
+GamerLegion,B,58797097c3d8aebf,BLAST Premier Fall Groups 2024
+MOUZ,A,3d26344f17f13837,BLAST Premier World Final 2024
+Astralis,B,3d26344f17f13837,BLAST Premier World Final 2024
+Astralis,A,95b841ba110bc66,BLAST Premier World Final 2024
+MOUZ,B,95b841ba110bc66,BLAST Premier World Final 2024
+Spirit,A,d6a5da1b4e77c240,BLAST Premier World Final 2024
+Astralis,B,d6a5da1b4e77c240,BLAST Premier World Final 2024
+Spirit,A,b52e1d9753015e28,BLAST Premier World Final 2024
+Astralis,B,b52e1d9753015e28,BLAST Premier World Final 2024
+Astralis,A,4c63395b4c2d2672,BLAST Premier World Final 2024
+Spirit,B,4c63395b4c2d2672,BLAST Premier World Final 2024
+Spirit,A,c53128b26fc9081c,BLAST Premier World Final 2024
+FaZe Clan,B,c53128b26fc9081c,BLAST Premier World Final 2024
+Spirit,A,6bff0803deb724c0,BLAST Premier World Final 2024
+FaZe Clan,B,6bff0803deb724c0,BLAST Premier World Final 2024
+Liquid,A,44579bee3d97fc86,BLAST Premier World Final 2024
+G2 Esports,B,44579bee3d97fc86,BLAST Premier World Final 2024
+Liquid,A,387c0cf5e98d763b,BLAST Premier World Final 2024
+G2 Esports,B,387c0cf5e98d763b,BLAST Premier World Final 2024
+G2 Esports,A,96c7ccb4b0853c0,BLAST Premier World Final 2024
+Liquid,B,96c7ccb4b0853c0,BLAST Premier World Final 2024
+Spirit,A,58a332f9511c65a2,BLAST Premier World Final 2024
+G2 Esports,B,58a332f9511c65a2,BLAST Premier World Final 2024
+Spirit,A,428db1f9ec319bd3,BLAST Premier World Final 2024
+G2 Esports,B,428db1f9ec319bd3,BLAST Premier World Final 2024
+Spirit,A,803d577b3d7ccd7,BLAST Premier World Final 2024
+G2 Esports,B,803d577b3d7ccd7,BLAST Premier World Final 2024
+Spirit,A,7108f666509fa9d2,BLAST Premier World Final 2024
+G2 Esports,B,7108f666509fa9d2,BLAST Premier World Final 2024
+Spirit,A,94af43cd62a85e74,BLAST Premier World Final 2024
+G2 Esports,B,94af43cd62a85e74,BLAST Premier World Final 2024
+G2 Esports,A,afd99b702c5aafc4,BLAST Premier World Final 2024
+Vitality,B,afd99b702c5aafc4,BLAST Premier World Final 2024
+Vitality,A,5bb16082b6d7bf2b,BLAST Premier World Final 2024
+G2 Esports,B,5bb16082b6d7bf2b,BLAST Premier World Final 2024
+G2 Esports,A,8daa396e113e118c,BLAST Premier World Final 2024
+Vitality,B,8daa396e113e118c,BLAST Premier World Final 2024
+Liquid,A,6cd242073d19497b,BLAST Premier World Final 2024
+Vitality,B,6cd242073d19497b,BLAST Premier World Final 2024
+Liquid,A,c37ee9184f0fccf3,BLAST Premier World Final 2024
+Vitality,B,c37ee9184f0fccf3,BLAST Premier World Final 2024
+Vitality,A,711139ec6e55fd91,BLAST Premier World Final 2024
+Liquid,B,711139ec6e55fd91,BLAST Premier World Final 2024
+MOUZ,A,b293a59fe730997a,BLAST Premier World Final 2024
+FaZe Clan,B,b293a59fe730997a,BLAST Premier World Final 2024
+FaZe Clan,A,b783523242dc5cd9,BLAST Premier World Final 2024
+MOUZ,B,b783523242dc5cd9,BLAST Premier World Final 2024
+MOUZ,A,feb54802b6a9c832,BLAST Premier World Final 2024
+Vitality,B,feb54802b6a9c832,BLAST Premier World Final 2024
+Vitality,A,fe36626287e46b88,BLAST Premier World Final 2024
+MOUZ,B,fe36626287e46b88,BLAST Premier World Final 2024
+Natus Vincere,A,396cb5177b9dae02,BLAST Premier World Final 2024
+Astralis,B,396cb5177b9dae02,BLAST Premier World Final 2024
+Astralis,A,6c692080c5f6abee,BLAST Premier World Final 2024
+Natus Vincere,B,6c692080c5f6abee,BLAST Premier World Final 2024
+Natus Vincere,A,abd480a89674e421,BLAST Premier World Final 2024
+FaZe Clan,B,abd480a89674e421,BLAST Premier World Final 2024
+FaZe Clan,A,61978a585e80788f,BLAST Premier World Final 2024
+Natus Vincere,B,61978a585e80788f,BLAST Premier World Final 2024
+FaZe Clan,A,af4da788cca3cf47,BLAST Premier World Final 2024
+Natus Vincere,B,af4da788cca3cf47,BLAST Premier World Final 2024
+Spirit,A,dbff32cc281390d2,BLAST Premier World Final 2024
+Vitality,B,dbff32cc281390d2,BLAST Premier World Final 2024
+Spirit,A,6fc423a29305d61b,BLAST Premier World Final 2024
+Vitality,B,6fc423a29305d61b,BLAST Premier World Final 2024
+Team A,A,d2efa0d1275c41cd,BetBoom Dacha Belgrade Season 2
+Team B,B,d2efa0d1275c41cd,BetBoom Dacha Belgrade Season 2
+Team A,A,75181692308bac2b,BetBoom Dacha Belgrade Season 2
+Team B,B,75181692308bac2b,BetBoom Dacha Belgrade Season 2
+Team A,A,225927b1180d0b81,BetBoom Dacha Belgrade Season 2
+Team B,B,225927b1180d0b81,BetBoom Dacha Belgrade Season 2
+Team A,A,76736c2b365c292f,BetBoom Dacha Belgrade Season 2
+Team B,B,76736c2b365c292f,BetBoom Dacha Belgrade Season 2
+Team A,A,ad7810e74206982f,BetBoom Dacha Belgrade Season 2
+Team B,B,ad7810e74206982f,BetBoom Dacha Belgrade Season 2
+Team A,A,79283a38aad394a1,BetBoom Dacha Belgrade Season 2
+Team B,B,79283a38aad394a1,BetBoom Dacha Belgrade Season 2
+Team A,A,ba92a36f1e77f8bb,BetBoom Dacha Belgrade Season 2
+Team B,B,ba92a36f1e77f8bb,BetBoom Dacha Belgrade Season 2
+Virtus.pro,A,23515541f3d0fe06,BetBoom Dacha Belgrade Season 2
+Falcons,B,23515541f3d0fe06,BetBoom Dacha Belgrade Season 2
+Team A,A,a77714d1d24e40de,BetBoom Dacha Belgrade Season 2
+Team B,B,a77714d1d24e40de,BetBoom Dacha Belgrade Season 2
+Team A,A,68a6634cb6e7b36,BetBoom Dacha Belgrade Season 2
+Team B,B,68a6634cb6e7b36,BetBoom Dacha Belgrade Season 2
+Team A,A,ab9ef4232034c346,BetBoom Dacha Belgrade Season 2
+Team B,B,ab9ef4232034c346,BetBoom Dacha Belgrade Season 2
+Team A,A,c4dafd1140033743,BetBoom Dacha Belgrade Season 2
+Team B,B,c4dafd1140033743,BetBoom Dacha Belgrade Season 2
+Team A,A,8ac2cf84dabdca64,BetBoom Dacha Belgrade Season 2
+Team B,B,8ac2cf84dabdca64,BetBoom Dacha Belgrade Season 2
+Team A,A,50576be7856f921,BetBoom Dacha Belgrade Season 2
+Team B,B,50576be7856f921,BetBoom Dacha Belgrade Season 2
+Team A,A,9278cbca5a95ae0b,BetBoom Dacha Belgrade Season 2
+Team B,B,9278cbca5a95ae0b,BetBoom Dacha Belgrade Season 2
+Team A,A,8cedc59445ce900,BetBoom Dacha Belgrade Season 2
+Team B,B,8cedc59445ce900,BetBoom Dacha Belgrade Season 2
+Team A,A,6785d8905ae2f55e,BetBoom Dacha Belgrade Season 2
+Team B,B,6785d8905ae2f55e,BetBoom Dacha Belgrade Season 2
+Team A,A,720972f97c3616a2,BetBoom Dacha Belgrade Season 2
+Team B,B,720972f97c3616a2,BetBoom Dacha Belgrade Season 2
+Team A,A,56f5d44e6bb58057,BetBoom Dacha Belgrade Season 2
+Team B,B,56f5d44e6bb58057,BetBoom Dacha Belgrade Season 2
+Team A,A,188eef04e54cf616,BetBoom Dacha Belgrade Season 2
+Team B,B,188eef04e54cf616,BetBoom Dacha Belgrade Season 2
+Team A,A,7371a3b73b92df57,BetBoom Dacha Belgrade Season 2
+Team B,B,7371a3b73b92df57,BetBoom Dacha Belgrade Season 2
+Team A,A,7f95b07bea0dd1c6,BetBoom Dacha Belgrade Season 2
+Team B,B,7f95b07bea0dd1c6,BetBoom Dacha Belgrade Season 2
+Team A,A,4f72601c9ef431f3,BetBoom Dacha Belgrade Season 2
+Team B,B,4f72601c9ef431f3,BetBoom Dacha Belgrade Season 2
+Team A,A,c1a587cf1fd09651,BetBoom Dacha Belgrade Season 2
+Team B,B,c1a587cf1fd09651,BetBoom Dacha Belgrade Season 2
+Team A,A,2aa812c05d2b4ad4,BetBoom Dacha Belgrade Season 2
+Team B,B,2aa812c05d2b4ad4,BetBoom Dacha Belgrade Season 2
+Team A,A,415f46cbc4b7c058,BetBoom Dacha Belgrade Season 2
+Team B,B,415f46cbc4b7c058,BetBoom Dacha Belgrade Season 2
+Team A,A,77be9a84ae689c4e,BetBoom Dacha Belgrade Season 2
+Team B,B,77be9a84ae689c4e,BetBoom Dacha Belgrade Season 2
+Team A,A,c0ac912d7810e22b,BetBoom Dacha Belgrade Season 2
+Team B,B,c0ac912d7810e22b,BetBoom Dacha Belgrade Season 2
+Team A,A,b6c6a04db615332d,BetBoom Dacha Belgrade Season 2
+Team B,B,b6c6a04db615332d,BetBoom Dacha Belgrade Season 2
+Team A,A,167956817a0b29f1,BetBoom Dacha Belgrade Season 2
+Team B,B,167956817a0b29f1,BetBoom Dacha Belgrade Season 2
+Team A,A,d8a5142cd440e88d,BetBoom Dacha Belgrade Season 2
+Team B,B,d8a5142cd440e88d,BetBoom Dacha Belgrade Season 2
+Team A,A,7a5312d550601df9,BetBoom Dacha Belgrade Season 2
+Team B,B,7a5312d550601df9,BetBoom Dacha Belgrade Season 2
+Team A,A,af1b32e16b360c7d,BetBoom Dacha Belgrade Season 2
+Team B,B,af1b32e16b360c7d,BetBoom Dacha Belgrade Season 2
+Team A,A,1ad6f7d3a179e722,BetBoom Dacha Belgrade Season 2
+Team B,B,1ad6f7d3a179e722,BetBoom Dacha Belgrade Season 2
+Team A,A,8ae4e1ef8aba42ab,ESL Pro League Season 20
+Team B,B,8ae4e1ef8aba42ab,ESL Pro League Season 20
+Team A,A,496b197de6cc9f89,ESL Pro League Season 20
+Team B,B,496b197de6cc9f89,ESL Pro League Season 20
+Team A,A,100bb9c09b657dc0,ESL Pro League Season 20
+Team B,B,100bb9c09b657dc0,ESL Pro League Season 20
+9z Globant,A,2f4ed7e0e8e4dcd8,ESL Pro League Season 20
+3DMAX,B,2f4ed7e0e8e4dcd8,ESL Pro League Season 20
+Team A,A,a7ab08edebc5d6fd,ESL Pro League Season 20
+Team B,B,a7ab08edebc5d6fd,ESL Pro League Season 20
+3DMAX,A,67200a1484e9ef03,ESL Pro League Season 20
+9z Globant,B,67200a1484e9ef03,ESL Pro League Season 20
+Team A,A,7378bb59ddc11a54,ESL Pro League Season 20
+Team B,B,7378bb59ddc11a54,ESL Pro League Season 20
+Team A,A,751faa6fbacf6a4e,ESL Pro League Season 20
+Team B,B,751faa6fbacf6a4e,ESL Pro League Season 20
+Team A,A,e9301e806fb78ac4,ESL Pro League Season 20
+Team B,B,e9301e806fb78ac4,ESL Pro League Season 20
+Team A,A,1dbd2808bb33407e,ESL Pro League Season 20
+Team B,B,1dbd2808bb33407e,ESL Pro League Season 20
+Team A,A,17a8e4d2a5927512,ESL Pro League Season 20
+Team B,B,17a8e4d2a5927512,ESL Pro League Season 20
+Team A,A,c820ec824f034bc7,ESL Pro League Season 20
+Team B,B,c820ec824f034bc7,ESL Pro League Season 20
+Team A,A,a3f185c7b3d74d91,ESL Pro League Season 20
+Team B,B,a3f185c7b3d74d91,ESL Pro League Season 20
+Team A,A,d03108c8ad63469f,ESL Pro League Season 20
+Team B,B,d03108c8ad63469f,ESL Pro League Season 20
+Team A,A,27628e13e4d06258,ESL Pro League Season 20
+Team B,B,27628e13e4d06258,ESL Pro League Season 20
+Team A,A,6ed42c5ac9299d86,ESL Pro League Season 20
+Team B,B,6ed42c5ac9299d86,ESL Pro League Season 20
+Team A,A,eb43e07bf7fa9695,ESL Pro League Season 20
+Team B,B,eb43e07bf7fa9695,ESL Pro League Season 20
+Team A,A,cbd114c69a3b9d1f,ESL Pro League Season 20
+Team B,B,cbd114c69a3b9d1f,ESL Pro League Season 20
+Team A,A,a7d322c3b6ce819a,ESL Pro League Season 20
+Team B,B,a7d322c3b6ce819a,ESL Pro League Season 20
+Team A,A,81ebdf96ff1044cc,ESL Pro League Season 20
+Team B,B,81ebdf96ff1044cc,ESL Pro League Season 20
+Team A,A,9d086592b4e9403f,ESL Pro League Season 20
+Team B,B,9d086592b4e9403f,ESL Pro League Season 20
+Team A,A,95bea4bad94a796f,ESL Pro League Season 20
+Team B,B,95bea4bad94a796f,ESL Pro League Season 20
+Team A,A,44174f429c215151,ESL Pro League Season 20
+Team B,B,44174f429c215151,ESL Pro League Season 20
+Team A,A,20624f5a9a2c8bdd,ESL Pro League Season 20
+Team B,B,20624f5a9a2c8bdd,ESL Pro League Season 20
+Imperial Sportsbet,A,54ee753ac0c087fa,ESL Pro League Season 20
+BIG,B,54ee753ac0c087fa,ESL Pro League Season 20
+BIG,A,b0801ac76ef9650,ESL Pro League Season 20
+Imperial Sportsbet,B,b0801ac76ef9650,ESL Pro League Season 20
+Team A,A,fdc74c455d2e5077,ESL Pro League Season 20
+Team B,B,fdc74c455d2e5077,ESL Pro League Season 20
+Team A,A,a2f95ac5c15f30c5,ESL Pro League Season 20
+Team B,B,a2f95ac5c15f30c5,ESL Pro League Season 20
+Team A,A,7de3b6883f744730,ESL Pro League Season 20
+Team B,B,7de3b6883f744730,ESL Pro League Season 20
+Team A,A,a61d3d0a10eac73,ESL Pro League Season 20
+Team B,B,a61d3d0a10eac73,ESL Pro League Season 20
+Team A,A,7c1e14a6737a2f98,ESL Pro League Season 20
+Team B,B,7c1e14a6737a2f98,ESL Pro League Season 20
+Team A,A,4781e17b8d9fe2ac,ESL Pro League Season 20
+Team B,B,4781e17b8d9fe2ac,ESL Pro League Season 20
+Team A,A,9ebbec77263629b5,ESL Pro League Season 20
+Team B,B,9ebbec77263629b5,ESL Pro League Season 20
+Team A,A,4f1d881c62e3a1c5,ESL Pro League Season 20
+Team B,B,4f1d881c62e3a1c5,ESL Pro League Season 20
+Complexity,A,20f37e690f542187,ESL Pro League Season 20
+M80,B,20f37e690f542187,ESL Pro League Season 20
+Team A,A,3f9c98d76ce86ea4,ESL Pro League Season 20
+Team B,B,3f9c98d76ce86ea4,ESL Pro League Season 20
+Team A,A,3e4610e9f9d6f1d7,ESL Pro League Season 20
+Team B,B,3e4610e9f9d6f1d7,ESL Pro League Season 20
+Team A,A,309170ffbaf48e3e,ESL Pro League Season 20
+Team B,B,309170ffbaf48e3e,ESL Pro League Season 20
+Team A,A,ec27892abb868501,ESL Pro League Season 20
+Team B,B,ec27892abb868501,ESL Pro League Season 20
+Team A,A,72c143f234466d3b,ESL Pro League Season 20
+Team B,B,72c143f234466d3b,ESL Pro League Season 20
+Team A,A,7e744fad8b3fc120,ESL Pro League Season 20
+Team B,B,7e744fad8b3fc120,ESL Pro League Season 20
+Team A,A,48b6d651701b92d0,ESL Pro League Season 20
+Team B,B,48b6d651701b92d0,ESL Pro League Season 20
+Team A,A,bccaf1bb325618cf,ESL Pro League Season 20
+Team B,B,bccaf1bb325618cf,ESL Pro League Season 20
+Team A,A,e44e2a3a0caf5180,ESL Pro League Season 20
+Team B,B,e44e2a3a0caf5180,ESL Pro League Season 20
+Team A,A,4b6dab5d2810bb4c,ESL Pro League Season 20
+Team B,B,4b6dab5d2810bb4c,ESL Pro League Season 20
+Team A,A,a6a3568070a7f005,ESL Pro League Season 20
+Team B,B,a6a3568070a7f005,ESL Pro League Season 20
+Team A,A,c5bae36a3f56878a,ESL Pro League Season 20
+Team B,B,c5bae36a3f56878a,ESL Pro League Season 20
+Team A,A,2eced1ca72644688,ESL Pro League Season 20
+Team B,B,2eced1ca72644688,ESL Pro League Season 20
+Team A,A,c979862bdeee8c9b,ESL Pro League Season 20
+Team B,B,c979862bdeee8c9b,ESL Pro League Season 20
+Team A,A,bb1541fc31601ae3,ESL Pro League Season 20
+Team B,B,bb1541fc31601ae3,ESL Pro League Season 20
+Team A,A,6d6ec022af8c3d64,ESL Pro League Season 20
+Team B,B,6d6ec022af8c3d64,ESL Pro League Season 20
+Team A,A,c1503cd158482ef2,ESL Pro League Season 20
+Team B,B,c1503cd158482ef2,ESL Pro League Season 20
+Team A,A,11eb90e0d69272e3,ESL Pro League Season 20
+Team B,B,11eb90e0d69272e3,ESL Pro League Season 20
+Team A,A,ba61141a1b75e37d,ESL Pro League Season 20
+Team B,B,ba61141a1b75e37d,ESL Pro League Season 20
+Team A,A,79f0d52d95aa27cf,ESL Pro League Season 20
+Team B,B,79f0d52d95aa27cf,ESL Pro League Season 20
+Team A,A,a44b40e06b1fd68f,ESL Pro League Season 20
+Team B,B,a44b40e06b1fd68f,ESL Pro League Season 20
+Team A,A,3d552733aed776a8,ESL Pro League Season 20
+Team B,B,3d552733aed776a8,ESL Pro League Season 20
+Team A,A,a132b576223c6a5,ESL Pro League Season 20
+Team B,B,a132b576223c6a5,ESL Pro League Season 20
+Team A,A,ecd20376923bbd77,ESL Pro League Season 20
+Team B,B,ecd20376923bbd77,ESL Pro League Season 20
+Team A,A,54dd9285e5b9e7dd,ESL Pro League Season 20
+Team B,B,54dd9285e5b9e7dd,ESL Pro League Season 20
+Team A,A,4654d19238c2ae29,ESL Pro League Season 20
+Team B,B,4654d19238c2ae29,ESL Pro League Season 20
+Team A,A,141c224c05b3eed,ESL Pro League Season 20
+Team B,B,141c224c05b3eed,ESL Pro League Season 20
+Team A,A,1234c2e7860dd4e7,ESL Pro League Season 20
+Team B,B,1234c2e7860dd4e7,ESL Pro League Season 20
+Team A,A,1fdf78a348cacff8,ESL Pro League Season 20
+Team B,B,1fdf78a348cacff8,ESL Pro League Season 20
+Team A,A,b7465da217305097,ESL Pro League Season 20
+Team B,B,b7465da217305097,ESL Pro League Season 20
+Team A,A,79078f38e81fa037,ESL Pro League Season 20
+Team B,B,79078f38e81fa037,ESL Pro League Season 20
+Sangal 1XBET,A,c6e2a25a18d037b,ESL Pro League Season 20
+FaZe Clan,B,c6e2a25a18d037b,ESL Pro League Season 20
+Team A,A,3e0b29353505a714,ESL Pro League Season 20
+Team B,B,3e0b29353505a714,ESL Pro League Season 20
+Team A,A,c763d938d3859665,ESL Pro League Season 20
+Team B,B,c763d938d3859665,ESL Pro League Season 20
+Team A,A,a6add572516fa634,ESL Pro League Season 20
+Team B,B,a6add572516fa634,ESL Pro League Season 20
+Team A,A,a5fc1f248bb0df4c,ESL Pro League Season 20
+Team B,B,a5fc1f248bb0df4c,ESL Pro League Season 20
+Team A,A,5959f0fdf4ac6a88,ESL Pro League Season 20
+Team B,B,5959f0fdf4ac6a88,ESL Pro League Season 20
+Team A,A,be8d16edb7edead,ESL Pro League Season 20
+Team B,B,be8d16edb7edead,ESL Pro League Season 20
+Team A,A,ec8d123a695bd7c2,ESL Pro League Season 20
+Team B,B,ec8d123a695bd7c2,ESL Pro League Season 20
+Team A,A,8d8bdd5a207579f4,ESL Pro League Season 20
+Team B,B,8d8bdd5a207579f4,ESL Pro League Season 20
+Team A,A,81427e3514a6601b,ESL Pro League Season 20
+Team B,B,81427e3514a6601b,ESL Pro League Season 20
+Team A,A,a1128d8978d07d19,ESL Pro League Season 20
+Team B,B,a1128d8978d07d19,ESL Pro League Season 20
+Team A,A,ebd9b1765f3fa5e4,ESL Pro League Season 20
+Team B,B,ebd9b1765f3fa5e4,ESL Pro League Season 20
+Team A,A,bf96e5708cdd9410,ESL Pro League Season 20
+Team B,B,bf96e5708cdd9410,ESL Pro League Season 20
+Team A,A,7c410a6907c1f259,ESL Pro League Season 20
+Team B,B,7c410a6907c1f259,ESL Pro League Season 20
+Team A,A,e52a77a11521f5cb,ESL Pro League Season 20
+Team B,B,e52a77a11521f5cb,ESL Pro League Season 20
+Team A,A,644db06277a51557,ESL Pro League Season 20
+Team B,B,644db06277a51557,ESL Pro League Season 20
+Team A,A,cffc4637a3fee6fa,ESL Pro League Season 20
+Team B,B,cffc4637a3fee6fa,ESL Pro League Season 20
+Team A,A,aafb82a3c5c4cb59,ESL Pro League Season 20
+Team B,B,aafb82a3c5c4cb59,ESL Pro League Season 20
+Team A,A,1bcab8017249d263,ESL Pro League Season 20
+Team B,B,1bcab8017249d263,ESL Pro League Season 20
+Team A,A,856b83aa086bc719,ESL Pro League Season 20
+Team B,B,856b83aa086bc719,ESL Pro League Season 20
+Team A,A,c7ff2fde09ee4e30,ESL Pro League Season 20
+Team B,B,c7ff2fde09ee4e30,ESL Pro League Season 20
+Team A,A,c330aa3c16d317c2,ESL Pro League Season 20
+Team B,B,c330aa3c16d317c2,ESL Pro League Season 20
+Team A,A,35218983185c65b3,ESL Pro League Season 20
+Team B,B,35218983185c65b3,ESL Pro League Season 20
+Team A,A,18fd8dc3c740f344,ESL Pro League Season 20
+Team B,B,18fd8dc3c740f344,ESL Pro League Season 20
+Team A,A,9abdbc3dbd866326,ESL Pro League Season 20
+Team B,B,9abdbc3dbd866326,ESL Pro League Season 20
+Team A,A,9c46a8131d8f0be3,ESL Pro League Season 20
+Team B,B,9c46a8131d8f0be3,ESL Pro League Season 20
+Team A,A,b0b12f999e3472af,ESL Pro League Season 20
+Team B,B,b0b12f999e3472af,ESL Pro League Season 20
+Team A,A,77e13ece3fbea1a5,ESL Pro League Season 20
+Team B,B,77e13ece3fbea1a5,ESL Pro League Season 20
+Team A,A,17fc17ad75afd4a,ESL Pro League Season 20
+Team B,B,17fc17ad75afd4a,ESL Pro League Season 20
+Team A,A,54740fa2652d61c8,ESL Pro League Season 20
+Team B,B,54740fa2652d61c8,ESL Pro League Season 20
+Team A,A,e8a341d62adabdf1,ESL Pro League Season 20
+Team B,B,e8a341d62adabdf1,ESL Pro League Season 20
+Team A,A,33f4420784d78542,ESL Pro League Season 20
+Team B,B,33f4420784d78542,ESL Pro League Season 20
+Team A,A,5a54d392d4b278da,ESL Pro League Season 20
+Team B,B,5a54d392d4b278da,ESL Pro League Season 20
+Team A,A,95f0da09c8d57ca0,ESL Pro League Season 20
+Team B,B,95f0da09c8d57ca0,ESL Pro League Season 20
+Team A,A,26fbd0d09d7db9be,ESL Pro League Season 20
+Team B,B,26fbd0d09d7db9be,ESL Pro League Season 20
+Team A,A,b05af6918b0b7a37,ESL Pro League Season 20
+Team B,B,b05af6918b0b7a37,ESL Pro League Season 20
+Team A,A,56b65f81c9ed08d4,ESL Pro League Season 20
+Team B,B,56b65f81c9ed08d4,ESL Pro League Season 20
+Team A,A,6859f22615808a53,ESL Pro League Season 20
+Team B,B,6859f22615808a53,ESL Pro League Season 20
+Team A,A,6410b0681d88b18a,ESL Pro League Season 20
+Team B,B,6410b0681d88b18a,ESL Pro League Season 20
+Team A,A,6b6ea8551ccc1c90,ESL Pro League Season 20
+Team B,B,6b6ea8551ccc1c90,ESL Pro League Season 20
+Team A,A,cac348d015dd5d2f,ESL Pro League Season 20
+Team B,B,cac348d015dd5d2f,ESL Pro League Season 20
+Team A,A,7b008cc346500058,ESL Pro League Season 20
+Team B,B,7b008cc346500058,ESL Pro League Season 20
+Team A,A,5d1c1377a2e71daf,ESL Pro League Season 20
+Team B,B,5d1c1377a2e71daf,ESL Pro League Season 20
+Movistar KOI,A,b10fa5fddb30d3f2,ESL Pro League Season 20
+Wildcard Gaming,B,b10fa5fddb30d3f2,ESL Pro League Season 20
+Team A,A,7a3b3ceb3a3c8128,ESL Pro League Season 20
+Team B,B,7a3b3ceb3a3c8128,ESL Pro League Season 20
+Team A,A,a9519ae32c6f85fc,ESL Pro League Season 20
+Team B,B,a9519ae32c6f85fc,ESL Pro League Season 20
+Team A,A,5b7fcb0f9480f74c,ESL Pro League Season 20
+Team B,B,5b7fcb0f9480f74c,ESL Pro League Season 20
+Team A,A,719ffc9929901273,ESL Pro League Season 20
+Team B,B,719ffc9929901273,ESL Pro League Season 20
+Team A,A,19e8a7751cb62d68,ESL Pro League Season 20
+Team B,B,19e8a7751cb62d68,ESL Pro League Season 20
+Team A,A,4277434da5587962,ESL Pro League Season 20
+Team B,B,4277434da5587962,ESL Pro League Season 20
+Team A,A,821364aaf9673fc9,ESL Pro League Season 20
+Team B,B,821364aaf9673fc9,ESL Pro League Season 20
+Team A,A,9431eb841aacfcc7,ESL Pro League Season 20
+Team B,B,9431eb841aacfcc7,ESL Pro League Season 20
+Team A,A,b0a0ccc760d46f53,ESL Pro League Season 20
+Team B,B,b0a0ccc760d46f53,ESL Pro League Season 20
+Team A,A,37482a57ac003f74,ESL Pro League Season 20
+Team B,B,37482a57ac003f74,ESL Pro League Season 20
+Team A,A,988afef8c570086f,ESL Pro League Season 20
+Team B,B,988afef8c570086f,ESL Pro League Season 20
+Lynn Vision Gaming,A,3a90cb332295e871,ESL Pro League Season 20
+HEROIC,B,3a90cb332295e871,ESL Pro League Season 20
+Team A,A,fb946bbb444b5487,ESL Pro League Season 20
+Team B,B,fb946bbb444b5487,ESL Pro League Season 20
+Team A,A,3fc1998dfc8f90b4,ESL Pro League Season 20
+Team B,B,3fc1998dfc8f90b4,ESL Pro League Season 20
+Team A,A,c57c6a336dfa771,ESL Pro League Season 20
+Team B,B,c57c6a336dfa771,ESL Pro League Season 20
+Team A,A,8b86f5901fed22cf,ESL Pro League Season 20
+Team B,B,8b86f5901fed22cf,ESL Pro League Season 20
+Team A,A,cef47846ed7080a7,ESL Pro League Season 20
+Team B,B,cef47846ed7080a7,ESL Pro League Season 20
+Team A,A,3bf0ae8ed2a522d0,ESL Pro League Season 20
+Team B,B,3bf0ae8ed2a522d0,ESL Pro League Season 20
+Team A,A,93370e872ccdcac9,ESL Pro League Season 20
+Team B,B,93370e872ccdcac9,ESL Pro League Season 20
+9z Globant,A,b6211effbb63eab1,ESL Pro League Season 20
+MIBR,B,b6211effbb63eab1,ESL Pro League Season 20
+Team A,A,60b320cacd9dc713,ESL Pro League Season 20
+Team B,B,60b320cacd9dc713,ESL Pro League Season 20
+Team A,A,2cadd33b5f907fe7,ESL Pro League Season 20
+Team B,B,2cadd33b5f907fe7,ESL Pro League Season 20
+Team A,A,da7f000468916d42,ESL Pro League Season 20
+Team B,B,da7f000468916d42,ESL Pro League Season 20
+Team A,A,b4ad7f2166ad4a04,ESL Pro League Season 20
+Team B,B,b4ad7f2166ad4a04,ESL Pro League Season 20
+Team A,A,3a5393933c54fb1d,ESL Pro League Season 20
+Team B,B,3a5393933c54fb1d,ESL Pro League Season 20
+Team A,A,e73a836e448e459e,ESL Pro League Season 20
+Team B,B,e73a836e448e459e,ESL Pro League Season 20
+Team A,A,9453d05bbd738d35,ESL Pro League Season 20
+Team B,B,9453d05bbd738d35,ESL Pro League Season 20
+HEROIC,A,a187bc608913eefd,ESL Pro League Season 20
+MIBR,B,a187bc608913eefd,ESL Pro League Season 20
+Team A,A,8401e12c6c6ef2d5,ESL Pro League Season 20
+Team B,B,8401e12c6c6ef2d5,ESL Pro League Season 20
+Team A,A,adf119c147d480b1,ESL Pro League Season 20
+Team B,B,adf119c147d480b1,ESL Pro League Season 20
+Team A,A,287575bb338df46a,ESL Pro League Season 20
+Team B,B,287575bb338df46a,ESL Pro League Season 20
+MIBR,A,9946fcf0e4a39930,ESL Pro League Season 20
+Team Spirit,B,9946fcf0e4a39930,ESL Pro League Season 20
+Team A,A,15d793736e44827b,ESL Pro League Season 20
+Team B,B,15d793736e44827b,ESL Pro League Season 20
+Team A,A,9c0e4f70bdb8ed39,ESL Pro League Season 20
+Team B,B,9c0e4f70bdb8ed39,ESL Pro League Season 20
+Team A,A,2396682bd23cab7,ESL Pro League Season 20
+Team B,B,2396682bd23cab7,ESL Pro League Season 20
+Team A,A,f630af0208350ae8,ESL Pro League Season 20
+Team B,B,f630af0208350ae8,ESL Pro League Season 20
+Team A,A,6ecda34c2bb4d923,ESL Pro League Season 20
+Team B,B,6ecda34c2bb4d923,ESL Pro League Season 20
+Team A,A,884171ab4e14777f,ESL Pro League Season 20
+Team B,B,884171ab4e14777f,ESL Pro League Season 20
+Team A,A,fa5810e4e2da4710,ESL Pro League Season 20
+Team B,B,fa5810e4e2da4710,ESL Pro League Season 20
+Team A,A,1b5a6e46d27447a2,ESL Pro League Season 20
+Team B,B,1b5a6e46d27447a2,ESL Pro League Season 20
+Team A,A,69dd14547e727020,ESL Pro League Season 20
+Team B,B,69dd14547e727020,ESL Pro League Season 20
+Team A,A,4f6571e80585f999,ESL Pro League Season 20
+Team B,B,4f6571e80585f999,ESL Pro League Season 20
+Team A,A,906e0c247140b6e0,ESL Pro League Season 20
+Team B,B,906e0c247140b6e0,ESL Pro League Season 20
+Team A,A,842c256e8365a04b,ESL Pro League Season 20
+Team B,B,842c256e8365a04b,ESL Pro League Season 20
+Team A,A,99816cbd96169d26,ESL Pro League Season 20
+Team B,B,99816cbd96169d26,ESL Pro League Season 20
+Team A,A,14e08292fc0f9c18,ESL Pro League Season 20
+Team B,B,14e08292fc0f9c18,ESL Pro League Season 20
+Team A,A,4ed9caa6d863869,ESL Pro League Season 20
+Team B,B,4ed9caa6d863869,ESL Pro League Season 20
+Team A,A,21570bae9b39e14,ESL Pro League Season 20
+Team B,B,21570bae9b39e14,ESL Pro League Season 20
+Team A,A,7d5436882111b167,ESL Pro League Season 20
+Team B,B,7d5436882111b167,ESL Pro League Season 20
+Team A,A,7c413e54316f13e7,ESL Pro League Season 20
+Team B,B,7c413e54316f13e7,ESL Pro League Season 20
+Team A,A,1c4ef03eb6e7a947,ESL Pro League Season 20
+Team B,B,1c4ef03eb6e7a947,ESL Pro League Season 20
+Team A,A,c8b6d48324c8dc66,ESL Pro League Season 20
+Team B,B,c8b6d48324c8dc66,ESL Pro League Season 20
+Team A,A,cba2ade9ea571635,ESL Pro League Season 20
+Team B,B,cba2ade9ea571635,ESL Pro League Season 20
+Team A,A,e6117e1a71208054,ESL Pro League Season 20
+Team B,B,e6117e1a71208054,ESL Pro League Season 20
+Team A,A,cb8b5f223e2968ee,ESL Pro League Season 20
+Team B,B,cb8b5f223e2968ee,ESL Pro League Season 20
+Team A,A,12360dd73afec39b,ESL Pro League Season 20
+Team B,B,12360dd73afec39b,ESL Pro League Season 20
+Team A,A,ce71c41995a86a84,ESL Pro League Season 20
+Team B,B,ce71c41995a86a84,ESL Pro League Season 20
+Team A,A,6bed815bf65debf0,ESL Pro League Season 20
+Team B,B,6bed815bf65debf0,ESL Pro League Season 20
+Team A,A,6e0efab4ad73b570,ESL Pro League Season 20
+Team B,B,6e0efab4ad73b570,ESL Pro League Season 20
+Team A,A,38969620df0e1a68,ESL Pro League Season 20
+Team B,B,38969620df0e1a68,ESL Pro League Season 20
+Team A,A,d6f9d51b5bcfab53,ESL Pro League Season 20
+Team B,B,d6f9d51b5bcfab53,ESL Pro League Season 20
+Team A,A,30fc588743edcaf9,ESL Pro League Season 20
+Team B,B,30fc588743edcaf9,ESL Pro League Season 20
+Team A,A,a4d89c5b7236ff21,ESL Pro League Season 20
+Team B,B,a4d89c5b7236ff21,ESL Pro League Season 20
+Team A,A,7dee3b21d236ea90,ESL Pro League Season 20
+Team B,B,7dee3b21d236ea90,ESL Pro League Season 20
+Team A,A,2300b63db230c67a,ESL Pro League Season 20
+Team B,B,2300b63db230c67a,ESL Pro League Season 20
+Team A,A,10061bddda3a308,ESL Pro League Season 20
+Team B,B,10061bddda3a308,ESL Pro League Season 20
+Team Spirit,A,fe15fda14703dd6e,ESL Pro League Season 20
+Wildcard Gaming,B,fe15fda14703dd6e,ESL Pro League Season 20
+Team Spirit,A,c26228e25ef1403c,ESL Pro League Season 20
+Wildcard Gaming,B,c26228e25ef1403c,ESL Pro League Season 20
+Team A,A,48d0bb228e4820a9,ESL Pro League Season 20
+Team B,B,48d0bb228e4820a9,ESL Pro League Season 20
+Team A,A,67f19440bd0c673d,ESL Pro League Season 20
+Team B,B,67f19440bd0c673d,ESL Pro League Season 20
+Team A,A,60bb27b99a2cbb45,ESL Pro League Season 20
+Team B,B,60bb27b99a2cbb45,ESL Pro League Season 20
+Team A,A,6176fab48612edc4,ESL Pro League Season 20
+Team B,B,6176fab48612edc4,ESL Pro League Season 20
+Team A,A,fcfbf09afc340bd2,ESL Pro League Season 20
+Team B,B,fcfbf09afc340bd2,ESL Pro League Season 20
+Team A,A,89babdd79a14aa75,ESL Pro League Season 20
+Team B,B,89babdd79a14aa75,ESL Pro League Season 20
+Team A,A,f2a176e5ac1dd9c7,ESL Pro League Season 20
+Team B,B,f2a176e5ac1dd9c7,ESL Pro League Season 20
+Team A,A,1158ec09aafb71b7,ESL Pro League Season 20
+Team B,B,1158ec09aafb71b7,ESL Pro League Season 20
+Team A,A,efea308d9bd6a0f,ESL Pro League Season 20
+Team B,B,efea308d9bd6a0f,ESL Pro League Season 20
+Team A,A,69c8a41423d8ad18,ESL Pro League Season 20
+Team B,B,69c8a41423d8ad18,ESL Pro League Season 20
+ATOX,A,20b33ebf60c2fa54,ESL Pro League Season 20
+Team Vitality,B,20b33ebf60c2fa54,ESL Pro League Season 20
+Team A,A,23b0bae1c089ec1d,ESL Pro League Season 20
+Team B,B,23b0bae1c089ec1d,ESL Pro League Season 20
+Team A,A,8ad750c57378de84,ESL Pro League Season 20
+Team B,B,8ad750c57378de84,ESL Pro League Season 20
+Team A,A,210d8ac33aa74ef,ESL Pro League Season 20
+Team B,B,210d8ac33aa74ef,ESL Pro League Season 20
+Team A,A,b05f7038f55442a7,ESL Pro League Season 20
+Team B,B,b05f7038f55442a7,ESL Pro League Season 20
+Team A,A,91ea08f1a8736ce5,ESL Pro League Season 20
+Team B,B,91ea08f1a8736ce5,ESL Pro League Season 20
+Team A,A,7c3984e01594cf75,ESL Pro League Season 20
+Team B,B,7c3984e01594cf75,ESL Pro League Season 20
+Team A,A,177b95d0e611bb6f,ESL Pro League Season 20
+Team B,B,177b95d0e611bb6f,ESL Pro League Season 20
+FlyQuest,A,40fffdc565bcdace,Esports World Cup 2024
+FaZe Clan,B,40fffdc565bcdace,Esports World Cup 2024
+Team A,A,4768733a1f621672,Esports World Cup 2024
+Team B,B,4768733a1f621672,Esports World Cup 2024
+Team A,A,de1b3cfcb26c6cc2,Esports World Cup 2024
+Team B,B,de1b3cfcb26c6cc2,Esports World Cup 2024
+Team A,A,de4ddedea7b39a33,Esports World Cup 2024
+Team B,B,de4ddedea7b39a33,Esports World Cup 2024
+Team A,A,703450b925498b1d,Esports World Cup 2024
+Team B,B,703450b925498b1d,Esports World Cup 2024
+Team A,A,f6d8fe449edb2c34,Esports World Cup 2024
+Team B,B,f6d8fe449edb2c34,Esports World Cup 2024
+Team A,A,cdab328c265d4f3c,Esports World Cup 2024
+Team B,B,cdab328c265d4f3c,Esports World Cup 2024
+Team A,A,e1bc90b1b5f4f2f7,Esports World Cup 2024
+Team B,B,e1bc90b1b5f4f2f7,Esports World Cup 2024
+The MongolZ,A,d8e9f65797c7fcb7,Esports World Cup 2024
+G2 Esports,B,d8e9f65797c7fcb7,Esports World Cup 2024
+Team A,A,2cd431ff7eec7149,Esports World Cup 2024
+Team B,B,2cd431ff7eec7149,Esports World Cup 2024
+Team A,A,70831c9234aef017,Esports World Cup 2024
+Team B,B,70831c9234aef017,Esports World Cup 2024
+Team A,A,4f6de83a162bb9c2,Esports World Cup 2024
+Team B,B,4f6de83a162bb9c2,Esports World Cup 2024
+Team A,A,b22379908538049f,Esports World Cup 2024
+Team B,B,b22379908538049f,Esports World Cup 2024
+Team A,A,a1e0d73f3421acc5,Esports World Cup 2024
+Team B,B,a1e0d73f3421acc5,Esports World Cup 2024
+MOUZ,A,f82348a0623201d3,Esports World Cup 2024
+FURIA,B,f82348a0623201d3,Esports World Cup 2024
+Team A,A,f175dba798b52a74,Esports World Cup 2024
+Team B,B,f175dba798b52a74,Esports World Cup 2024
+Team A,A,444c1dbd4880f6e6,Esports World Cup 2024
+Team B,B,444c1dbd4880f6e6,Esports World Cup 2024
+Team A,A,2f4499c38c54cae,Esports World Cup 2024
+Team B,B,2f4499c38c54cae,Esports World Cup 2024
+Team A,A,77f1f531a4fb54ee,Esports World Cup 2024
+Team B,B,77f1f531a4fb54ee,Esports World Cup 2024
+Team A,A,eb5d7839e0771657,Esports World Cup 2024
+Team B,B,eb5d7839e0771657,Esports World Cup 2024
+MOUZ,A,7847f25ea0614946,Esports World Cup 2024
+Sashi Esport,B,7847f25ea0614946,Esports World Cup 2024
+Team A,A,2c4635c7332b4609,Esports World Cup 2024
+Team B,B,2c4635c7332b4609,Esports World Cup 2024
+Team A,A,8c673d49f3ec2689,Esports World Cup 2024
+Team B,B,8c673d49f3ec2689,Esports World Cup 2024
+Team A,A,85cc441ca26168f1,Esports World Cup 2024
+Team B,B,85cc441ca26168f1,Esports World Cup 2024
+Team A,A,dc03f4c8fd5c719a,Esports World Cup 2024
+Team B,B,dc03f4c8fd5c719a,Esports World Cup 2024
+Team A,A,fe57cf95b0f704ae,Esports World Cup 2024
+Team B,B,fe57cf95b0f704ae,Esports World Cup 2024
+Team A,A,91ce6b54d8713038,Esports World Cup 2024
+Team B,B,91ce6b54d8713038,Esports World Cup 2024
+Team A,A,c15a14399ffae95b,Esports World Cup 2024
+Team B,B,c15a14399ffae95b,Esports World Cup 2024
+Team A,A,f6a7401dc2a49aa3,Esports World Cup 2024
+Team B,B,f6a7401dc2a49aa3,Esports World Cup 2024
+Team A,A,d6bf031668e91ca3,Esports World Cup 2024
+Team B,B,d6bf031668e91ca3,Esports World Cup 2024
+Team A,A,357083855ee34b68,Esports World Cup 2024
+Team B,B,357083855ee34b68,Esports World Cup 2024
+Team A,A,d61352b9df719cd3,Esports World Cup 2024
+Team B,B,d61352b9df719cd3,Esports World Cup 2024
+Team A,A,6c1a8c94329ef37c,Esports World Cup 2024
+Team B,B,6c1a8c94329ef37c,Esports World Cup 2024
+Team A,A,33eaebb0370bc90e,Esports World Cup 2024
+Team B,B,33eaebb0370bc90e,Esports World Cup 2024
+Team A,A,7c8c67e3ea11915f,Esports World Cup 2024
+Team B,B,7c8c67e3ea11915f,Esports World Cup 2024
+Team A,A,6c47552779a70a7d,Esports World Cup 2024
+Team B,B,6c47552779a70a7d,Esports World Cup 2024
+Team A,A,e6e8c801b898b79c,Esports World Cup 2024
+Team B,B,e6e8c801b898b79c,Esports World Cup 2024
+Complexity,A,5e9fb450fab4f38a,Esports World Cup 2024
+Virtus.pro,B,5e9fb450fab4f38a,Esports World Cup 2024
+Team A,A,406a46c13183a518,Esports World Cup 2024
+Team B,B,406a46c13183a518,Esports World Cup 2024
+Team A,A,3f13d511e0d07f6a,Esports World Cup 2024
+Team B,B,3f13d511e0d07f6a,Esports World Cup 2024
+Team A,A,ffc18dbc7b70d697,Esports World Cup 2024
+Team B,B,ffc18dbc7b70d697,Esports World Cup 2024
+Team A,A,e17b2b53148fbab1,Esports World Cup 2024
+Team B,B,e17b2b53148fbab1,Esports World Cup 2024
+Team A,A,cc7962c15541b0c1,Esports World Cup 2024
+Team B,B,cc7962c15541b0c1,Esports World Cup 2024
+Team A,A,272d956b6248ca0d,Esports World Cup 2024
+Team B,B,272d956b6248ca0d,Esports World Cup 2024
+Team A,A,cbcd2464dc044d8,Esports World Cup 2024
+Team B,B,cbcd2464dc044d8,Esports World Cup 2024
+Team A,A,3a8a44d1a9ff8bdf,IEM Cologne 2024
+Team B,B,3a8a44d1a9ff8bdf,IEM Cologne 2024
+Team A,A,1ceba032377f6c09,IEM Cologne 2024
+Team B,B,1ceba032377f6c09,IEM Cologne 2024
+Team A,A,4842eb03e4543e5d,IEM Cologne 2024
+Team B,B,4842eb03e4543e5d,IEM Cologne 2024
+Team A,A,1eecd9521a6a1a52,IEM Cologne 2024
+Team B,B,1eecd9521a6a1a52,IEM Cologne 2024
+Team A,A,a754dc09678fb027,IEM Cologne 2024
+Team B,B,a754dc09678fb027,IEM Cologne 2024
+Team A,A,83449ac0fa71968b,IEM Cologne 2024
+Team B,B,83449ac0fa71968b,IEM Cologne 2024
+Team A,A,45189de0c5f3adbb,IEM Cologne 2024
+Team B,B,45189de0c5f3adbb,IEM Cologne 2024
+Team A,A,20421cb8a683e535,IEM Cologne 2024
+Team B,B,20421cb8a683e535,IEM Cologne 2024
+Team A,A,9cbd296160fb1ef1,IEM Cologne 2024
+Team B,B,9cbd296160fb1ef1,IEM Cologne 2024
+Team A,A,838d5d4fa22364ea,IEM Cologne 2024
+Team B,B,838d5d4fa22364ea,IEM Cologne 2024
+Team A,A,da0aa254eb65ea0,IEM Cologne 2024
+Team B,B,da0aa254eb65ea0,IEM Cologne 2024
+Team A,A,6bdb198376593660,IEM Cologne 2024
+Team B,B,6bdb198376593660,IEM Cologne 2024
+Team A,A,8d09adacfe1a5d88,IEM Cologne 2024
+Team B,B,8d09adacfe1a5d88,IEM Cologne 2024
+Team A,A,f91de938881d663d,IEM Cologne 2024
+Team B,B,f91de938881d663d,IEM Cologne 2024
+Team Falcons,A,f232e53bc27b4ec2,IEM Cologne 2024
+FaZe Clan,B,f232e53bc27b4ec2,IEM Cologne 2024
+Team A,A,a28f922288ac0003,IEM Cologne 2024
+Team B,B,a28f922288ac0003,IEM Cologne 2024
+Team A,A,b87f6f112da5933e,IEM Cologne 2024
+Team B,B,b87f6f112da5933e,IEM Cologne 2024
+Team A,A,7aed44df0cdf5bc,IEM Cologne 2024
+Team B,B,7aed44df0cdf5bc,IEM Cologne 2024
+Team A,A,d6634b8e3d04c75b,IEM Cologne 2024
+Team B,B,d6634b8e3d04c75b,IEM Cologne 2024
+Team A,A,456d680ad620004e,IEM Cologne 2024
+Team B,B,456d680ad620004e,IEM Cologne 2024
+Team A,A,585b267c9f6c06d0,IEM Cologne 2024
+Team B,B,585b267c9f6c06d0,IEM Cologne 2024
+Team A,A,a890345d52ed6ece,IEM Cologne 2024
+Team B,B,a890345d52ed6ece,IEM Cologne 2024
+Team A,A,44ea916cfc8d83e3,IEM Cologne 2024
+Team B,B,44ea916cfc8d83e3,IEM Cologne 2024
+Team A,A,e7bee0cabb2e61e8,IEM Cologne 2024
+Team B,B,e7bee0cabb2e61e8,IEM Cologne 2024
+Team A,A,e61f22496f069930,IEM Cologne 2024
+Team B,B,e61f22496f069930,IEM Cologne 2024
+Team A,A,155ff2c0852b17d3,IEM Cologne 2024
+Team B,B,155ff2c0852b17d3,IEM Cologne 2024
+Team A,A,ca135f849d8168b3,IEM Cologne 2024
+Team B,B,ca135f849d8168b3,IEM Cologne 2024
+Team A,A,2cfe92e133f489cb,IEM Cologne 2024
+Team B,B,2cfe92e133f489cb,IEM Cologne 2024
+Team A,A,cd9055d8db7d8e06,IEM Cologne 2024
+Team B,B,cd9055d8db7d8e06,IEM Cologne 2024
+Team A,A,908f7db0781acc9c,IEM Cologne 2024
+Team B,B,908f7db0781acc9c,IEM Cologne 2024
+Team A,A,ec96ac7b5e6eac3b,IEM Cologne 2024
+Team B,B,ec96ac7b5e6eac3b,IEM Cologne 2024
+Team A,A,a1cfe52de3cfabce,IEM Cologne 2024
+Team B,B,a1cfe52de3cfabce,IEM Cologne 2024
+Team A,A,122dae6d6dcccf9d,IEM Cologne 2024
+Team B,B,122dae6d6dcccf9d,IEM Cologne 2024
+Team A,A,63af8363ac33087e,IEM Cologne 2024
+Team B,B,63af8363ac33087e,IEM Cologne 2024
+Team A,A,fee5b839e9b0261a,IEM Cologne 2024
+Team B,B,fee5b839e9b0261a,IEM Cologne 2024
+Team A,A,bf48a7c2b64a7d4d,IEM Cologne 2024
+Team B,B,bf48a7c2b64a7d4d,IEM Cologne 2024
+Team A,A,3aa93081726a8d4,IEM Cologne 2024
+Team B,B,3aa93081726a8d4,IEM Cologne 2024
+Team A,A,ced32bf6ad4c1f1f,IEM Cologne 2024
+Team B,B,ced32bf6ad4c1f1f,IEM Cologne 2024
+Team A,A,116acd0056a35cdc,IEM Cologne 2024
+Team B,B,116acd0056a35cdc,IEM Cologne 2024
+Team A,A,130b886587f8e16d,IEM Cologne 2024
+Team B,B,130b886587f8e16d,IEM Cologne 2024
+Team A,A,7ba49162ea30b2,IEM Cologne 2024
+Team B,B,7ba49162ea30b2,IEM Cologne 2024
+Team A,A,822c7e33b8ee6eb7,IEM Cologne 2024
+Team B,B,822c7e33b8ee6eb7,IEM Cologne 2024
+Team A,A,442a40197221b0e8,IEM Cologne 2024
+Team B,B,442a40197221b0e8,IEM Cologne 2024
+Team A,A,d2f7a03b1674d778,IEM Cologne 2024
+Team B,B,d2f7a03b1674d778,IEM Cologne 2024
+Team A,A,dd92241b9d5c092d,IEM Cologne 2024
+Team B,B,dd92241b9d5c092d,IEM Cologne 2024
+Team A,A,b136643b89df1bc7,IEM Cologne 2024
+Team B,B,b136643b89df1bc7,IEM Cologne 2024
+Team A,A,a8b29955aff2e924,IEM Cologne 2024
+Team B,B,a8b29955aff2e924,IEM Cologne 2024
+Team A,A,3a0954febc9545e4,IEM Cologne 2024
+Team B,B,3a0954febc9545e4,IEM Cologne 2024
+Team A,A,2e08b48b28bb0d50,IEM Cologne 2024
+Team B,B,2e08b48b28bb0d50,IEM Cologne 2024
+Team A,A,3e2d9dd98c882241,IEM Cologne 2024
+Team B,B,3e2d9dd98c882241,IEM Cologne 2024
+Team A,A,2a281b2205247b9b,IEM Cologne 2024
+Team B,B,2a281b2205247b9b,IEM Cologne 2024
+Team A,A,7ff30d10e47c178d,IEM Cologne 2024
+Team B,B,7ff30d10e47c178d,IEM Cologne 2024
+Team A,A,19043ca2644ec64c,IEM Cologne 2024
+Team B,B,19043ca2644ec64c,IEM Cologne 2024
+Team A,A,1e9fbfac35f4b122,IEM Cologne 2024
+Team B,B,1e9fbfac35f4b122,IEM Cologne 2024
+Team A,A,1bce9cdce4f2fd48,IEM Cologne 2024
+Team B,B,1bce9cdce4f2fd48,IEM Cologne 2024
+paiN Gaming,A,334d14486324acb7,IEM Cologne 2024
+The MongolZ,B,334d14486324acb7,IEM Cologne 2024
+The MongolZ,A,c058a89eec0bfd70,IEM Cologne 2024
+paiN Gaming,B,c058a89eec0bfd70,IEM Cologne 2024
+Team A,A,29ecef1f9e079f99,IEM Cologne 2024
+Team B,B,29ecef1f9e079f99,IEM Cologne 2024
+Team A,A,5c65313e815587c5,IEM Cologne 2024
+Team B,B,5c65313e815587c5,IEM Cologne 2024
+Virtus.pro,A,ea4335a6c3b0edb5,IEM Cologne 2024
+Complexity,B,ea4335a6c3b0edb5,IEM Cologne 2024
+Virtus.pro,A,b7eabed73a5dc0e9,IEM Cologne 2024
+Complexity,B,b7eabed73a5dc0e9,IEM Cologne 2024
+Team A,A,fcfa83e4b26a11c7,IEM Cologne 2024
+Team B,B,fcfa83e4b26a11c7,IEM Cologne 2024
+Virtus.pro,A,972fae36a6b8ed47,IEM Cologne 2024
+Complexity,B,972fae36a6b8ed47,IEM Cologne 2024
+Team A,A,7ef3521b43bd8aa7,IEM Cologne 2024
+Team B,B,7ef3521b43bd8aa7,IEM Cologne 2024
+Team A,A,9eea70b626ad8e8c,IEM Cologne 2024
+Team B,B,9eea70b626ad8e8c,IEM Cologne 2024
+Team A,A,7b68c25777f5f98e,IEM Cologne 2024
+Team B,B,7b68c25777f5f98e,IEM Cologne 2024
+Team A,A,e7f6ad96a1e1776a,IEM Cologne 2024
+Team B,B,e7f6ad96a1e1776a,IEM Cologne 2024
+Team A,A,9fc0d680cb41e309,IEM Cologne 2024
+Team B,B,9fc0d680cb41e309,IEM Cologne 2024
+Team A,A,d5e56284be0936bf,IEM Cologne 2024
+Team B,B,d5e56284be0936bf,IEM Cologne 2024
+Team A,A,fa062846a9c1dbbc,IEM Cologne 2024
+Team B,B,fa062846a9c1dbbc,IEM Cologne 2024
+Team A,A,f4f00466f4ada16,IEM Cologne 2024
+Team B,B,f4f00466f4ada16,IEM Cologne 2024
+Team A,A,bb0b9050007c02b4,IEM Cologne 2024
+Team B,B,bb0b9050007c02b4,IEM Cologne 2024
+Team A,A,4a14d61f0a0e8711,IEM Cologne 2024
+Team B,B,4a14d61f0a0e8711,IEM Cologne 2024
+Team A,A,a95c2cbda9eb69bd,IEM Cologne 2024
+Team B,B,a95c2cbda9eb69bd,IEM Cologne 2024
+Team A,A,4fbf6d778c87142b,IEM Cologne 2024
+Team B,B,4fbf6d778c87142b,IEM Cologne 2024
+Team A,A,ffc43eba23641897,IEM Cologne 2024
+Team B,B,ffc43eba23641897,IEM Cologne 2024
+Team A,A,3a5be6e4d45a306e,IEM Katowice 2025
+Team B,B,3a5be6e4d45a306e,IEM Katowice 2025
+Team A,A,bf5f494d030fe791,IEM Katowice 2025
+Team B,B,bf5f494d030fe791,IEM Katowice 2025
+Team A,A,7a873ef2dfe2748b,IEM Katowice 2025
+Team B,B,7a873ef2dfe2748b,IEM Katowice 2025
+Team A,A,6c679391a6dbcf2f,IEM Katowice 2025
+Team B,B,6c679391a6dbcf2f,IEM Katowice 2025
+Team A,A,59915953161c3f2c,IEM Katowice 2025
+Team B,B,59915953161c3f2c,IEM Katowice 2025
+Team A,A,2560f7943b930418,IEM Katowice 2025
+Team B,B,2560f7943b930418,IEM Katowice 2025
+Team A,A,60fb075c6ceb579d,IEM Katowice 2025
+Team B,B,60fb075c6ceb579d,IEM Katowice 2025
+Team A,A,24caf48b107978c8,IEM Katowice 2025
+Team B,B,24caf48b107978c8,IEM Katowice 2025
+Team A,A,f724d4d6b20a12bb,IEM Katowice 2025
+Team B,B,f724d4d6b20a12bb,IEM Katowice 2025
+Eternal Fire,A,81aee11eb055c1ff,IEM Katowice 2025
+Virtus.pro,B,81aee11eb055c1ff,IEM Katowice 2025
+Team A,A,d3c2cd2f022a60c2,IEM Katowice 2025
+Team B,B,d3c2cd2f022a60c2,IEM Katowice 2025
+Team Falcons,A,cbf08c5a4ea5b688,IEM Katowice 2025
+Eternal Fire,B,cbf08c5a4ea5b688,IEM Katowice 2025
+Team A,A,fbcad246a8dde6be,IEM Katowice 2025
+Team B,B,fbcad246a8dde6be,IEM Katowice 2025
+Team A,A,e537f0fbeee87b04,IEM Katowice 2025
+Team B,B,e537f0fbeee87b04,IEM Katowice 2025
+Team A,A,689e7c4b453a1b22,IEM Katowice 2025
+Team B,B,689e7c4b453a1b22,IEM Katowice 2025
+Team A,A,559ac651f961dcd4,IEM Katowice 2025
+Team B,B,559ac651f961dcd4,IEM Katowice 2025
+FaZe Clan,A,28433542262f6ce8,IEM Katowice 2025
+BIG,B,28433542262f6ce8,IEM Katowice 2025
+Team A,A,19d23a463472ab70,IEM Katowice 2025
+Team B,B,19d23a463472ab70,IEM Katowice 2025
+Team A,A,d9bcb36f06fcf029,IEM Katowice 2025
+Team B,B,d9bcb36f06fcf029,IEM Katowice 2025
+Team A,A,d6d0f7100c7b886a,IEM Katowice 2025
+Team B,B,d6d0f7100c7b886a,IEM Katowice 2025
+Team A,A,37b4c80e049802e4,IEM Katowice 2025
+Team B,B,37b4c80e049802e4,IEM Katowice 2025
+Astralis,A,693fb6f5fe54ada3,IEM Katowice 2025
+FURIA,B,693fb6f5fe54ada3,IEM Katowice 2025
+Team A,A,a841aa475f35b827,IEM Katowice 2025
+Team B,B,a841aa475f35b827,IEM Katowice 2025
+Team A,A,b1546cb16ce4f919,IEM Katowice 2025
+Team B,B,b1546cb16ce4f919,IEM Katowice 2025
+Astralis,A,7e2a3723b325ac32,IEM Katowice 2025
+FURIA,B,7e2a3723b325ac32,IEM Katowice 2025
+Team A,A,1d90a7887b738639,IEM Katowice 2025
+Team B,B,1d90a7887b738639,IEM Katowice 2025
+G2 Esports,A,45e1ab827f1078e8,IEM Katowice 2025
+FaZe Clan,B,45e1ab827f1078e8,IEM Katowice 2025
+Team A,A,2a9902e81ae40834,IEM Katowice 2025
+Team B,B,2a9902e81ae40834,IEM Katowice 2025
+FaZe Clan,A,751f3a46428921f2,IEM Katowice 2025
+G2 Esports,B,751f3a46428921f2,IEM Katowice 2025
+Team A,A,55f900d795622dae,IEM Katowice 2025
+Team B,B,55f900d795622dae,IEM Katowice 2025
+Team A,A,3374c692d0b7534,IEM Katowice 2025
+Team B,B,3374c692d0b7534,IEM Katowice 2025
+Team A,A,c56449524c6b814a,IEM Katowice 2025
+Team B,B,c56449524c6b814a,IEM Katowice 2025
+Team A,A,1cd7c5206b017384,IEM Katowice 2025
+Team B,B,1cd7c5206b017384,IEM Katowice 2025
+Team A,A,1cb455e4100595e,IEM Katowice 2025
+Team B,B,1cb455e4100595e,IEM Katowice 2025
+Team A,A,24aae0a026f21989,IEM Katowice 2025
+Team B,B,24aae0a026f21989,IEM Katowice 2025
+Team A,A,f0512b9774f1d4e0,IEM Katowice 2025
+Team B,B,f0512b9774f1d4e0,IEM Katowice 2025
+Team Spirit,A,466fcbf188bb4eeb,IEM Katowice 2025
+GamerLegion,B,466fcbf188bb4eeb,IEM Katowice 2025
+Team Spirit,A,6db171ff15dfdd09,IEM Katowice 2025
+GamerLegion,B,6db171ff15dfdd09,IEM Katowice 2025
+Team Spirit,A,d474cdcdbcd4e391,IEM Katowice 2025
+GamerLegion,B,d474cdcdbcd4e391,IEM Katowice 2025
+Team A,A,c051cd28c3fef2fb,IEM Katowice 2025
+Team B,B,c051cd28c3fef2fb,IEM Katowice 2025
+Team A,A,52f410db2e464ddf,IEM Katowice 2025
+Team B,B,52f410db2e464ddf,IEM Katowice 2025
+Team A,A,68f960e49f620eb6,IEM Katowice 2025
+Team B,B,68f960e49f620eb6,IEM Katowice 2025
+Team A,A,460cdd1cb28a18de,IEM Katowice 2025
+Team B,B,460cdd1cb28a18de,IEM Katowice 2025
+Team Spirit,A,ba4d5563629a1e42,IEM Katowice 2025
+Team Liquid,B,ba4d5563629a1e42,IEM Katowice 2025
+Team A,A,61cd6440284a9038,IEM Katowice 2025
+Team B,B,61cd6440284a9038,IEM Katowice 2025
+Team A,A,a0154a45e1d020a3,IEM Katowice 2025
+Team B,B,a0154a45e1d020a3,IEM Katowice 2025
+Team A,A,ac1380546b71e382,IEM Katowice 2025
+Team B,B,ac1380546b71e382,IEM Katowice 2025
+Team A,A,fd5f8a6034103d74,IEM Katowice 2025
+Team B,B,fd5f8a6034103d74,IEM Katowice 2025
+Team A,A,923d4f47b764dce7,IEM Katowice 2025
+Team B,B,923d4f47b764dce7,IEM Katowice 2025
+Team A,A,ebcee65afcd51cc1,IEM Katowice 2025
+Team B,B,ebcee65afcd51cc1,IEM Katowice 2025
+Team A,A,72cbe2c6ce383400,IEM Katowice 2025
+Team B,B,72cbe2c6ce383400,IEM Katowice 2025
+Team A,A,4a7f07789d54e3b7,IEM Katowice 2025
+Team B,B,4a7f07789d54e3b7,IEM Katowice 2025
+Team A,A,9db7975699fd0241,IEM Katowice 2025
+Team B,B,9db7975699fd0241,IEM Katowice 2025
+Natus Vincere,A,8c8bbaa2641a47f5,IEM Katowice 2025
+Team Spirit,B,8c8bbaa2641a47f5,IEM Katowice 2025
+Natus Vincere,A,e732cdb2060c513d,IEM Katowice 2025
+Team Spirit,B,e732cdb2060c513d,IEM Katowice 2025
+Team A,A,d283b059cd044a37,IEM Katowice 2025
+Team B,B,d283b059cd044a37,IEM Katowice 2025
+Team A,A,e5487aec09987be7,IEM Katowice 2025
+Team B,B,e5487aec09987be7,IEM Katowice 2025
+Team A,A,15ecd8037c10dd79,IEM Katowice 2025
+Team B,B,15ecd8037c10dd79,IEM Katowice 2025
+Team A,A,c4954bead7b0cea3,IEM Katowice 2025
+Team B,B,c4954bead7b0cea3,IEM Katowice 2025
+Astralis,A,2582d0e2275df235,IEM Katowice 2025
+Team Spirit,B,2582d0e2275df235,IEM Katowice 2025
+Team A,A,7c8d471088efabbd,IEM Katowice 2025
+Team B,B,7c8d471088efabbd,IEM Katowice 2025
+Team A,A,4314a9bfc52002d9,IEM Katowice 2025
+Team B,B,4314a9bfc52002d9,IEM Katowice 2025
+Team A,A,cde638435845fd7f,IEM Katowice 2025
+Team B,B,cde638435845fd7f,IEM Katowice 2025
+The MongolZ,A,12edef407a73615c,IEM Katowice 2025
+Eternal Fire,B,12edef407a73615c,IEM Katowice 2025
+Team A,A,b4ed316595c9e3ee,IEM Katowice 2025
+Team B,B,b4ed316595c9e3ee,IEM Katowice 2025
+The MongolZ,A,9169550a6483bf72,IEM Katowice 2025
+Team Liquid,B,9169550a6483bf72,IEM Katowice 2025
+Team Liquid,A,551f82d6a90513c,IEM Katowice 2025
+The MongolZ,B,551f82d6a90513c,IEM Katowice 2025
+Team A,A,9d28525a9109fae5,IEM Katowice 2025
+Team B,B,9d28525a9109fae5,IEM Katowice 2025
+Team A,A,b3e630844838d64a,IEM Katowice 2025
+Team B,B,b3e630844838d64a,IEM Katowice 2025
+Team A,A,d1a36e7ffefcc2b,IEM Katowice 2025
+Team B,B,d1a36e7ffefcc2b,IEM Katowice 2025
+Team A,A,ff97bf15fec913cc,IEM Katowice 2025
+Team B,B,ff97bf15fec913cc,IEM Katowice 2025
+Team A,A,389c398779c40eb7,IEM Katowice 2025
+Team B,B,389c398779c40eb7,IEM Katowice 2025
+Team A,A,2d40aa7843420a75,IEM Katowice 2025
+Team B,B,2d40aa7843420a75,IEM Katowice 2025
+Team A,A,fe4b8e62bc76e328,IEM Katowice 2025
+Team B,B,fe4b8e62bc76e328,IEM Katowice 2025
+Team A,A,9762731cfede72e3,IEM Katowice 2025
+Team B,B,9762731cfede72e3,IEM Katowice 2025
+Team A,A,570f8248223e79f2,IEM Katowice 2025
+Team B,B,570f8248223e79f2,IEM Katowice 2025
+Team A,A,21962835eb0afc65,IEM Katowice 2025
+Team B,B,21962835eb0afc65,IEM Katowice 2025
+3DMAX,A,338bf45269a7603e,IEM Katowice 2025
+Team Vitality,B,338bf45269a7603e,IEM Katowice 2025
+Team Vitality,A,210aa16e681afeb,IEM Katowice 2025
+3DMAX,B,210aa16e681afeb,IEM Katowice 2025
+Team A,A,35700478db137ecd,IEM Katowice 2025
+Team B,B,35700478db137ecd,IEM Katowice 2025
+Team A,A,383f3f966a667aac,IEM Katowice 2025
+Team B,B,383f3f966a667aac,IEM Katowice 2025
+Team A,A,da770bde2ceb32d,IEM Katowice 2025
+Team B,B,da770bde2ceb32d,IEM Katowice 2025
+Team A,A,195047b6d1906fc4,IEM Katowice 2025
+Team B,B,195047b6d1906fc4,IEM Katowice 2025
+Team A,A,da94e61682a859f4,IEM Katowice 2025
+Team B,B,da94e61682a859f4,IEM Katowice 2025
+Team A,A,9f4bfbc3b264416b,IEM Katowice 2025
+Team B,B,9f4bfbc3b264416b,IEM Katowice 2025
+Team A,A,c7e4db4643f03b80,IEM Katowice 2025
+Team B,B,c7e4db4643f03b80,IEM Katowice 2025
+Team A,A,f500563a00bf8c99,IEM Katowice 2025
+Team B,B,f500563a00bf8c99,IEM Katowice 2025
+MIBR,A,28c465f3ee6bd47f,Perfect World Shanghai Major 2024
+3DMAX,B,28c465f3ee6bd47f,Perfect World Shanghai Major 2024
+paiN Gaming,A,acf6b139f56e98ab,Perfect World Shanghai Major 2024
+3DMAX,B,acf6b139f56e98ab,Perfect World Shanghai Major 2024
+G2 Esports,A,ec6d6c73b46d11c0,Perfect World Shanghai Major 2024
+FaZe Clan,B,ec6d6c73b46d11c0,Perfect World Shanghai Major 2024
+FaZe Clan,A,f4214f7df48008c1,Perfect World Shanghai Major 2024
+G2 Esports,B,f4214f7df48008c1,Perfect World Shanghai Major 2024
+paiN Gaming,A,dbbf762636f7a70d,Perfect World Shanghai Major 2024
+BIG,B,dbbf762636f7a70d,Perfect World Shanghai Major 2024
+paiN Gaming,A,8863fb1ebba84df1,Perfect World Shanghai Major 2024
+BIG,B,8863fb1ebba84df1,Perfect World Shanghai Major 2024
+BIG,A,4d8ded1a139bbd27,Perfect World Shanghai Major 2024
+paiN Gaming,B,4d8ded1a139bbd27,Perfect World Shanghai Major 2024
+FaZe Clan,A,681745a2b9b36b8b,Perfect World Shanghai Major 2024
+FURIA,B,681745a2b9b36b8b,Perfect World Shanghai Major 2024
+FaZe Clan,A,6a0a0abd5ac9d66e,Perfect World Shanghai Major 2024
+FURIA,B,6a0a0abd5ac9d66e,Perfect World Shanghai Major 2024
+FURIA,A,9d7f5d821f100013,Perfect World Shanghai Major 2024
+FaZe Clan,B,9d7f5d821f100013,Perfect World Shanghai Major 2024
+FaZe Clan,A,83e4fbd18cd20dca,Perfect World Shanghai Major 2024
+HEROIC,B,83e4fbd18cd20dca,Perfect World Shanghai Major 2024
+FaZe Clan,A,a9a03854402ccebc,Perfect World Shanghai Major 2024
+Wildcard,B,a9a03854402ccebc,Perfect World Shanghai Major 2024
+FURIA,A,f10e0880161eacf8,Perfect World Shanghai Major 2024
+Team Liquid,B,f10e0880161eacf8,Perfect World Shanghai Major 2024
+paiN Gaming,A,3fe31655cc583b78,Perfect World Shanghai Major 2024
+FURIA,B,3fe31655cc583b78,Perfect World Shanghai Major 2024
+paiN Gaming,A,668f0048bae3a840,Perfect World Shanghai Major 2024
+FURIA,B,668f0048bae3a840,Perfect World Shanghai Major 2024
+paiN Gaming,A,cac181c5b74593da,Perfect World Shanghai Major 2024
+FURIA,B,cac181c5b74593da,Perfect World Shanghai Major 2024
+G2 Esports,A,5d82c197f1fb3742,Perfect World Shanghai Major 2024
+3DMAX,B,5d82c197f1fb3742,Perfect World Shanghai Major 2024
+G2 Esports,A,664f6d1460b54fe0,Perfect World Shanghai Major 2024
+BIG,B,664f6d1460b54fe0,Perfect World Shanghai Major 2024
+G2 Esports,A,e1cc574fa1fb85cf,Perfect World Shanghai Major 2024
+FaZe Clan,B,e1cc574fa1fb85cf,Perfect World Shanghai Major 2024
+FaZe Clan,A,1c4087b5b67b4893,Perfect World Shanghai Major 2024
+G2 Esports,B,1c4087b5b67b4893,Perfect World Shanghai Major 2024
+G2 Esports,A,a1b3c609bf8137ee,Perfect World Shanghai Major 2024
+HEROIC,B,a1b3c609bf8137ee,Perfect World Shanghai Major 2024
+HEROIC,A,78951c54d5b89f43,Perfect World Shanghai Major 2024
+G2 Esports,B,78951c54d5b89f43,Perfect World Shanghai Major 2024
+G2 Esports,A,741ea759430310d5,Perfect World Shanghai Major 2024
+HEROIC,B,741ea759430310d5,Perfect World Shanghai Major 2024
+G2 Esports,A,be7592a0ed336b74,Perfect World Shanghai Major 2024
+The MongolZ,B,be7592a0ed336b74,Perfect World Shanghai Major 2024
+GamerLegion,A,ac8e5c6252db1914,Perfect World Shanghai Major 2024
+Wildcard,B,ac8e5c6252db1914,Perfect World Shanghai Major 2024
+Wildcard,A,972dbb55aad22b11,Perfect World Shanghai Major 2024
+GamerLegion,B,972dbb55aad22b11,Perfect World Shanghai Major 2024
+Wildcard,A,8f9b843b6ca827f0,Perfect World Shanghai Major 2024
+GamerLegion,B,8f9b843b6ca827f0,Perfect World Shanghai Major 2024
+HEROIC,A,1eaf60db2b3ea175,Perfect World Shanghai Major 2024
+BIG,B,1eaf60db2b3ea175,Perfect World Shanghai Major 2024
+Natus Vincere,A,a607bf54206a996f,Perfect World Shanghai Major 2024
+HEROIC,B,a607bf54206a996f,Perfect World Shanghai Major 2024
+HEROIC,A,d04c778ce7c7c19d,Perfect World Shanghai Major 2024
+Natus Vincere,B,d04c778ce7c7c19d,Perfect World Shanghai Major 2024
+Natus Vincere,A,de81313f67acf632,Perfect World Shanghai Major 2024
+HEROIC,B,de81313f67acf632,Perfect World Shanghai Major 2024
+Team Liquid,A,35caae1cd19b2165,Perfect World Shanghai Major 2024
+GamerLegion,B,35caae1cd19b2165,Perfect World Shanghai Major 2024
+Team Liquid,A,a9726820737c06ab,Perfect World Shanghai Major 2024
+MIBR,B,a9726820737c06ab,Perfect World Shanghai Major 2024
+Team Liquid,A,550b985a66c74143,Perfect World Shanghai Major 2024
+MIBR,B,550b985a66c74143,Perfect World Shanghai Major 2024
+Team Liquid,A,e2c504ef47a8744b,Perfect World Shanghai Major 2024
+MIBR,B,e2c504ef47a8744b,Perfect World Shanghai Major 2024
+MIBR,A,784c2b49e66c4b7d,Perfect World Shanghai Major 2024
+MOUZ,B,784c2b49e66c4b7d,Perfect World Shanghai Major 2024
+MOUZ,A,d6eb00837fac017d,Perfect World Shanghai Major 2024
+MIBR,B,d6eb00837fac017d,Perfect World Shanghai Major 2024
+MOUZ,A,9ce52500e7bd6ed8,Perfect World Shanghai Major 2024
+3DMAX,B,9ce52500e7bd6ed8,Perfect World Shanghai Major 2024
+3DMAX,A,fb582ab0d92b58af,Perfect World Shanghai Major 2024
+MOUZ,B,fb582ab0d92b58af,Perfect World Shanghai Major 2024
+MOUZ,A,c41bd8610a8ab9b6,Perfect World Shanghai Major 2024
+FaZe Clan,B,c41bd8610a8ab9b6,Perfect World Shanghai Major 2024
+MOUZ,A,ee67dce02c26b312,Perfect World Shanghai Major 2024
+paiN Gaming,B,ee67dce02c26b312,Perfect World Shanghai Major 2024
+Team Spirit,A,1ec3d3f6cf6f10be,Perfect World Shanghai Major 2024
+MOUZ,B,1ec3d3f6cf6f10be,Perfect World Shanghai Major 2024
+MOUZ,A,ab30e6c6bb29f880,Perfect World Shanghai Major 2024
+Team Spirit,B,ab30e6c6bb29f880,Perfect World Shanghai Major 2024
+Team Spirit,A,d538f36cb94c95e3,Perfect World Shanghai Major 2024
+MOUZ,B,d538f36cb94c95e3,Perfect World Shanghai Major 2024
+MOUZ,A,d6edbce1ba18ad0a,Perfect World Shanghai Major 2024
+The MongolZ,B,d6edbce1ba18ad0a,Perfect World Shanghai Major 2024
+Natus Vincere,A,b2e2a4d89e1c7d63,Perfect World Shanghai Major 2024
+GamerLegion,B,b2e2a4d89e1c7d63,Perfect World Shanghai Major 2024
+Natus Vincere,A,4f38eb5b1d370d88,Perfect World Shanghai Major 2024
+GamerLegion,B,4f38eb5b1d370d88,Perfect World Shanghai Major 2024
+Natus Vincere,A,c15cf089fc3e505a,Perfect World Shanghai Major 2024
+Team Liquid,B,c15cf089fc3e505a,Perfect World Shanghai Major 2024
+Natus Vincere,A,993a3866aec86821,Perfect World Shanghai Major 2024
+MIBR,B,993a3866aec86821,Perfect World Shanghai Major 2024
+Natus Vincere,A,614394a2c0c3e48,Perfect World Shanghai Major 2024
+Team Spirit,B,614394a2c0c3e48,Perfect World Shanghai Major 2024
+Team Spirit,A,25f8330ee031d4c5,Perfect World Shanghai Major 2024
+FaZe Clan,B,25f8330ee031d4c5,Perfect World Shanghai Major 2024
+FaZe Clan,A,ae8acf53d96c9a40,Perfect World Shanghai Major 2024
+Team Spirit,B,ae8acf53d96c9a40,Perfect World Shanghai Major 2024
+Team Spirit,A,7ae9740a4a1599be,Perfect World Shanghai Major 2024
+FaZe Clan,B,7ae9740a4a1599be,Perfect World Shanghai Major 2024
+Team Spirit,A,95cf3723443424db,Perfect World Shanghai Major 2024
+FURIA,B,95cf3723443424db,Perfect World Shanghai Major 2024
+HEROIC,A,823e1b1ec1f8acde,Perfect World Shanghai Major 2024
+Team Spirit,B,823e1b1ec1f8acde,Perfect World Shanghai Major 2024
+Team Spirit,A,7251ef81f4d63579,Perfect World Shanghai Major 2024
+HEROIC,B,7251ef81f4d63579,Perfect World Shanghai Major 2024
+HEROIC,A,cc72eab6abebddfb,Perfect World Shanghai Major 2024
+Team Spirit,B,cc72eab6abebddfb,Perfect World Shanghai Major 2024
+Team Spirit,A,d62ae962a7eb3c3b,Perfect World Shanghai Major 2024
+Team Liquid,B,d62ae962a7eb3c3b,Perfect World Shanghai Major 2024
+Team Liquid,A,8855159dbc2f9b32,Perfect World Shanghai Major 2024
+Team Spirit,B,8855159dbc2f9b32,Perfect World Shanghai Major 2024
+Team Spirit,A,f807a7ad93891ce5,Perfect World Shanghai Major 2024
+Wildcard,B,f807a7ad93891ce5,Perfect World Shanghai Major 2024
+HEROIC,A,9b81f93091aaeaf9,Perfect World Shanghai Major 2024
+The MongolZ,B,9b81f93091aaeaf9,Perfect World Shanghai Major 2024
+HEROIC,A,6ae6208fb5c39fb0,Perfect World Shanghai Major 2024
+The MongolZ,B,6ae6208fb5c39fb0,Perfect World Shanghai Major 2024
+HEROIC,A,43c6e2fb9051e355,Perfect World Shanghai Major 2024
+The MongolZ,B,43c6e2fb9051e355,Perfect World Shanghai Major 2024
+MOUZ,A,540b5836270265df,Perfect World Shanghai Major 2024
+The MongolZ,B,540b5836270265df,Perfect World Shanghai Major 2024
+The MongolZ,A,4267d9c850749520,Perfect World Shanghai Major 2024
+MOUZ,B,4267d9c850749520,Perfect World Shanghai Major 2024
+Vitality,A,c243fc28328815c,Perfect World Shanghai Major 2024
+FaZe Clan,B,c243fc28328815c,Perfect World Shanghai Major 2024
+FaZe Clan,A,bc1d6ce5a6d3a4b7,Perfect World Shanghai Major 2024
+Vitality,B,bc1d6ce5a6d3a4b7,Perfect World Shanghai Major 2024
+FaZe Clan,A,ef5428fc5dae1544,Perfect World Shanghai Major 2024
+Vitality,B,ef5428fc5dae1544,Perfect World Shanghai Major 2024
+Vitality,A,78b35a05e1f27c73,Perfect World Shanghai Major 2024
+FURIA,B,78b35a05e1f27c73,Perfect World Shanghai Major 2024
+Vitality,A,2740f54047c83411,Perfect World Shanghai Major 2024
+GamerLegion,B,2740f54047c83411,Perfect World Shanghai Major 2024
+MIBR,A,b3f709fcb800bb07,Perfect World Shanghai Major 2024
+Vitality,B,b3f709fcb800bb07,Perfect World Shanghai Major 2024
+MIBR,A,294467d4121747c,Perfect World Shanghai Major 2024
+Vitality,B,294467d4121747c,Perfect World Shanghai Major 2024
