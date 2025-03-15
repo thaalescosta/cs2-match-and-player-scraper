@@ -22,9 +22,12 @@ I won't go into too much detail about what exactly they're doing, but in summary
 This was done so I'm able to create dimension tables containing information on all Players and their respective teams.
 
 **ExtractMatchData.ipynb** is a bit more complex and can be divided into three parts:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. First part aims to download the demos of all matches played within the chosen tournaments. For this to happen the script had to first scrape the list of all matches, then make GET requests in order to fetch the direct links so it can finally download the demos.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Second part is to analyze every single demo using a modified CSDA.exe (you can learn more about it on their [repository](https://github.com/akiver/cs-demo-analyzer)). All data extracted from the demos are stored in dataframes as well.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Third part is inserting the dataframes into a MySQL database I called dbCS2.
+
+**1.** First part aims to download the demos of all matches played within the chosen tournaments. For this to happen the script had to first scrape the list of all matches, then make GET requests in order to fetch the direct links so it can finally download the demos.
+
+**2.** Second part is to analyze every single demo using a modified CSDA.exe (you can learn more about it on their [repository](https://github.com/akiver/cs-demo-analyzer)). All data extracted from the demos are stored in dataframes as well.
+
+**3.** Third part is inserting the dataframes into a MySQL database I called dbCS2.
 
 After that, it's a matter of cleaning and transforming all of these tables into an actual usable structure, defining what my fact and dimension tables will look like. **WORK IN PROGRESS...**
 
