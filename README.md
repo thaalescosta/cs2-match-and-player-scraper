@@ -74,7 +74,7 @@ I made it so every download and output from these scripts are saved into the clo
 
 To clone this repository and run the scripts:
 ```
-git clone https://github.com/yourusername/cs2-match-and-player-scraper.git
+git clone https://github.com/thaalescosta/cs2-match-and-player-scraper.git
 ```
 Install the _requirements.txt_ file:
 ```
