@@ -6,6 +6,8 @@ After some googling, I figured why not make my own dataset with the data I actua
 
 And while I'm at it, why not make it more interesting and maybe create a database in MySQL and a Power BI dashboard?  
 
+You can check out a bit more in the [**`cs2-demo-analyzer.pdf`**](https://github.com/thaalescosta/cs2-match-and-player-scraper/blob/main/cs2-demo-analyzer.pdf)
+
 ---
 
 ![Getting the data](https://github.com/thaalescosta/cs2-match-and-player-scraper/blob/main/ExtractMatchData/_resources/diagram.png)  
