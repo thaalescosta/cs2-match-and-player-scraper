@@ -8,6 +8,12 @@ And while I'm at it, why not make it more interesting and maybe create a databas
 
 You can check out a bit more in the [**`cs2-demo-analyzer.pdf`**](https://github.com/thaalescosta/cs2-match-and-player-scraper/blob/main/cs2-demo-analyzer.pdf)
 
+## PC specs used to run this
+- Ryzen 7 5700X3D
+- NVIDIA GeForce 4070 Ti Super
+- 32Gb DDR4 @ 3200Mhz
+- High Read/Write speeds NVMe storage
+
 ---
 
 ![Getting the data](https://github.com/thaalescosta/cs2-match-and-player-scraper/blob/main/ExtractMatchData/_resources/diagram.png)  
