@@ -4,3 +4,4 @@
 **/bkp/
 # Jupyter Notebook
 .ipynb_checkpoints
+.venv/
