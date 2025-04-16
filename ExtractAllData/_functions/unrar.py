@@ -21,8 +21,8 @@ def process_dem_file(dem_file: str) -> Optional[Dict]:
         p_value = p_match.group(1) if p_match else None
 
         return {
-            'event_id': event_id,
-            'match_id': match_id,
+            'event_id': str(event_id),  # Convert to string to match tournaments_df type
+            'match_id': str(match_id),  # Convert to string to match tournaments_df type
             'map_n': map_number,
             'p': p_value,
             'demo_filename': dem_file
@@ -31,14 +31,14 @@ def process_dem_file(dem_file: str) -> Optional[Dict]:
         print(f"Error processing {dem_file}: {e}")
         return None
 
-def unrar(tournaments_df: pd.DataFrame) -> pd.DataFrame:
+def unrar(tournaments_df):
     root_path = tournaments_df.iloc[0]['root']
-    rarfile.UNRAR_TOOL = os.path.join(root_path, "_resources", "UnRAR.exe")
-    source_folder = os.path.join(root_path, "downloads", 'demos')
-
+    rarfile.UNRAR_TOOL = os.path.join(root_path, r"_resources", r"UnRAR.exe")  # Fixed case sensitivity
+    source_folder = os.path.join(root_path, r"downloads", r"demos")
+    
     rar_files = [f for f in os.listdir(source_folder) if f.endswith('.rar')]
-    print(f"Total .rar files to extract: {len(rar_files)}")
-    print("Starting extraction...", flush=True)
+    # print(f"Total .rar files to extract: {len(rar_files)}")
+    # print("Starting extraction...", flush=True)
     
     if not rar_files:
         print("No .rar files found for extraction.")
@@ -47,69 +47,67 @@ def unrar(tournaments_df: pd.DataFrame) -> pd.DataFrame:
     destinations = set()
     all_dem_info = []
 
-    for rar_filename in rar_files:
-        print(f"Extracting: {rar_filename}")
-        
-        event_id = extract_file_info(rar_filename, r'E(\d+)_')
-        match_id = extract_file_info(rar_filename, r'M(\d+)_')
-        
-        if not all([event_id, match_id]):
-            print(f"Could not find event/match ID in filename: {rar_filename}")
-            continue
+    from tqdm import tqdm
 
-        match = tournaments_df[(tournaments_df['event_id'] == event_id) & 
-                             (tournaments_df['match_id'] == match_id)]
+    for rar_filename in tqdm(rar_files, unit="file", desc="Extracting RAR files"):
+        # Find the first matching tournament value for the .rar file
+        row = tournaments_df[tournaments_df['file_name'] == rar_filename].iloc[0]
         
-        if match.empty:
-            continue
+        tournament = row['tournament']  # Get the tournament value
+        destination_folder = os.path.join(tournaments_df.iloc[0]['root'], r"downloads", r'unpacked_demos', tournament)
 
-        tournament = match['tournament'].values[0]
-        destination_folder = os.path.join(root_path, "downloads", 'unpacked_demos', tournament)
+        # Create the destination folder if it doesn't exist
         os.makedirs(destination_folder, exist_ok=True)
-        destinations.add(destination_folder)
 
         rar_path = os.path.join(source_folder, rar_filename)
-        
+
         try:
+            event_id = str(extract_file_info(rar_filename, r'E(\d+)_'))  # Convert to string
+            match_id = str(extract_file_info(rar_filename, r'M(\d+)_'))  # Convert to string
+            
+            if not all([event_id, match_id]):
+                print(f"Could not find event/match ID in filename: {rar_filename}")
+                continue
+
+            os.makedirs(destination_folder, exist_ok=True)
+            destinations.add(destination_folder)
+
+            rar_path = os.path.join(source_folder, rar_filename)
+            
             # First check if the file exists and is accessible
             if not os.path.exists(rar_path):
                 print(f"RAR file not found: {rar_path}")
                 continue
                 
-            # Try to open the RAR file
-            with rarfile.RarFile(rar_path) as rf:
-                # Extract all files
-                rf.extractall(destination_folder)
+            # print(f"Extracting {rar_filename} to {destination_folder}")
+            rf = rarfile.RarFile(rar_path)
+            rf.extractall(destination_folder)
+
+            extracted_files = [f for f in os.listdir(destination_folder) if f.endswith('.dem')]
+            if not extracted_files:
+                print(f"No .dem files found in {rar_filename}")
+                continue
                 
-                # Process extracted .dem files
-                extracted_files = [f for f in os.listdir(destination_folder) if f.endswith('.dem')]
-                if not extracted_files:
-                    print(f"No .dem files found in {rar_filename}")
-                    continue
+            for dem_file in extracted_files:
+                if not re.match(r'^E\d+_M\d+_', dem_file):
+                    old_path = os.path.join(destination_folder, dem_file)
+                    new_name = f"E{event_id}_M{match_id}_{dem_file}"
+                    new_path = os.path.join(destination_folder, new_name)
+                    os.rename(old_path, new_path)
                     
-                for dem_file in extracted_files:
-                    if not re.match(r'^E\d+_M\d+_', dem_file):
-                        old_path = os.path.join(destination_folder, dem_file)
-                        new_name = f"E{event_id}_M{match_id}_{dem_file}"
-                        new_path = os.path.join(destination_folder, new_name)
-                        os.rename(old_path, new_path)
-                        
-                # Verify extraction was successful
-                if not any(f.endswith('.dem') for f in os.listdir(destination_folder)):
-                    print(f"Warning: No .dem files found after extraction in {destination_folder}")
+            # Verify extraction was successful
+            if not any(f.endswith('.dem') for f in os.listdir(destination_folder)):
+                print(f"Warning: No .dem files found after extraction in {destination_folder}")
 
-        except rarfile.RarCannotExec as e:
-            print(f"Error extracting {rar_filename}: {e}. Ensure 'unrar' is installed and accessible.")
-        except rarfile.BadRarFile as e:
-            print(f"Bad RAR file {rar_filename}: {e}")
+            tournaments_df.loc[
+                (tournaments_df['event_id'].astype(str) == event_id) & 
+                (tournaments_df['match_id'].astype(str) == match_id), 
+                'demo_path'
+            ] = destination_folder
+
         except Exception as e:
-            print(f"An error occurred with {rar_filename}: {e}")
-
-        tournaments_df.loc[
-            (tournaments_df['event_id'] == event_id) & 
-            (tournaments_df['match_id'] == match_id), 
-            'demo_path'
-        ] = destination_folder
+            print(f"Error processing {rar_filename}: {e}")
+            continue
 
     # Process all extracted dem files
     for destination_folder in destinations:
@@ -124,6 +122,10 @@ def unrar(tournaments_df: pd.DataFrame) -> pd.DataFrame:
 
     dem_info = pd.DataFrame(all_dem_info) if all_dem_info else pd.DataFrame()
     if not dem_info.empty:
+        # Convert event_id and match_id to string in tournaments_df for consistent merging
+        tournaments_df['event_id'] = tournaments_df['event_id'].astype(str)
+        tournaments_df['match_id'] = tournaments_df['match_id'].astype(str)
+        
         tournaments_df = pd.merge(
             tournaments_df,
             dem_info,

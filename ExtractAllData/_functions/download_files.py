@@ -84,13 +84,14 @@ def download_files(tournaments_df):
     progress_bar.close()
     driver.quit()
     
-    # Map file names to all matching rows in the DataFrame
+    # Create a standardized filename for each demo file using event_id and match_id
+    # Format: E{event_id}_M{match_id}_{original_filename}
     tournaments_df['file_name'] = tournaments_df.apply(
         lambda row: f"E{row['event_id']}_M{row['match_id']}_{row['direct_url_demo'].split('/')[-1]}", 
         axis=1
     )
     
-    # # Rename downloaded files to add the prefix
+    # Rename downloaded files to add the prefix
     for _, row in tournaments_df.iterrows():
         old_name = row['direct_url_demo'].split('/')[-1]
         new_name = f"E{row['event_id']}_M{row['match_id']}_{old_name}"

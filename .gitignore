@@ -4,4 +4,6 @@
 **/bkp/
 # Jupyter Notebook
 .ipynb_checkpoints
-.venv/
+**/.venv/
+**/.vscode/
+**/downloads

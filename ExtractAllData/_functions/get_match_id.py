@@ -136,7 +136,7 @@ def get_match_ids(tournaments_df: pd.DataFrame) -> pd.DataFrame:
     total_matches = len(tournaments_df['url'])
     
     with tqdm(total=total_matches, desc="Fetching Match IDs", unit="match", ncols=100) as pbar:
-        with ThreadPoolExecutor(max_workers=5) as executor:
+        with ThreadPoolExecutor(max_workers=4) as executor:
             futures = [executor.submit(process_match, row) for _, row in tournaments_df.iterrows()]
             
             for future in as_completed(futures):
